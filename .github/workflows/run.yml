@@ -1,0 +1,52 @@
+name: nobitex-executor
+
+on:
+  schedule:
+    # هر ۵ ساعت و ۲۰ دقیقه یک اجرای جدید شروع می‌شود (هر اجرا خودش تا سقف
+    # LOOP_MAX_SECONDS به‌صورت پیوسته حلقه می‌زند و پیام‌های کانال را
+    # به‌صورت زنده poll می‌کند - نه اینکه فقط یک‌بار چک کند و تمام شود).
+    - cron: "20 */5 * * *"
+  workflow_dispatch: {}
+
+# اجازه نده دو اجرا هم‌زمان روی هم بیفتند (وگرنه هر دو با هم روی state.json
+# می‌نویسند و ممکن است سفارش تکراری ثبت شود).
+concurrency:
+  group: nobitex-executor
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350  # کمی بیشتر از LOOP_MAX_SECONDS پیش‌فرض (۵ ساعت و ۲۰ دقیقه)
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run executor
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
+          NOBITEX_PUBLIC_KEY: ${{ secrets.NOBITEX_PUBLIC_KEY }}
+          NOBITEX_PRIVATE_KEY: ${{ secrets.NOBITEX_PRIVATE_KEY }}
+          NOBITEX_BASE_URL: ${{ secrets.NOBITEX_BASE_URL }}
+          RISK_MARGIN_USDT: ${{ secrets.RISK_MARGIN_USDT }}
+          LEVERAGE: ${{ secrets.LEVERAGE }}
+        run: python executor.py
+
+      - name: Commit updated state.json
+        if: always()
+        run: |
+          git config user.name "nobitex-executor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if [ -f state.json ]; then
+            git add state.json
+            git diff --cached --quiet || git commit -m "chore: update state.json [skip ci]"
+            git push
+          fi
