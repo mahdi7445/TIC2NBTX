@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+executor.log
+state.json
+telegram-github-bridge/bridge_state.json
+telegram-github-bridge/signals.jsonl
+telegram-github-bridge/outbox.jsonl
