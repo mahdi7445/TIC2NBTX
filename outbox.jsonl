@@ -7,3 +7,4 @@
 {"ts": 1788952940.234591, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk=$1 · Leverage=5x · GitHub=mahdi7445/TIC2NBTX"}
 {"ts": 1788952943.0854588, "text": "🔄 Startup reconciliation: state=0, Nobitex active=0"}
 {"ts": 1788952945.1577954, "text": "⚠️ Channel message could not be parsed; no exchange action taken:\n📊 DAILY SIGNAL PERFORMANCE — 2026-09-05\n\n📤 New signals issued today: 0\nNo signals closed today."}
+{"ts": 1788952946.9313412, "text": "📥 سیگنال دریافت شد\nBTC_15M · LONG\nEntry=79850.0 · SL=79619.8\nRisk=$1 · Leverage=5x\nCalculated amount=0.0043440486 BTC\nNotional≈$346.8723 · Collateral≈$69.3745"}
