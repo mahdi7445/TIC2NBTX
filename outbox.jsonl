@@ -6,3 +6,4 @@
 {"ts": 1788692004.123448, "text": "🚨 Main loop error #1: 404 Client Error: Not Found for url: https://api.github.com/repos/mahdi7445/TIC2NBTX/contents/signals.jsonl?ref=main"}
 {"ts": 1788952940.234591, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk=$1 · Leverage=5x · GitHub=mahdi7445/TIC2NBTX"}
 {"ts": 1788952943.0854588, "text": "🔄 Startup reconciliation: state=0, Nobitex active=0"}
+{"ts": 1788952945.1577954, "text": "⚠️ Channel message could not be parsed; no exchange action taken:\n📊 DAILY SIGNAL PERFORMANCE — 2026-09-05\n\n📤 New signals issued today: 0\nNo signals closed today."}
