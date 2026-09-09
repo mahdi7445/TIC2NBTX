@@ -57,3 +57,4 @@
 {"ts": 1788953124.0828466, "text": "🚨 Unexpected executor error for channel message update_id=85706475: InsufficientBalance: Insufficient Balance"}
 {"ts": 1788953132.5313103, "text": "📥 سیگنال دریافت شد\nBTC_15M · LONG\nEntry=79850.0 · SL=79619.8\nRisk=$1 · Leverage=5x\nCalculated amount=0.0043440486 BTC\nNotional≈$346.8723 · Collateral≈$69.3745"}
 {"ts": 1788953134.5939975, "text": "❌ اجرای سیگنال BTC_15M شکست خورد: InsufficientBalance: Insufficient Balance"}
+{"ts": 1788953136.1890817, "text": "🚨 Unexpected executor error for channel message update_id=85706475: InsufficientBalance: Insufficient Balance"}
