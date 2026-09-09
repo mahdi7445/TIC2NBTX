@@ -169,3 +169,4 @@
 {"ts": 1788953620.6320791, "text": "📥 سیگنال دریافت شد\nBTC_15M · LONG\nEntry=79850.0 · SL=79619.8\nRisk=$1 · Leverage=5x\nCalculated amount=0.0043440486 BTC\nNotional≈$346.8723 · Collateral≈$69.3745"}
 {"ts": 1788953623.9096823, "text": "❌ اجرای سیگنال BTC_15M شکست خورد: InsufficientBalance: Insufficient Balance"}
 {"ts": 1788953626.235695, "text": "🚨 Unexpected executor error for channel message update_id=85706475: InsufficientBalance: Insufficient Balance"}
+{"ts": 1788953634.1666112, "text": "📥 سیگنال دریافت شد\nBTC_15M · LONG\nEntry=79850.0 · SL=79619.8\nRisk=$1 · Leverage=5x\nCalculated amount=0.0043440486 BTC\nNotional≈$346.8723 · Collateral≈$69.3745"}
