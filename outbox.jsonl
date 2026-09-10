@@ -25,3 +25,4 @@
 {"ts": 1789050187.8622801, "text": "🛠 فرمان tg-85706580 اجرا شد\n🔄 Reconciliation اجرا شد؛ گزارش کامل آن در تلگرام ارسال شد."}
 {"ts": 1789050191.0598848, "text": "📥 سیگنال دریافت شد\nSOL_15M · SHORT\nEntry=99.48 · SL=101.94\nRisk cap=$1 · Effective risk≈$0.1546 · Leverage=5x\nCalculated amount=0.0628266988 SOL\nNotional≈$6.2500 · Collateral≈$1.2500 · Margin available=18.7713"}
 {"ts": 1789050203.3987107, "text": "🚨 SOL_15M: سفارش ورود پذیرفته شد اما positionId پیدا نشد؛ فوراً حساب را بررسی کنید."}
+{"ts": 1789050512.3712194, "text": "🛠 فرمان tg-85706582 اجرا شد\n❌ خواندن لاگ ناموفق بود: name 'Path' is not defined"}
