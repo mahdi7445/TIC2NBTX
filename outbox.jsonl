@@ -14,3 +14,4 @@
 {"ts": 1789044491.3087351, "text": "🔄 Startup reconciliation: state=0, Nobitex active=1"}
 {"ts": 1789045298.3898125, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage=5x · GitHub=mahdi7445/TIC2NBTX"}
 {"ts": 1789045300.32526, "text": "🔄 Startup reconciliation: state=0, Nobitex active=1"}
+{"ts": 1789047225.2240455, "text": "🚨 Main loop error #1: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=15)"}
