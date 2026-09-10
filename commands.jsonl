@@ -5,3 +5,5 @@
 {"command_id": "tg-85706578", "update_id": 85706578, "ts": 1789047096.1473904, "command": "/logs"}
 {"command_id": "tg-85706580", "update_id": 85706580, "ts": 1789049948.8265026, "command": "/reconcile"}
 {"command_id": "tg-85706582", "update_id": 85706582, "ts": 1789050458.0018508, "command": "/logs"}
+{"command_id": "tg-85706585", "update_id": 85706585, "ts": 1789059838.5124059, "command": "/balance"}
+{"command_id": "tg-85706586", "update_id": 85706586, "ts": 1789059841.5333056, "command": "/status"}
