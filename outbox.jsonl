@@ -11,3 +11,4 @@
 {"ts": 1789043923.5779948, "text": "📥 سیگنال دریافت شد\nBTC_5M · SHORT\nEntry=77824.29 · SL=78112.42\nRisk cap=$1 · Effective risk≈$0.0231 · Leverage=5x\nCalculated amount=0.0000803091 BTC\nNotional≈$6.2500 · Collateral≈$1.2500 · Margin available=20.0063"}
 {"ts": 1789043934.783138, "text": "🚨 BTC_5M: سفارش ورود پذیرفته شد اما positionId پیدا نشد؛ فوراً حساب را بررسی کنید."}
 {"ts": 1789044488.931349, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage=5x · GitHub=mahdi7445/TIC2NBTX"}
+{"ts": 1789044491.3087351, "text": "🔄 Startup reconciliation: state=0, Nobitex active=1"}
