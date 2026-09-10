@@ -17,3 +17,4 @@
 {"ts": 1789047225.2240455, "text": "🚨 Main loop error #1: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=15)"}
 {"ts": 1789047312.5520065, "text": "🛠 فرمان tg-85706575 اجرا شد\n📈 پوزیشن‌های فعال: 1\n#118522166 BTC/USDT SELL · entry=77184.87 · liability=0.0000801042 · PNL=0.0005228296752"}
 {"ts": 1789047315.0031116, "text": "🛠 فرمان tg-85706577 اجرا شد\n📊 وضعیت\nExecutor: 🟢 online\nورود جدید: 🟢 فعال\nRisk cap: 1 USDT\nMax collateral/trade: 1.25 USDT\nMax open trades: 15\nOpen trades(state): 0\nMargin USDT: 18.771290169"}
+{"ts": 1789047316.3597813, "text": "🛠 فرمان tg-85706578 اجرا شد\n❌ خواندن لاگ ناموفق بود: name 'Path' is not defined"}
