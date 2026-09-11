@@ -88,3 +88,4 @@
 {"ts": 1789127142.656582, "text": "🚨 FAIL-SAFE SOL_1H: protection incomplete; attempting emergency market close. manual protection audit failed: T1: TP/SL order id missing"}
 {"ts": 1789127149.022386, "text": "🚨 CRITICAL SOL_1H: emergency close could not be confirmed. MANUAL NOBITEX CHECK REQUIRED."}
 {"ts": 1789127150.8040876, "text": "🛠 فرمان tg-85706614 اجرا شد\n🛡️ Protection audit: 1 trade(s)\n🚨 SOL_1H: protection FAILED — T1: TP/SL order id missing\n🚨 SOL_1H: emergency close also failed — Emergency close could not be confirmed for SOL_1H"}
+{"ts": 1789127152.4544704, "text": "🛠 فرمان tg-85706615 اجرا شد\n❌ خواندن لاگ ناموفق بود: name 'Path' is not defined"}
