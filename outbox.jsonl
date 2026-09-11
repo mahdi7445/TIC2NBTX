@@ -32,3 +32,4 @@
 {"ts": 1789060915.0483863, "text": "🛠 فرمان tg-85706588 اجرا شد\n📊 وضعیت\nExecutor: 🟢 online\nورود جدید: 🟢 فعال\nRisk cap: 1 USDT\nMax collateral/trade: 1.25 USDT\nMax open trades: 15\nOpen trades(state): 0\nMargin USDT: 17.516634069"}
 {"ts": 1789060916.7769382, "text": "🔄 Startup reconciliation: state=0, Nobitex active=2"}
 {"ts": 1789060918.3992176, "text": "🛠 فرمان tg-85706589 اجرا شد\n🔄 Reconciliation اجرا شد؛ گزارش کامل آن در تلگرام ارسال شد."}
+{"ts": 1789119007.698301, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage=5x · GitHub=mahdi7445/TIC2NBTX"}
