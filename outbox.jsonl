@@ -90,3 +90,4 @@
 {"ts": 1789127150.8040876, "text": "🛠 فرمان tg-85706614 اجرا شد\n🛡️ Protection audit: 1 trade(s)\n🚨 SOL_1H: protection FAILED — T1: TP/SL order id missing\n🚨 SOL_1H: emergency close also failed — Emergency close could not be confirmed for SOL_1H"}
 {"ts": 1789127152.4544704, "text": "🛠 فرمان tg-85706615 اجرا شد\n❌ خواندن لاگ ناموفق بود: name 'Path' is not defined"}
 {"ts": 1789127154.3455586, "text": "🛠 فرمان tg-85706616 اجرا شد\n📈 پوزیشن‌های فعال: 3\n#118565664 SOL/USDT SELL · entry=99.588 · liability=0.0582757585 · PNL=-0.0062798260645\n#118530694 SOL/USDT SELL · entry=99.584 · liability=0.0628817463 · PNL=-0.0070270446331\n#118522166 BTC/USDT SELL · entry=77184.87 · liability=0.0000801042 · PNL=0.006642406188"}
+{"ts": 1789127157.326062, "text": "🚨 SOL_1H: protection resume failed: ExceedLiability: Amount Exceeds Liability"}
