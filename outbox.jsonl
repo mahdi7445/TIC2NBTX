@@ -105,3 +105,4 @@
 {"ts": 1789159258.1151035, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage=5x · GitHub=mahdi7445/TIC2NBTX"}
 {"ts": 1789159270.315848, "text": "🔄 Startup reconciliation: state=1, Nobitex active=0, pending_protection=0, needs_flatten=0\n❌ SOL_1H: position 118565664 no longer active; removed from state."}
 {"ts": 1789159275.0663533, "text": "🛠 فرمان tg-85706623 اجرا شد\n💰 موجودی USDT\nMargin active: 19.5214778957\nSpot active: 80.5806113953"}
+{"ts": 1789159290.402852, "text": "🛠 فرمان tg-85706631 اجرا شد\n📈 هیچ پوزیشن فعالی در نوبیتکس نیست."}
