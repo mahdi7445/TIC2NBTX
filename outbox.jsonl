@@ -134,3 +134,4 @@
 {"ts": 1789159480.311276, "text": "⚠️ رویداد target_hit برای BCH_1M رسید ولی معامله‌ای در state باز نیست."}
 {"ts": 1789159483.210586, "text": "⚠️ رویداد sl_after_t2 برای BCH_1M رسید ولی معامله‌ای در state باز نیست."}
 {"ts": 1789159583.3356817, "text": "⚠️ رویداد forced_close برای ETH_5M رسید ولی معامله‌ای در state باز نیست."}
+{"ts": 1789159594.2389727, "text": "📥 سیگنال دریافت شد\nETH_5M · SHORT\nEntry=2534.87 · SL=2552.74\nRisk cap=$1 · Effective risk≈$0.0441 · Leverage=5x\nCalculated amount=0.0024656096 ETH\nNotional≈$6.2500 · Collateral≈$1.2500 · Margin available=19.5215"}
