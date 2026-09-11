@@ -50,3 +50,4 @@
 {"ts": 1789119226.1844175, "text": "📥 سیگنال دریافت شد\nSOL_1H · SHORT\nEntry=99.97 · SL=102.66\nRisk cap=$1 · Effective risk≈$0.1567 · Leverage=5x\nCalculated amount=0.0582631998 SOL\nNotional≈$5.8246 · Collateral≈$1.1649 · Margin available=17.4737"}
 {"ts": 1789119307.529573, "text": "🚨 FAIL-SAFE SOL_1H: protection incomplete; attempting emergency market close. ExceedLiability: Amount Exceeds Liability"}
 {"ts": 1789119314.445056, "text": "🚨 CRITICAL SOL_1H: emergency close could not be confirmed. MANUAL NOBITEX CHECK REQUIRED."}
+{"ts": 1789119315.922612, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1234 update_id=85706592: Emergency close could not be confirmed for SOL_1H"}
