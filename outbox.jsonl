@@ -40,3 +40,4 @@
 {"ts": 1789119111.774207, "text": "🚨 FAIL-SAFE SOL_1H: protection incomplete; attempting emergency market close. SmallOrder: Order Validation Failed"}
 {"ts": 1789119115.0298197, "text": "🛡️ SOL_1H: emergency close confirmed; no unprotected position remains."}
 {"ts": 1789119117.204766, "text": "❌ اجرای سیگنال SOL_1H شکست خورد: SmallOrder: Order Validation Failed"}
+{"ts": 1789119118.8275335, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1234 update_id=85706592: SmallOrder: Order Validation Failed"}
