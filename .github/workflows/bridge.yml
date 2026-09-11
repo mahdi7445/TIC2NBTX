@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: telegram-github-relay
@@ -40,7 +41,16 @@ jobs:
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
           BRIDGE_RUNTIME_SECONDS: "275"
-          TELEGRAM_LONG_POLL_SECONDS: "25"
+          TELEGRAM_LONG_POLL_SECONDS: "5"
           MAX_RELAY_LINES: "5000"
+          PUSH_MIN_INTERVAL_SECONDS: "3"
+          PULL_MIN_INTERVAL_SECONDS: "5"
+          # Lets bridge.py queue its own next run (workflow_dispatch) instead of
+          # depending only on the 5-minute cron above, which this repo's own
+          # Actions history shows firing anywhere from minutes to several hours
+          # apart. github.token already has actions:write from the permissions
+          # block above, so no extra secret/PAT is needed.
+          GH_DISPATCH_TOKEN: ${{ github.token }}
+          BRIDGE_WORKFLOW_FILE: "bridge.yml"
         run: |
           python telegram-github-bridge/bridge.py
