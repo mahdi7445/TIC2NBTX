@@ -139,3 +139,4 @@
 {"ts": 1789160753.9679508, "text": "⚠️ رویداد forced_close برای BCH_1H رسید ولی معامله‌ای در state باز نیست."}
 {"ts": 1789160760.6796296, "text": "📥 سیگنال دریافت شد\nBCH_1H · SHORT\nEntry=229.1 · SL=241.38\nRisk cap=$1 · Effective risk≈$0.3350 · Leverage=5x\nCalculated amount=0.0272806634 BCH\nNotional≈$6.2500 · Collateral≈$1.2500 · Margin available=18.2729"}
 {"ts": 1789160844.7834566, "text": "🚨 FAIL-SAFE BCH_1H: protection incomplete; attempting emergency market close. SmallOrder: Order Validation Failed"}
+{"ts": 1789160849.0158532, "text": "🛡️ BCH_1H: emergency close confirmed; no unprotected position remains."}
