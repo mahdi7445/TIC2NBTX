@@ -53,3 +53,4 @@
 {"ts": 1789119315.922612, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1234 update_id=85706592: Emergency close could not be confirmed for SOL_1H"}
 {"ts": 1789119323.7472224, "text": "🚨 SOL_1H: protection resume failed: ExceedLiability: Amount Exceeds Liability"}
 {"ts": 1789119325.4471931, "text": "🚨 FAIL-SAFE SOL_1H: protection incomplete; attempting emergency market close. protection resume failed: ExceedLiability: Amount Exceeds Liability"}
+{"ts": 1789119332.0682054, "text": "🚨 CRITICAL SOL_1H: emergency close could not be confirmed. MANUAL NOBITEX CHECK REQUIRED."}
