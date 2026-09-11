@@ -33,3 +33,4 @@
 {"ts": 1789060916.7769382, "text": "🔄 Startup reconciliation: state=0, Nobitex active=2"}
 {"ts": 1789060918.3992176, "text": "🛠 فرمان tg-85706589 اجرا شد\n🔄 Reconciliation اجرا شد؛ گزارش کامل آن در تلگرام ارسال شد."}
 {"ts": 1789119007.698301, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage=5x · GitHub=mahdi7445/TIC2NBTX"}
+{"ts": 1789119009.8766744, "text": "🔄 Startup reconciliation: state=0, Nobitex active=2, pending_protection=0"}
