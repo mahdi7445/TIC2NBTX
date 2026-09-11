@@ -85,3 +85,4 @@
 {"ts": 1789127127.755647, "text": "🚨 FAIL-SAFE SOL_1H: protection incomplete; attempting emergency market close. startup protection verification failed: T1: TP/SL order id missing"}
 {"ts": 1789127135.424549, "text": "🚨 CRITICAL SOL_1H: emergency close could not be confirmed. MANUAL NOBITEX CHECK REQUIRED."}
 {"ts": 1789127140.4063435, "text": "🔄 Startup reconciliation: state=1, Nobitex active=3, pending_protection=0\n🚨 SOL_1H: position 118565664 is open but protection is NOT fully verified: T1: TP/SL order id missing"}
+{"ts": 1789127142.656582, "text": "🚨 FAIL-SAFE SOL_1H: protection incomplete; attempting emergency market close. manual protection audit failed: T1: TP/SL order id missing"}
