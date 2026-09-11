@@ -83,3 +83,4 @@
 {"ts": 1789119487.3287277, "text": "🚨 FAIL-SAFE SOL_1H: protection incomplete; attempting emergency market close. protection resume failed: ExceedLiability: Amount Exceeds Liability"}
 {"ts": 1789127125.5168278, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage=5x · GitHub=mahdi7445/TIC2NBTX"}
 {"ts": 1789127127.755647, "text": "🚨 FAIL-SAFE SOL_1H: protection incomplete; attempting emergency market close. startup protection verification failed: T1: TP/SL order id missing"}
+{"ts": 1789127135.424549, "text": "🚨 CRITICAL SOL_1H: emergency close could not be confirmed. MANUAL NOBITEX CHECK REQUIRED."}
