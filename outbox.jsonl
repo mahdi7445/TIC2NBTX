@@ -103,3 +103,4 @@
 {"ts": 1789127208.502422, "text": "🚨 CRITICAL SOL_1H: emergency close could not be confirmed. MANUAL NOBITEX CHECK REQUIRED."}
 {"ts": 1789127210.3782706, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1234 update_id=85706592: ExceedLiability: Amount Exceeds Liability"}
 {"ts": 1789159258.1151035, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage=5x · GitHub=mahdi7445/TIC2NBTX"}
+{"ts": 1789159270.315848, "text": "🔄 Startup reconciliation: state=1, Nobitex active=0, pending_protection=0, needs_flatten=0\n❌ SOL_1H: position 118565664 no longer active; removed from state."}
