@@ -41,3 +41,4 @@
 {"ts": 1789119115.0298197, "text": "🛡️ SOL_1H: emergency close confirmed; no unprotected position remains."}
 {"ts": 1789119117.204766, "text": "❌ اجرای سیگنال SOL_1H شکست خورد: SmallOrder: Order Validation Failed"}
 {"ts": 1789119118.8275335, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1234 update_id=85706592: SmallOrder: Order Validation Failed"}
+{"ts": 1789119126.5619955, "text": "🛠 فرمان tg-85706608 اجرا شد\n📈 پوزیشن‌های فعال: 2\n#118530694 SOL/USDT SELL · entry=99.584 · liability=0.0628817463 · PNL=-0.0165850700707\n#118522166 BTC/USDT SELL · entry=77184.87 · liability=0.0000801042 · PNL=-0.0212869167"}
