@@ -45,3 +45,4 @@
 {"ts": 1789119129.1046216, "text": "📥 سیگنال دریافت شد\nSOL_1H · SHORT\nEntry=99.97 · SL=102.66\nRisk cap=$1 · Effective risk≈$0.1569 · Leverage=5x\nCalculated amount=0.0583348987 SOL\nNotional≈$5.8317 · Collateral≈$1.1663 · Margin available=17.4952"}
 {"ts": 1789119210.5652542, "text": "🚨 FAIL-SAFE SOL_1H: protection incomplete; attempting emergency market close. SmallOrder: Order Validation Failed"}
 {"ts": 1789119213.9726408, "text": "🛡️ SOL_1H: emergency close confirmed; no unprotected position remains."}
+{"ts": 1789119216.105799, "text": "❌ اجرای سیگنال SOL_1H شکست خورد: SmallOrder: Order Validation Failed"}
