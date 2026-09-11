@@ -343,6 +343,14 @@ def poll_telegram(state: dict) -> bool:
                     "message_id": message_id,
                     "signal_id": f"{CHANNEL_ID}:{message_id}" if message_id else str(uid),
                     "ts": time.time(),
+                    # Telegram's own message timestamp, NOT when the relay got
+                    # around to forwarding it. If this bridge (or the Windows
+                    # executor) was offline and catches up on a backlog of
+                    # channel posts in one go, "ts" above would show the
+                    # catch-up moment for all of them - useless for staleness
+                    # checks. "posted_at" is what the executor actually
+                    # compares its age against.
+                    "posted_at": post.get("date"),
                     "text": text,
                 }, ensure_ascii=False))
                 changed = True
