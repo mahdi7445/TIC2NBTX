@@ -58,3 +58,4 @@
 {"ts": 1789119341.2847502, "text": "🚨 SOL_1H: protection resume failed: ExceedLiability: Amount Exceeds Liability"}
 {"ts": 1789119342.769, "text": "🚨 FAIL-SAFE SOL_1H: protection incomplete; attempting emergency market close. protection resume failed: ExceedLiability: Amount Exceeds Liability"}
 {"ts": 1789119349.3782246, "text": "🚨 CRITICAL SOL_1H: emergency close could not be confirmed. MANUAL NOBITEX CHECK REQUIRED."}
+{"ts": 1789119350.8673975, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1234 update_id=85706592: ExceedLiability: Amount Exceeds Liability"}
