@@ -46,3 +46,4 @@
 {"command_id": "tg-85706712", "update_id": 85706712, "ts": 1789239374.1773696, "command": "/logs"}
 {"command_id": "tg-85706713", "update_id": 85706713, "ts": 1789239406.3328817, "command": "/positions"}
 {"command_id": "tg-85706714", "update_id": 85706714, "ts": 1789239415.6628163, "command": "/ack BTC_5M"}
+{"command_id": "tg-85706716", "update_id": 85706716, "ts": 1789239632.4450655, "command": "/protection"}
