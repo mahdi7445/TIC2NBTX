@@ -168,3 +168,4 @@
 {"ts": 1789209912.5375395, "text": "⚠️ رویداد stop برای ADA_5M رسید ولی معامله‌ای در state باز نیست."}
 {"ts": 1789209914.661511, "text": "⚠️ رویداد stop برای SOL_15M رسید ولی معامله‌ای در state باز نیست."}
 {"ts": 1789209949.8245351, "text": "🚨 FAIL-SAFE ETH_5M: protection incomplete; attempting emergency market close. startup protection verification failed: T1 SL: verification failed: HTTP404: {\"message\": \"No Order matches the given query.\", \"error\": \"NotFound\"}"}
+{"ts": 1789209958.6337786, "text": "🚨 CRITICAL ETH_5M: emergency close could not be confirmed. MANUAL NOBITEX CHECK REQUIRED؛ Executor به‌صورت خودکار و ایمن (بدون بازکردن معامله‌ی جدید) به تلاش برای بستن آن ادامه می‌دهد."}
