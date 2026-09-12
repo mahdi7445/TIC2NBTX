@@ -151,3 +151,4 @@
 {"ts": 1789209844.9445248, "text": "🛠 فرمان tg-85706650 اجرا شد\n📊 وضعیت\nExecutor: 🟢 online\nورود جدید: 🟢 فعال\nRisk cap: 1 USDT\nMax collateral/trade: 1.25 USDT\nLeverage preference: 10x (per-market auto-capped)\nMax open trades: 15\nOpen trades(state): 1\n⏳ Pending protection: 0\n🚨 Unconfirmed emergency closes: 1\nMargin USDT: 18.1885854942"}
 {"ts": 1789209850.9442163, "text": "🛠 فرمان tg-85706667 اجرا شد\n✅ Risk cap به 1 USDT تغییر کرد."}
 {"ts": 1789209857.5034428, "text": "🛠 فرمان tg-85706668 اجرا شد\n✅ سقف مارجین هر معامله به 1.5 USDT تغییر کرد."}
+{"ts": 1789209871.500918, "text": "⏭️ سیگنال BTC_15M به دلیل قدیمی بودن نادیده گرفته شد (797.2 دقیقه از انتشار آن گذشته؛ سقف مجاز برای این تایم‌فریم ~30 دقیقه است). هیچ معامله‌ای باز نشد."}
