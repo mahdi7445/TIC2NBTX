@@ -30,3 +30,4 @@
 {"command_id": "tg-85706681", "update_id": 85706681, "ts": 1789228765.8248355, "command": "/config"}
 {"command_id": "tg-85706682", "update_id": 85706682, "ts": 1789228846.036458, "command": "/resume"}
 {"command_id": "tg-85706683", "update_id": 85706683, "ts": 1789228870.563355, "command": "/risk"}
+{"command_id": "tg-85706686", "update_id": 85706686, "ts": 1789228897.1691375, "command": "/risk 1"}
