@@ -176,3 +176,4 @@
 {"ts": 1789210027.3075666, "text": "🛠 فرمان tg-85706673 اجرا شد\n🛡️ Protection audit: 1 trade(s)\n🚨 ETH_5M: protection FAILED — T1 SL: verification failed: HTTP404: {\"message\": \"No Order matches the given query.\", \"error\": \"NotFound\"}"}
 {"ts": 1789210466.4383862, "text": "🚨 هنوز بسته‌شدن ETH_5M تأیید نشده (10 دقیقه از اولین تلاش)؛ لطفاً حساب Nobitex را فوراً به‌صورت دستی بررسی کنید."}
 {"ts": 1789210676.7585766, "text": "🛠 فرمان tg-85706675 اجرا شد\n💰 موجودی USDT\nMargin active: 18.1885854942\nSpot active: 80.5806113953"}
+{"ts": 1789210698.2570672, "text": "🛠 فرمان tg-85706676 اجرا شد\n📊 وضعیت\nExecutor: 🟢 online\nورود جدید: 🟢 فعال\nRisk cap: 1 USDT\nMax collateral/trade: 1.5 USDT\nLeverage preference: 10x (per-market auto-capped)\nMax open trades: 15\nOpen trades(state): 1\n⏳ Pending protection: 0\n🚨 Unconfirmed emergency closes: 1\nMargin USDT: 18.1885854942"}
