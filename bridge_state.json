@@ -1,4 +1,5 @@
 {
   "telegram_update_offset": 85706703,
-  "outbox_lines_sent": 520
+  "outbox_lines_sent": 521,
+  "thread_roots": {}
 }
