@@ -186,3 +186,4 @@
 {"ts": 1789212458.1576807, "text": "🛡️ ETH_5M: emergency close confirmed; no unprotected position remains."}
 {"ts": 1789227669.7157164, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage preference=10x (per-market auto-capped) · GitHub=mahdi7445/TIC2NBTX"}
 {"ts": 1789227674.501073, "text": "🔄 Startup reconciliation: state=0, Nobitex active=1, pending_protection=0, needs_flatten=0"}
+{"ts": 1789227678.1072097, "text": "🛠 فرمان tg-85706678 اجرا شد\n📈 پوزیشن‌های فعال: 1\n#118604452 ETH/USDT SELL · entry=2531.97 · liability=0.001973055 · PNL=-0.02203226575"}
