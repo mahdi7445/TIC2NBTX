@@ -204,3 +204,4 @@
 {"ts": 1789235068.0144799, "text": "⚠️ BTC_5M: T1 روی قیمت حدی کامل Fill نشد؛ بخش باقیمانده (0.0000156203) با Market بسته شد."}
 {"ts": 1789235070.2653666, "text": "🎯 Target 1 HIT — BTC_5M\nBanked: 20%\nTP price: 77259.44\nProtection will move according to the strategy."}
 {"ts": 1789235074.4401479, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1288 update_id=85706702: ExceedLiability: Amount Exceeds Liability"}
+{"ts": 1789235083.2239704, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1288 update_id=85706702: ExceedLiability: Amount Exceeds Liability"}
