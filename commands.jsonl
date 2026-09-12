@@ -33,3 +33,4 @@
 {"command_id": "tg-85706686", "update_id": 85706686, "ts": 1789228897.1691375, "command": "/risk 1"}
 {"command_id": "tg-85706688", "update_id": 85706688, "ts": 1789228910.3092635, "command": "/collateral"}
 {"command_id": "tg-85706689", "update_id": 85706689, "ts": 1789228935.713626, "command": "/leverage"}
+{"command_id": "tg-85706692", "update_id": 85706692, "ts": 1789229106.0260375, "command": "/leverage 10"}
