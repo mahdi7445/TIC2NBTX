@@ -144,3 +144,4 @@
 {"ts": 1789161004.84661, "text": "📥 سیگنال دریافت شد\nETH_1M · SHORT\nEntry=2536.6 · SL=2620.06\nRisk cap=$1 · Effective risk≈$0.2056 · Leverage=5x\nCalculated amount=0.0024639280 ETH\nNotional≈$6.2500 · Collateral≈$1.2500 · Margin available=18.2219"}
 {"ts": 1789161091.0152123, "text": "🚨 FAIL-SAFE ETH_1M: protection incomplete; attempting emergency market close. SmallOrder: Order Validation Failed"}
 {"ts": 1789161099.9688544, "text": "🛡️ ETH_1M: emergency close confirmed; no unprotected position remains."}
+{"ts": 1789209814.7048268, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage preference=10x (per-market auto-capped) · GitHub=mahdi7445/TIC2NBTX"}
