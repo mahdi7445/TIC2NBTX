@@ -197,3 +197,4 @@
 {"ts": 1789229006.663203, "text": "🛠 فرمان tg-85706689 اجرا شد\n❓ دستور ناشناخته. /menu را بزنید."}
 {"ts": 1789229110.1709514, "text": "🛠 فرمان tg-85706692 اجرا شد\n✅ اهرم ترجیحی به 10x تغییر کرد.\nتوجه: این یک سقف است — برای هر بازار، کمترین مقدار بین همین عدد و حداکثر مجاز همان بازار در نوبیتکس استفاده می‌شود (مثلاً بیت‌کوین/اتریوم معمولاً تا 10x مجازند و بقیه معمولاً تا 5x؛ این به‌صورت خودکار و بدون نیاز به تنظیم جدا برای هر ارز اعمال می‌شود)."}
 {"ts": 1789229526.884711, "text": "🚨 FAIL-SAFE BTC_5M: protection incomplete; attempting emergency market close. manual protection audit failed: Runner SL: verification failed: Runner SL: unexpected status=Canceled"}
+{"ts": 1789229536.937248, "text": "🚨 CRITICAL BTC_5M: emergency close could not be confirmed. MANUAL NOBITEX CHECK REQUIRED؛ Executor به‌صورت خودکار و ایمن (بدون بازکردن معامله‌ی جدید) به تلاش برای بستن آن ادامه می‌دهد."}
