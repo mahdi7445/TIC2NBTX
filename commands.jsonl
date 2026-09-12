@@ -40,3 +40,4 @@
 {"command_id": "tg-85706703", "update_id": 85706703, "ts": 1789238553.0175147, "command": "/positions"}
 {"command_id": "tg-85706705", "update_id": 85706705, "ts": 1789238888.0041196, "command": "/ack BTC_5M"}
 {"command_id": "tg-85706706", "update_id": 85706706, "ts": 1789238891.4476542, "command": "/ack BTC_5M"}
+{"command_id": "tg-85706707", "update_id": 85706707, "ts": 1789238903.707233, "command": "/ack BTC_5M"}
