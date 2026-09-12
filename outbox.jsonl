@@ -173,3 +173,4 @@
 {"ts": 1789209965.2378194, "text": "🛠 فرمان tg-85706672 اجرا شد\n🔄 Reconciliation اجرا شد؛ گزارش کامل آن در تلگرام ارسال شد."}
 {"ts": 1789210015.8792584, "text": "🚨 FAIL-SAFE ETH_5M: protection incomplete; attempting emergency market close. manual protection audit failed: T1 SL: verification failed: HTTP404: {\"message\": \"No Order matches the given query.\", \"error\": \"NotFound\"}"}
 {"ts": 1789210024.556839, "text": "🚨 CRITICAL ETH_5M: emergency close could not be confirmed. MANUAL NOBITEX CHECK REQUIRED؛ Executor به‌صورت خودکار و ایمن (بدون بازکردن معامله‌ی جدید) به تلاش برای بستن آن ادامه می‌دهد."}
+{"ts": 1789210027.3075666, "text": "🛠 فرمان tg-85706673 اجرا شد\n🛡️ Protection audit: 1 trade(s)\n🚨 ETH_5M: protection FAILED — T1 SL: verification failed: HTTP404: {\"message\": \"No Order matches the given query.\", \"error\": \"NotFound\"}"}
