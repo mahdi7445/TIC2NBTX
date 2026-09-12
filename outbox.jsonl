@@ -145,3 +145,4 @@
 {"ts": 1789161091.0152123, "text": "🚨 FAIL-SAFE ETH_1M: protection incomplete; attempting emergency market close. SmallOrder: Order Validation Failed"}
 {"ts": 1789161099.9688544, "text": "🛡️ ETH_1M: emergency close confirmed; no unprotected position remains."}
 {"ts": 1789209814.7048268, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage preference=10x (per-market auto-capped) · GitHub=mahdi7445/TIC2NBTX"}
+{"ts": 1789209826.715209, "text": "🚨 FAIL-SAFE ETH_5M: protection incomplete; attempting emergency market close. startup protection verification failed: T1 SL: verification failed: HTTP404: {\"message\": \"No Order matches the given query.\", \"error\": \"NotFound\"}"}
