@@ -35,3 +35,4 @@
 {"command_id": "tg-85706689", "update_id": 85706689, "ts": 1789228935.713626, "command": "/leverage"}
 {"command_id": "tg-85706692", "update_id": 85706692, "ts": 1789229106.0260375, "command": "/leverage 10"}
 {"command_id": "tg-85706698", "update_id": 85706698, "ts": 1789229514.296011, "command": "/protection"}
+{"command_id": "tg-85706699", "update_id": 85706699, "ts": 1789229527.687732, "command": "/balance"}
