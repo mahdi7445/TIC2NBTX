@@ -185,3 +185,4 @@
 {"ts": 1789212258.504698, "text": "🚨 هنوز بسته‌شدن ETH_5M تأیید نشده (40 دقیقه از اولین تلاش)؛ لطفاً حساب Nobitex را فوراً به‌صورت دستی بررسی کنید."}
 {"ts": 1789212458.1576807, "text": "🛡️ ETH_5M: emergency close confirmed; no unprotected position remains."}
 {"ts": 1789227669.7157164, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage preference=10x (per-market auto-capped) · GitHub=mahdi7445/TIC2NBTX"}
+{"ts": 1789227674.501073, "text": "🔄 Startup reconciliation: state=0, Nobitex active=1, pending_protection=0, needs_flatten=0"}
