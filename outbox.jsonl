@@ -518,3 +518,4 @@
 {"ts": 1789238083.9966595, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1288 update_id=85706702: ExceedLiability: Amount Exceeds Liability"}
 {"ts": 1789238093.5463905, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1288 update_id=85706702: ExceedLiability: Amount Exceeds Liability"}
 {"ts": 1789238104.1032887, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1288 update_id=85706702: ExceedLiability: Amount Exceeds Liability"}
+{"ts": 1789238466.6755726, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage preference=10x (per-market auto-capped) · GitHub=mahdi7445/TIC2NBTX"}
