@@ -519,3 +519,4 @@
 {"ts": 1789238093.5463905, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1288 update_id=85706702: ExceedLiability: Amount Exceeds Liability"}
 {"ts": 1789238104.1032887, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1288 update_id=85706702: ExceedLiability: Amount Exceeds Liability"}
 {"ts": 1789238466.6755726, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage preference=10x (per-market auto-capped) · GitHub=mahdi7445/TIC2NBTX"}
+{"ts": 1789238475.9476187, "text": "🚨 FAIL-SAFE BTC_5M: protection incomplete; attempting emergency market close. startup protection verification failed: T1 TP: verification failed: HTTP404: {\"message\": \"No Order matches the given query.\", \"error\": \"NotFound\"}", "key": "BTC_5M"}
