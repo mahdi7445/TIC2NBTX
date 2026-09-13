@@ -13,5 +13,6 @@
     "ZEC_1H": 1013,
     "ADA_15M": 1035,
     "XRP_15M": 1051
-  }
+  },
+  "executor_down_alerted": true
 }
