@@ -51,3 +51,4 @@
 {"command_id": "tg-85706720", "update_id": 85706720, "ts": 1789239807.440455, "command": "/ack BTC_5M"}
 {"command_id": "tg-85706724", "update_id": 85706724, "ts": 1789254210.7024808, "command": "/balance"}
 {"command_id": "tg-85706753", "update_id": 85706753, "ts": 1789302061.499407, "command": "/leverage 10"}
+{"command_id": "tg-85706755", "update_id": 85706755, "ts": 1789302098.5452428, "command": "/risk 1.5"}
