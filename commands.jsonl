@@ -55,3 +55,4 @@
 {"command_id": "tg-85706757", "update_id": 85706757, "ts": 1789302110.4583747, "command": "/collateral 2"}
 {"command_id": "tg-85706759", "update_id": 85706759, "ts": 1789302141.0117338, "command": "/protection"}
 {"command_id": "tg-85706760", "update_id": 85706760, "ts": 1789302170.4606395, "command": "/positions"}
+{"command_id": "tg-85706761", "update_id": 85706761, "ts": 1789302214.1426528, "command": "/balance"}
