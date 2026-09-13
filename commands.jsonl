@@ -85,3 +85,4 @@
 {"command_id": "tg-85706831", "update_id": 85706831, "ts": 1789342040.2405753, "command": "/status"}
 {"command_id": "tg-85706832", "update_id": 85706832, "ts": 1789342236.271939, "command": "/balance"}
 {"command_id": "tg-85706834", "update_id": 85706834, "ts": 1789342995.4112532, "command": "/risk 2"}
+{"command_id": "tg-85706836", "update_id": 85706836, "ts": 1789343054.8861334, "command": "/collateral 2.4"}
