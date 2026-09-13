@@ -590,3 +590,4 @@
 {"ts": 1789304609.7479322, "text": "🛠 فرمان tg-85706773 اجرا شد\n📈 هیچ معامله‌ی بازی در state نیست."}
 {"ts": 1789304645.5266335, "text": "🛠 فرمان tg-85706774 اجرا شد\n📈 هیچ معامله‌ی بازی در state نیست."}
 {"ts": 1789307449.5530396, "text": "⚠️ رویداد breakeven برای AVAX_1H رسید ولی معامله‌ای در state باز نیست.", "key": "AVAX_1H"}
+{"ts": 1789311887.6011188, "text": "📥 سیگنال دریافت شد\nZEC_1H · SHORT\nEntry=1096.13 · SL=1169.04\nRisk cap=$1.5 · Effective risk≈$0.5648 · Leverage=5x\nCalculated amount=0.0077462459 ZEC\nNotional≈$8.4909 · Collateral≈$1.6982 · Margin available=16.9818", "key": "ZEC_1H"}
