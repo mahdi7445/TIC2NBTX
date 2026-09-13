@@ -595,3 +595,4 @@
 {"ts": 1789312024.185534, "text": "🛠 فرمان tg-85706779 اجرا شد\n🛡️ Protection audit: 1 trade(s)\n✅ ZEC_1H: all TP/SL OCOs + runner stop verified"}
 {"ts": 1789321180.5349193, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1.5 · Leverage preference=10x (per-market auto-capped) · GitHub=mahdi7445/TIC2NBTX"}
 {"ts": 1789321189.6897418, "text": "🔄 Startup reconciliation: state=1, Nobitex active=3, pending_protection=0, needs_protection=0\n✅ ZEC_1H: position 118662034 open and protection verified; liability=0.0077500751, stop=1169.04"}
+{"ts": 1789321196.1577826, "text": "🛠 فرمان tg-85706785 اجرا شد\n✅ Risk cap به 1.5 USDT تغییر کرد."}
