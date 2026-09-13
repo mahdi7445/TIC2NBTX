@@ -597,3 +597,4 @@
 {"ts": 1789321189.6897418, "text": "🔄 Startup reconciliation: state=1, Nobitex active=3, pending_protection=0, needs_protection=0\n✅ ZEC_1H: position 118662034 open and protection verified; liability=0.0077500751, stop=1169.04"}
 {"ts": 1789321196.1577826, "text": "🛠 فرمان tg-85706785 اجرا شد\n✅ Risk cap به 1.5 USDT تغییر کرد."}
 {"ts": 1789321201.749946, "text": "⚠️ رویداد sl_after_t2 برای BTC_5M رسید ولی معامله‌ای در state باز نیست.", "key": "BTC_5M"}
+{"ts": 1789321206.710415, "text": "⚠️ رویداد sl_after_t3 برای ETH_5M رسید ولی معامله‌ای در state باز نیست.", "key": "ETH_5M"}
