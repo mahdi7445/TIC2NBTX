@@ -74,3 +74,4 @@
 {"command_id": "tg-85706803", "update_id": 85706803, "ts": 1789321895.7371469, "command": "/protection"}
 {"command_id": "tg-85706806", "update_id": 85706806, "ts": 1789321908.9521039, "command": "/risk 1"}
 {"command_id": "tg-85706808", "update_id": 85706808, "ts": 1789321921.7622273, "command": "/collateral 1.25"}
+{"command_id": "tg-85706810", "update_id": 85706810, "ts": 1789322542.7465034, "command": "/status"}
