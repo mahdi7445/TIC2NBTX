@@ -87,3 +87,4 @@
 {"command_id": "tg-85706834", "update_id": 85706834, "ts": 1789342995.4112532, "command": "/risk 2"}
 {"command_id": "tg-85706836", "update_id": 85706836, "ts": 1789343054.8861334, "command": "/collateral 2.4"}
 {"command_id": "tg-85706838", "update_id": 85706838, "ts": 1789343081.224705, "command": "/maxtrades 10"}
+{"command_id": "tg-85706839", "update_id": 85706839, "ts": 1789343099.7591364, "command": "/maxtrades 7"}
