@@ -572,3 +572,4 @@
 {"ts": 1789295882.2605758, "text": "⚠️ رویداد stop برای ETH_5M رسید ولی معامله‌ای در state باز نیست.", "key": "ETH_5M"}
 {"ts": 1789297594.2838867, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage preference=10x (per-market auto-capped) · GitHub=mahdi7445/TIC2NBTX"}
 {"ts": 1789297598.7861319, "text": "🔄 Startup reconciliation: state=0, Nobitex active=2, pending_protection=0, needs_protection=0"}
+{"ts": 1789302068.0190554, "text": "🛠 فرمان tg-85706753 اجرا شد\n✅ اهرم ترجیحی به 10x تغییر کرد.\nتوجه: این یک سقف است — برای هر بازار، کمترین مقدار بین همین عدد و حداکثر مجاز همان بازار در نوبیتکس استفاده می‌شود (مثلاً بیت‌کوین/اتریوم معمولاً تا 10x مجازند و بقیه معمولاً تا 5x؛ این به‌صورت خودکار و بدون نیاز به تنظیم جدا برای هر ارز اعمال می‌شود)."}
