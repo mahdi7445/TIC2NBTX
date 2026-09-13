@@ -61,3 +61,4 @@
 {"command_id": "tg-85706765", "update_id": 85706765, "ts": 1789302352.7406628, "command": "/reconcile"}
 {"command_id": "tg-85706767", "update_id": 85706767, "ts": 1789302972.685122, "command": "/positions"}
 {"command_id": "tg-85706768", "update_id": 85706768, "ts": 1789303008.9359667, "command": "/positions"}
+{"command_id": "tg-85706772", "update_id": 85706772, "ts": 1789304579.5031404, "command": "/history"}
