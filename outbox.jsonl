@@ -615,3 +615,4 @@
 {"ts": 1789337730.6941347, "text": "🏁 XRP_15M fully closed — reason=stop", "key": "XRP_15M"}
 {"ts": 1789341434.1324434, "text": "🟢 Executor started (build 2026-09-13-r11)\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage preference=10x (per-market auto-capped) · GitHub=mahdi7445/TIC2NBTX"}
 {"ts": 1789341464.203234, "text": "🟢 Executor started (build 2026-09-13-r11)\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage preference=10x (per-market auto-capped) · GitHub=mahdi7445/TIC2NBTX"}
+{"ts": 1789341477.1352174, "text": "🔄 Startup reconciliation: state=1, Nobitex active=3, pending_protection=0, needs_protection=0\n✅ ZEC_1H: position 118662034 open and protection verified; liability=0.0077500751, stop=1169.04"}
