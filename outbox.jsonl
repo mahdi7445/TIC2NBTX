@@ -570,3 +570,4 @@
 {"ts": 1789295874.1555333, "text": "⏭️ سیگنال ETH_15M به دلیل قدیمی بودن نادیده گرفته شد (71.7 دقیقه از انتشار آن گذشته؛ سقف مجاز برای این تایم‌فریم ~30 دقیقه است). هیچ معامله‌ای باز نشد."}
 {"ts": 1789295877.9659312, "text": "⚠️ رویداد target_hit برای ETH_5M رسید ولی معامله‌ای در state باز نیست.", "key": "ETH_5M"}
 {"ts": 1789295882.2605758, "text": "⚠️ رویداد stop برای ETH_5M رسید ولی معامله‌ای در state باز نیست.", "key": "ETH_5M"}
+{"ts": 1789297594.2838867, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage preference=10x (per-market auto-capped) · GitHub=mahdi7445/TIC2NBTX"}
