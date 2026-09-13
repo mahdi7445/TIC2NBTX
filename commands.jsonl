@@ -68,3 +68,4 @@
 {"command_id": "tg-85706785", "update_id": 85706785, "ts": 1789313538.41121, "command": "/risk 1.5"}
 {"command_id": "tg-85706791", "update_id": 85706791, "ts": 1789321193.811009, "command": "/risk 0.25"}
 {"command_id": "tg-85706794", "update_id": 85706794, "ts": 1789321338.995919, "command": "/risk 1"}
+{"command_id": "tg-85706796", "update_id": 85706796, "ts": 1789321351.432533, "command": "/leverage 10"}
