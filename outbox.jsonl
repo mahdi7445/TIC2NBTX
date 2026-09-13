@@ -609,3 +609,4 @@
 {"ts": 1789321904.8057141, "text": "🛠 فرمان tg-85706803 اجرا شد\n🛡️ Protection audit: 2 trade(s)\n✅ ZEC_1H: all TP/SL OCOs + runner stop verified\n✅ XRP_15M: all TP/SL OCOs + runner stop verified"}
 {"ts": 1789321919.7619507, "text": "🛠 فرمان tg-85706806 اجرا شد\n✅ Risk cap به 1 USDT تغییر کرد."}
 {"ts": 1789321933.2568002, "text": "🛠 فرمان tg-85706808 اجرا شد\n✅ سقف مارجین هر معامله به 1.25 USDT تغییر کرد."}
+{"ts": 1789322308.1773205, "text": "🟢 Executor started\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1 · Leverage preference=10x (per-market auto-capped) · GitHub=mahdi7445/TIC2NBTX"}
