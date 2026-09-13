@@ -626,3 +626,4 @@
 {"ts": 1789342047.5512736, "text": "🛠 فرمان tg-85706831 اجرا شد\n📊 وضعیت\nExecutor: 🟢 online (build 2026-09-13-r11)\nورود جدید: 🟢 فعال\nRisk cap: 1.5 USDT\nMax collateral/trade: 2 USDT\nLeverage preference: 10x (per-market auto-capped)\nMax open trades: 10\nOpen trades(state): 1\n⏳ Pending protection: 0\n🚨 Incomplete protection (never auto-closed): 0\nMargin USDT: 15.1863578765"}
 {"ts": 1789342240.0715525, "text": "🛠 فرمان tg-85706832 اجرا شد\n💰 موجودی USDT\nMargin active: 15.1863578765\nSpot active: 80.5806113953"}
 {"ts": 1789343001.7449088, "text": "🛠 فرمان tg-85706834 اجرا شد\n✅ Risk cap به 2 USDT تغییر کرد."}
+{"ts": 1789343059.8143554, "text": "🛠 فرمان tg-85706836 اجرا شد\n✅ سقف مارجین هر معامله به 2.4 USDT تغییر کرد."}
