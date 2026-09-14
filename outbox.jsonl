@@ -633,3 +633,4 @@
 {"ts": 1789352189.0867372, "text": "⚠️ رویداد forced_close برای BTC_15M رسید ولی معامله‌ای در state باز نیست.", "key": "BTC_15M"}
 {"ts": 1789352201.834022, "text": "⚠️ رویداد forced_close برای ETH_1M رسید ولی معامله‌ای در state باز نیست.", "key": "ETH_1M"}
 {"ts": 1789360899.9850614, "text": "🚨 Main loop error #1: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/mahdi7445/TIC2NBTX/contents/commands.jsonl?ref=main (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.github.com', port=443) at 0x165db835e50>, 'Connection to api.github.com timed out. (connect timeout=15)'))"}
+{"ts": 1789366064.279797, "text": "⚠️ رویداد stop برای SOL_15M رسید ولی معامله‌ای در state باز نیست.", "key": "SOL_15M"}
