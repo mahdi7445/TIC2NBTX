@@ -17,5 +17,5 @@
     "ETH_1M": 1131,
     "XLM_1H": 1172
   },
-  "executor_down_alerted": false
+  "executor_down_alerted": true
 }
