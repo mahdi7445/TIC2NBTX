@@ -643,3 +643,4 @@
 {"ts": 1789381602.852411, "text": "🟢 Executor started (build 2026-09-13-r11)\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$2 · Leverage preference=10x (per-market auto-capped) · GitHub=mahdi7445/TIC2NBTX"}
 {"ts": 1789381610.0902987, "text": "🔄 Startup reconciliation: state=1, Nobitex active=3, pending_protection=0, needs_protection=0\n✅ ZEC_1H: position 118662034 open and protection verified; liability=0.0077500751, stop=1169.04"}
 {"ts": 1789392191.73435, "text": "🛠 فرمان tg-85706852 اجرا شد\n💰 موجودی USDT\nMargin active: 15.1863578765\nSpot active: 80.5806113953"}
+{"ts": 1789392230.701606, "text": "🛠 فرمان tg-85706853 اجرا شد\n📈 معاملات باز: 1\n\n🔹 ZEC_1H · SHORT\nEntry: 1087.54 · Stop فعلی: 1169.04\nتارگت‌ها: T1⏳ T2⏳ T3⏳ T4⏳ · Runner: در انتظار\nLiability: 0.0077500751 · PNL: -0.367010745957 · Position ID: 118662034", "buttons": [[{"text": "❌ بستن ZEC_1H", "callback_data": "cmd:/close ZEC_1H"}]]}
