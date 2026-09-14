@@ -651,3 +651,4 @@
 {"ts": 1789408471.8351948, "text": "🛠 فرمان tg-85706860 اجرا شد\n💰 موجودی USDT\nMargin active: 15.0963578765\nSpot active: 0.0090032713"}
 {"ts": 1789410225.2338734, "text": "🛠 فرمان tg-85706861 اجرا شد\n📈 معاملات باز: 1\n\n🔹 ZEC_1H · SHORT\nEntry: 1087.54 · Stop فعلی: 1169.04\nتارگت‌ها: T1⏳ T2⏳ T3⏳ T4⏳ · Runner: در انتظار\nLiability: 0.0000200751 · PNL: -0.668697432 · Position ID: 118662034", "buttons": [[{"text": "❌ بستن ZEC_1H", "callback_data": "cmd:/close ZEC_1H"}]]}
 {"ts": 1789415554.09066, "text": "🏁 ZEC_1H fully closed — reason=stop", "key": "ZEC_1H"}
+{"ts": 1789415602.9102895, "text": "📥 سیگنال دریافت شد\nXLM_1H · LONG\nEntry=0.1957 · SL=0.1812\nRisk cap=$2 · Effective risk≈$0.8891 · Leverage=5x (ترجیح شما: 10x · حداکثر بازار طبق نوبیتکس: 5x)\nCalculated amount=61.3183444047 XLM\nNotional≈$12.0000 · Collateral≈$2.4000 · Margin available=17.0976", "key": "XLM_1H"}
