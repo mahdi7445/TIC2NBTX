@@ -41,10 +41,10 @@ jobs:
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
           BRIDGE_RUNTIME_SECONDS: "275"
-          TELEGRAM_LONG_POLL_SECONDS: "5"
+          TELEGRAM_LONG_POLL_SECONDS: "3"
           MAX_RELAY_LINES: "5000"
-          PUSH_MIN_INTERVAL_SECONDS: "3"
-          PULL_MIN_INTERVAL_SECONDS: "5"
+          PUSH_MIN_INTERVAL_SECONDS: "1"
+          PULL_MIN_INTERVAL_SECONDS: "3"
           # Lets bridge.py queue its own next run (workflow_dispatch) instead of
           # depending only on the 5-minute cron above, which this repo's own
           # Actions history shows firing anywhere from minutes to several hours
