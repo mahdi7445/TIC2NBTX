@@ -116,3 +116,4 @@
 {"command_id": "tg-85706917", "update_id": 85706917, "ts": 1789460892.0661533, "command": "/fixprotection SOL_15M"}
 {"command_id": "tg-85706919", "update_id": 85706919, "ts": 1789460946.4220746, "command": "/protection"}
 {"command_id": "tg-85706920", "update_id": 85706920, "ts": 1789460982.6065757, "command": "/ack ETH_5M"}
+{"command_id": "tg-85706921", "update_id": 85706921, "ts": 1789460986.8324614, "command": "/ack SOL_15M"}
