@@ -135,3 +135,4 @@
 {"command_id": "tg-85706957", "update_id": 85706957, "ts": 1789484171.841616, "command": "/positions"}
 {"command_id": "tg-85706958", "update_id": 85706958, "ts": 1789484233.8956618, "command": "/close XLM_1H"}
 {"command_id": "tg-85706960", "update_id": 85706960, "ts": 1789484415.9034429, "command": "/history"}
+{"command_id": "tg-85706963", "update_id": 85706963, "ts": 1789485219.7356086, "command": "/maxtrades 25"}
