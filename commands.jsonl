@@ -109,3 +109,4 @@
 {"command_id": "tg-85706901", "update_id": 85706901, "ts": 1789453288.1611826, "command": "/maxtrades 10"}
 {"command_id": "tg-85706907", "update_id": 85706907, "ts": 1789459783.159253, "command": "/fixprotection ETH_5M"}
 {"command_id": "tg-85706908", "update_id": 85706908, "ts": 1789459787.8010652, "command": "/fixprotection SOL_15M"}
+{"command_id": "tg-85706910", "update_id": 85706910, "ts": 1789459833.5826318, "command": "/positions"}
