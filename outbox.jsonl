@@ -762,3 +762,4 @@
 {"ts": 1789483456.6196537, "text": "🛠 فرمان tg-85706946 اجرا شد\n⚠️ XRP_15M: تلاش برای تکمیل محافظت هنوز ناموفق بود: AmountTooLow: Order Validation Failed\nپوزیشن بسته نشد؛ Executor خودکار دوباره تلاش می‌کند."}
 {"ts": 1789483557.7964518, "text": "🚨 هنوز محافظت XRP_15M کامل نشده (5 دقیقه از اولین تلاش)؛ پوزیشن دست‌نخورده باقی مانده و هیچ بسته‌شدن خودکاری انجام نشده. تصمیم با شماست:", "key": "XRP_15M", "buttons": [[{"text": "🔁 تلاش مجدد برای تکمیل محافظت", "callback_data": "cmd:/fixprotection XRP_15M"}], [{"text": "❌ بستن این معامله (با تصمیم خودم)", "callback_data": "cmd:/close XRP_15M"}], [{"text": "✅ بررسی شد", "callback_data": "ack:XRP_15M"}, {"text": "📈 معاملات باز", "callback_data": "cmd:/positions"}]]}
 {"ts": 1789483609.4244444, "text": "🏁 XRP_15M fully closed — reason=admin_close", "key": "XRP_15M"}
+{"ts": 1789483615.686655, "text": "🛠 فرمان tg-85706947 اجرا شد\n🚨 فرمان بستن XRP_15M اجرا شد."}
