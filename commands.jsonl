@@ -120,3 +120,4 @@
 {"command_id": "tg-85706923", "update_id": 85706923, "ts": 1789461228.680919, "command": "/status"}
 {"command_id": "tg-85706924", "update_id": 85706924, "ts": 1789461262.445072, "command": "/reconcile"}
 {"command_id": "tg-85706925", "update_id": 85706925, "ts": 1789461290.9128466, "command": "/test_api"}
+{"command_id": "tg-85706926", "update_id": 85706926, "ts": 1789461397.7133758, "command": "/positions"}
