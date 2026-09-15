@@ -112,3 +112,4 @@
 {"command_id": "tg-85706910", "update_id": 85706910, "ts": 1789459833.5826318, "command": "/positions"}
 {"command_id": "tg-85706913", "update_id": 85706913, "ts": 1789460569.0494528, "command": "/balance"}
 {"command_id": "tg-85706914", "update_id": 85706914, "ts": 1789460699.3321197, "command": "/positions"}
+{"command_id": "tg-85706916", "update_id": 85706916, "ts": 1789460889.3604543, "command": "/fixprotection ETH_5M"}
