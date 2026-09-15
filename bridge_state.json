@@ -21,5 +21,5 @@
     "UNI_1H": 1222,
     "XLM_1M": 1382
   },
-  "executor_down_alerted": false
+  "executor_down_alerted": true
 }
