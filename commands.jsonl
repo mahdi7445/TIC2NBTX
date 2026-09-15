@@ -127,3 +127,4 @@
 {"command_id": "tg-85706937", "update_id": 85706937, "ts": 1789476231.184439, "command": "/positions"}
 {"command_id": "tg-85706938", "update_id": 85706938, "ts": 1789476589.4275024, "command": "/balance"}
 {"command_id": "tg-85706946", "update_id": 85706946, "ts": 1789483453.0865884, "command": "/fixprotection XRP_15M"}
+{"command_id": "tg-85706947", "update_id": 85706947, "ts": 1789483599.9454308, "command": "/close XRP_15M"}
