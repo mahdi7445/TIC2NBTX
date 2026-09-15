@@ -776,3 +776,4 @@
 {"ts": 1789485257.118518, "text": "🛠 فرمان tg-85706964 اجرا شد\n💰 موجودی USDT\nMargin active: 9.2973570744\nSpot active: 79.0074032713"}
 {"ts": 1789486757.9884264, "text": "⚠️ رویداد forced_close برای ZEC_1H رسید ولی معامله‌ای در state باز نیست.", "key": "ZEC_1H"}
 {"ts": 1789493914.406955, "text": "⚠️ رویداد sl_after_t2 برای SOL_15M رسید ولی معامله‌ای در state باز نیست.", "key": "SOL_15M"}
+{"ts": 1789496112.233432, "text": "📥 سیگنال دریافت شد\nXLM_1M · SHORT\nEntry=0.1907\nSL=0.1928\nRisk cap=$2\nEffective risk≈$0.0244\nLeverage=5x\n   (ترجیح شما: 10x — حداکثر بازار طبق نوبیتکس: 5x)\nCalculated amount=11.6080568761 XLM\nNotional≈$2.2137\nCollateral≈$0.4427\nMargin available=9.2974", "key": "XLM_1M"}
