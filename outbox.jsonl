@@ -680,3 +680,4 @@
 {"ts": 1789438102.8486767, "text": "⚠️ ADA_5M: T1 روی قیمت حدی کامل Fill نشد؛ بخش باقیمانده (11.3547611895) با Market بسته شد.", "key": "ADA_5M"}
 {"ts": 1789438107.9727306, "text": "🎯 Target 1 HIT — ADA_5M\nBanked: 20%\nTP price: 0.2073\nProtection will move according to the strategy.\nℹ️ فاصله‌ی حد ضرر تا قیمت لیکویید شدن (طبق نوبیتکس: 0.2405): ٪10.4 — وضعیت مناسب.", "key": "ADA_5M"}
 {"ts": 1789438545.2903628, "text": "🚨 Main loop error #1: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/mahdi7445/TIC2NBTX/contents/commands.jsonl?ref=main (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.github.com', port=443) at 0x26e9a6c8a50>, 'Connection to api.github.com timed out. (connect timeout=15)'))"}
+{"ts": 1789441210.54889, "text": "🛠 فرمان tg-85706887 اجرا شد\n💰 موجودی USDT\nMargin active: 1.9023061397\nSpot active: 0.0090032713"}
