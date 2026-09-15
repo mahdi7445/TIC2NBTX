@@ -840,3 +840,4 @@
 {"ts": 1789498647.799618, "text": "⚠️ Runner trailing update failed for XLM_1M: HTTPSConnectionPool(host='api.nobitex.ir', port=443): Max retries exceeded with url: /v3/orderbook/XLMUSDT (Caused by NameResolutionError(\"HTTPSConnection(host='api.nobitex.ir', port=443): Failed to resolve 'api.nobitex.ir' ([Errno 11001] getaddrinfo failed)\"))", "key": "XLM_1M"}
 {"ts": 1789498658.7922482, "text": "🚨 XLM_1M: final market close failed (admin_close): ExceedLiability - Amount Exceeds Liability", "key": "XLM_1M"}
 {"ts": 1789498664.890041, "text": "🛠 فرمان tg-85706993 اجرا شد\n🚨 فرمان بستن XLM_1M اجرا شد."}
+{"ts": 1789498671.895161, "text": "⚠️ Runner trailing update failed for XLM_1M: HTTPSConnectionPool(host='api.nobitex.ir', port=443): Max retries exceeded with url: /v3/orderbook/XLMUSDT (Caused by NameResolutionError(\"HTTPSConnection(host='api.nobitex.ir', port=443): Failed to resolve 'api.nobitex.ir' ([Errno 11001] getaddrinfo failed)\"))", "key": "XLM_1M"}
