@@ -102,3 +102,4 @@
 {"command_id": "tg-85706866", "update_id": 85706866, "ts": 1789416056.258175, "command": "/positions"}
 {"command_id": "tg-85706870", "update_id": 85706870, "ts": 1789418317.6797843, "command": "/positions"}
 {"command_id": "tg-85706872", "update_id": 85706872, "ts": 1789419545.3100595, "command": "/positions"}
+{"command_id": "tg-85706887", "update_id": 85706887, "ts": 1789441201.0829844, "command": "/balance"}
