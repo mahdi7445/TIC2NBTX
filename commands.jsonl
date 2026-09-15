@@ -131,3 +131,4 @@
 {"command_id": "tg-85706949", "update_id": 85706949, "ts": 1789483802.113216, "command": "/positions"}
 {"command_id": "tg-85706951", "update_id": 85706951, "ts": 1789483916.3903549, "command": "/leverage"}
 {"command_id": "tg-85706953", "update_id": 85706953, "ts": 1789483928.9509492, "command": "/leverage 10"}
+{"command_id": "tg-85706955", "update_id": 85706955, "ts": 1789483948.055667, "command": "/maxtrades 15"}
