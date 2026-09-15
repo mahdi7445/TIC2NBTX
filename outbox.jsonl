@@ -686,3 +686,4 @@
 {"ts": 1789442174.5588996, "text": "🎯 Target 1 HIT — XRP_5M\nBanked: 20%\nTP price: 1.41\nProtection will move according to the strategy.\nℹ️ فاصله‌ی حد ضرر تا قیمت لیکویید شدن (طبق نوبیتکس: 1.62598): ٪9.0 — وضعیت مناسب.", "key": "XRP_5M"}
 {"ts": 1789442257.712141, "text": "⚠️ SOL_5M: T2 روی قیمت حدی کامل Fill نشد؛ بخش باقیمانده (0.0349291078) با Market بسته شد.", "key": "SOL_5M"}
 {"ts": 1789442265.2547438, "text": "🎯 Target 2 HIT — SOL_5M\nBanked: 30%\nTP price: 101.27\nProtection will move according to the strategy.\nℹ️ فاصله‌ی حد ضرر تا قیمت لیکویید شدن (طبق نوبیتکس: 130.961): ٪21.6 — وضعیت مناسب.", "key": "SOL_5M"}
+{"ts": 1789445132.0842419, "text": "⛔ UNI_1H: سقف معاملات همزمان پر است (7).", "key": "UNI_1H"}
