@@ -1289,3 +1289,4 @@
 {"ts": 1789547736.3020837, "text": "⚠️ Runner trailing update failed for XLM_1M: NetworkError: HTTPSConnectionPool(host='api.nobitex.ir', port=443): Max retries exceeded with url: /v3/orderbook/XLMUSDT (Caused by NameResolutionError(\"HTTPSConnection(host='api.nobitex.ir', port=443): Failed to resolve 'api.nobitex.ir' ([Errno 11001] getaddrinfo failed)\"))", "key": "XLM_1M"}
 {"ts": 1789549504.7392251, "text": "⚠️ رویداد target_hit برای LINK_1H رسید ولی معامله‌ای در state باز نیست.", "key": "LINK_1H"}
 {"ts": 1789549532.6813202, "text": "⚠️ رویداد target_hit برای BCH_1H رسید ولی معامله‌ای در state باز نیست.", "key": "BCH_1H"}
+{"ts": 1789549800.8802357, "text": "📥 سیگنال دریافت شد\nFIL_1M · LONG\nEntry=0.8113\nSL=0.8039\nRisk cap=$2\nEffective risk≈$0.0285\nLeverage=5x\n   (ترجیح شما: 10x — حداکثر بازار طبق نوبیتکس: 5x)\nCalculated amount=3.8531001890 FIL\nNotional≈$3.1260\nCollateral≈$0.6252\nMargin available=15.6301", "key": "FIL_1M"}
