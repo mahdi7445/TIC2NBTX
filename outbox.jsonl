@@ -1420,3 +1420,4 @@
 {"ts": 1789569732.9336553, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1409 update_id=85707047: HTTP401: {\"detail\":\"The timestamp value difference from now is more than 30 seconds.\"}"}
 {"ts": 1789569746.0400417, "text": "❌ اجرای سیگنال ADA_15M شکست خورد: HTTP401: {\"detail\":\"The timestamp value difference from now is more than 30 seconds.\"}", "key": "ADA_15M"}
 {"ts": 1789569749.1655111, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1409 update_id=85707047: HTTP401: {\"detail\":\"The timestamp value difference from now is more than 30 seconds.\"}"}
+{"ts": 1789581938.4340227, "text": "⏭️ سیگنال ADA_15M به دلیل قدیمی بودن نادیده گرفته شد (121.3 دقیقه از انتشار آن گذشته؛ سقف مجاز برای این تایم‌فریم ~30 دقیقه است). هیچ معامله‌ای باز نشد."}
