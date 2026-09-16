@@ -1417,3 +1417,4 @@
 {"ts": 1789569710.1303236, "text": "❌ اجرای سیگنال ADA_15M شکست خورد: HTTP401: {\"detail\":\"The timestamp value difference from now is more than 30 seconds.\"}", "key": "ADA_15M"}
 {"ts": 1789569713.2246206, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1409 update_id=85707047: HTTP401: {\"detail\":\"The timestamp value difference from now is more than 30 seconds.\"}"}
 {"ts": 1789569729.7931275, "text": "❌ اجرای سیگنال ADA_15M شکست خورد: HTTP401: {\"detail\":\"The timestamp value difference from now is more than 30 seconds.\"}", "key": "ADA_15M"}
+{"ts": 1789569732.9336553, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1409 update_id=85707047: HTTP401: {\"detail\":\"The timestamp value difference from now is more than 30 seconds.\"}"}
