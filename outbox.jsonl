@@ -1401,3 +1401,4 @@
 {"ts": 1789563147.8404834, "text": "🏁 BTC_1M closed — sl_after_t2 at strategy price 76050.26", "key": "BTC_1M"}
 {"ts": 1789563159.294022, "text": "🛠 فرمان tg-85707041 اجرا شد\n✅ بستن BTC_1M طبق تأیید شما (sl_after_t2) اجرا شد."}
 {"ts": 1789563968.709799, "text": "⚠️ رویداد stop برای BTC_1M رسید ولی معامله‌ای در state باز نیست.", "key": "BTC_1M"}
+{"ts": 1789564903.0723917, "text": "📥 سیگنال دریافت شد\nXAUT_1H · LONG\nEntry=4347.1\nSL=4274.42\nRisk cap=$2\nEffective risk≈$0.0521\nLeverage=5x\n   (ترجیح شما: 10x — حداکثر بازار طبق نوبیتکس: 5x)\nCalculated amount=0.0007163731 XAUT\nNotional≈$3.1141\nCollateral≈$0.6228\nMargin available=15.5707", "key": "XAUT_1H"}
