@@ -154,3 +154,4 @@
 {"command_id": "tg-85707009", "update_id": 85707009, "ts": 1789539758.5202672, "command": "/ack XLM_1M"}
 {"command_id": "tg-85707011", "update_id": 85707011, "ts": 1789540712.5005527, "command": "/positions"}
 {"command_id": "tg-85707013", "update_id": 85707013, "ts": 1789540853.9101224, "command": "/pnl"}
+{"command_id": "tg-85707015", "update_id": 85707015, "ts": 1789541434.8465352, "command": "/close XLM_1M"}
