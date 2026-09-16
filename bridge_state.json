@@ -23,5 +23,5 @@
     "FIL_1M": 1534,
     "INJ_1M": 1800
   },
-  "executor_down_alerted": false
+  "executor_down_alerted": true
 }
