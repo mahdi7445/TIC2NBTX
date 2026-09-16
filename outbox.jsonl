@@ -1415,3 +1415,4 @@
 {"ts": 1789569700.2204196, "text": "⏭️ سیگنال XRP_15M به دلیل قدیمی بودن نادیده گرفته شد (36.6 دقیقه از انتشار آن گذشته؛ سقف مجاز برای این تایم‌فریم ~30 دقیقه است). هیچ معامله‌ای باز نشد."}
 {"ts": 1789569703.27878, "text": "⏭️ سیگنال ETH_5M به دلیل قدیمی بودن نادیده گرفته شد (17.1 دقیقه از انتشار آن گذشته؛ سقف مجاز برای این تایم‌فریم ~10 دقیقه است). هیچ معامله‌ای باز نشد."}
 {"ts": 1789569710.1303236, "text": "❌ اجرای سیگنال ADA_15M شکست خورد: HTTP401: {\"detail\":\"The timestamp value difference from now is more than 30 seconds.\"}", "key": "ADA_15M"}
+{"ts": 1789569713.2246206, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1409 update_id=85707047: HTTP401: {\"detail\":\"The timestamp value difference from now is more than 30 seconds.\"}"}
