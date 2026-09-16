@@ -25,5 +25,5 @@
     "BTC_1M": 1941,
     "XAUT_1H": 2045
   },
-  "executor_down_alerted": false
+  "executor_down_alerted": true
 }
