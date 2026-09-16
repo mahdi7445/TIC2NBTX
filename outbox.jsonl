@@ -1413,3 +1413,4 @@
 {"ts": 1789569680.2134411, "text": "🟢 Executor started (build 2026-09-16-r17)\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$2\nLeverage preference=10x (per-market auto-capped)\nGitHub=mahdi7445/TIC2NBTX"}
 {"ts": 1789569691.0927455, "text": "🚨 Startup reconciliation failed: HTTP401 - {\"detail\":\"The timestamp value difference from now is more than 30 seconds.\"}"}
 {"ts": 1789569700.2204196, "text": "⏭️ سیگنال XRP_15M به دلیل قدیمی بودن نادیده گرفته شد (36.6 دقیقه از انتشار آن گذشته؛ سقف مجاز برای این تایم‌فریم ~30 دقیقه است). هیچ معامله‌ای باز نشد."}
+{"ts": 1789569703.27878, "text": "⏭️ سیگنال ETH_5M به دلیل قدیمی بودن نادیده گرفته شد (17.1 دقیقه از انتشار آن گذشته؛ سقف مجاز برای این تایم‌فریم ~10 دقیقه است). هیچ معامله‌ای باز نشد."}
