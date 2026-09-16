@@ -1400,3 +1400,4 @@
 {"ts": 1789562920.7078335, "text": "📡 یادآوری: هنوز منتظر تصمیم شما درباره‌ی BTC_1M هستیم\nرویداد کانال: SL بعد از T2 (پیشنهاد کانال: بستن باقیمانده روی تارگت 1)\n(20 دقیقه از دریافت این پیام گذشته)", "key": "BTC_1M", "buttons": [[{"text": "✅ بله، طبق کانال ببند", "callback_data": "cmd:/confirmclose BTC_1M"}], [{"text": "❌ نه، نگه دار", "callback_data": "cmd:/dismissclose BTC_1M"}], [{"text": "📋 منو", "callback_data": "menu"}]]}
 {"ts": 1789563147.8404834, "text": "🏁 BTC_1M closed — sl_after_t2 at strategy price 76050.26", "key": "BTC_1M"}
 {"ts": 1789563159.294022, "text": "🛠 فرمان tg-85707041 اجرا شد\n✅ بستن BTC_1M طبق تأیید شما (sl_after_t2) اجرا شد."}
+{"ts": 1789563968.709799, "text": "⚠️ رویداد stop برای BTC_1M رسید ولی معامله‌ای در state باز نیست.", "key": "BTC_1M"}
