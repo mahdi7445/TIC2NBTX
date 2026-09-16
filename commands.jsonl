@@ -157,3 +157,4 @@
 {"command_id": "tg-85707015", "update_id": 85707015, "ts": 1789541434.8465352, "command": "/close XLM_1M"}
 {"command_id": "tg-85707016", "update_id": 85707016, "ts": 1789542430.1279852, "command": "/ack XLM_1M"}
 {"command_id": "tg-85707017", "update_id": 85707017, "ts": 1789542434.6307757, "command": "/ack BTC_15M"}
+{"command_id": "tg-85707021", "update_id": 85707021, "ts": 1789542895.8530366, "command": "/balance"}
