@@ -166,3 +166,4 @@
 {"command_id": "tg-85707034", "update_id": 85707034, "ts": 1789551567.9394598, "command": "/ack FIL_1M"}
 {"command_id": "tg-85707041", "update_id": 85707041, "ts": 1789563138.028326, "command": "/confirmclose BTC_1M"}
 {"command_id": "tg-85707066", "update_id": 85707066, "ts": 1789678113.2770805, "command": "/balance"}
+{"command_id": "tg-85707067", "update_id": 85707067, "ts": 1789678147.224581, "command": "/status"}
