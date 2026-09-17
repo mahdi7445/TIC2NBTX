@@ -1439,3 +1439,4 @@
 {"ts": 1789676366.8255649, "text": "⚠️ رویداد sl_after_t2 برای SHIB_1H رسید ولی معامله‌ای در state باز نیست.", "key": "SHIB_1H"}
 {"ts": 1789678117.133526, "text": "🛠 فرمان tg-85707066 اجرا شد\n💰 موجودی USDT\nMargin active: 15.5590993667\nSpot active: 79.0074032713"}
 {"ts": 1789678149.960498, "text": "🛠 فرمان tg-85707067 اجرا شد\n📊 وضعیت\nExecutor: 🟢 online (build 2026-09-16-r18)\nورود جدید: 🟢 فعال\nRisk cap: 2 USDT\nMax collateral/trade: 2.4 USDT\nLeverage preference: 10x (per-market auto-capped)\nMax open trades: 25\nOpen trades(state): 0\n⏳ Pending protection: 0\n🚨 Incomplete protection (never auto-closed): 0\n📡 Pending close confirmations: 0\nMargin USDT: 15.5590993667"}
+{"ts": 1789678193.0529375, "text": "🛠 فرمان tg-85707068 اجرا شد\n🧪 API OK\nMargin markets: 127\nMargin USDT: 15.5590993667"}
