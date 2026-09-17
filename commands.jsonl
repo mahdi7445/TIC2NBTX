@@ -168,3 +168,4 @@
 {"command_id": "tg-85707066", "update_id": 85707066, "ts": 1789678113.2770805, "command": "/balance"}
 {"command_id": "tg-85707067", "update_id": 85707067, "ts": 1789678147.224581, "command": "/status"}
 {"command_id": "tg-85707068", "update_id": 85707068, "ts": 1789678185.8914557, "command": "/test_api"}
+{"command_id": "tg-85707069", "update_id": 85707069, "ts": 1789678214.99327, "command": "/pnl"}
