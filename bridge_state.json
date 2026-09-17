@@ -26,5 +26,5 @@
     "XAUT_1H": 2045,
     "SHIB_1H": 2088
   },
-  "executor_down_alerted": false
+  "executor_down_alerted": true
 }
