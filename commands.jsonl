@@ -182,3 +182,4 @@
 {"command_id": "tg-85707118", "update_id": 85707118, "ts": 1789796244.0041485, "command": "/status"}
 {"command_id": "tg-85707119", "update_id": 85707119, "ts": 1789797945.8278174, "command": "/status"}
 {"command_id": "tg-85707124", "update_id": 85707124, "ts": 1789811215.8010764, "command": "/ack ETH_5M"}
+{"command_id": "tg-85707125", "update_id": 85707125, "ts": 1789811218.46441, "command": "/dismissclose ETH_5M"}
