@@ -195,3 +195,4 @@
 {"command_id": "tg-85707139", "update_id": 85707139, "ts": 1789819712.054309, "command": "/ack SOL_15M"}
 {"command_id": "tg-85707140", "update_id": 85707140, "ts": 1789819715.422871, "command": "/ack SOL_15M"}
 {"command_id": "tg-85707141", "update_id": 85707141, "ts": 1789820071.2311122, "command": "/fixprotection SOL_15M"}
+{"command_id": "tg-85707143", "update_id": 85707143, "ts": 1789820127.9066396, "command": "/pnl"}
