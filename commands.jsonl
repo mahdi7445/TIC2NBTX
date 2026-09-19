@@ -210,3 +210,4 @@
 {"command_id": "tg-85707163", "update_id": 85707163, "ts": 1789825348.2006314, "command": "/risk 2"}
 {"command_id": "tg-85707165", "update_id": 85707165, "ts": 1789825393.071139, "command": "/collateral 2.2"}
 {"command_id": "tg-85707166", "update_id": 85707166, "ts": 1789825407.9604068, "command": "/ack SOL_15M"}
+{"command_id": "tg-85707168", "update_id": 85707168, "ts": 1789825442.9424388, "command": "/positions"}
