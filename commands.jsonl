@@ -232,3 +232,4 @@
 {"command_id": "tg-85707200", "update_id": 85707200, "ts": 1789852509.2864997, "command": "/leverage 10"}
 {"command_id": "tg-85707202", "update_id": 85707202, "ts": 1789852549.3085153, "command": "/maxtrades 10"}
 {"command_id": "tg-85707206", "update_id": 85707206, "ts": 1789852613.0475416, "command": "/risk 4"}
+{"command_id": "tg-85707208", "update_id": 85707208, "ts": 1789852644.3886058, "command": "/collateral 5"}
