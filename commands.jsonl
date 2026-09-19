@@ -171,3 +171,4 @@
 {"command_id": "tg-85707069", "update_id": 85707069, "ts": 1789678214.99327, "command": "/pnl"}
 {"command_id": "tg-85707085", "update_id": 85707085, "ts": 1789738660.7364945, "command": "/closeall"}
 {"command_id": "tg-85707094", "update_id": 85707094, "ts": 1789763100.1002855, "command": "/pnl"}
+{"command_id": "tg-85707105", "update_id": 85707105, "ts": 1789791827.1754453, "command": "/ack BTC_5M"}
