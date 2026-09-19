@@ -177,3 +177,4 @@
 {"command_id": "tg-85707109", "update_id": 85707109, "ts": 1789792153.948713, "command": "/ack BTC_5M"}
 {"command_id": "tg-85707110", "update_id": 85707110, "ts": 1789792813.8918602, "command": "/ack ETH_5M"}
 {"command_id": "tg-85707111", "update_id": 85707111, "ts": 1789792825.9973686, "command": "/confirmclose ETH_5M"}
+{"command_id": "tg-85707112", "update_id": 85707112, "ts": 1789792828.7195032, "command": "/confirmclose BTC_5M"}
