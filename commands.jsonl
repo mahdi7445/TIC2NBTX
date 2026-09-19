@@ -205,3 +205,4 @@
 {"command_id": "tg-85707154", "update_id": 85707154, "ts": 1789825042.8437521, "command": "/ack XRP_5M"}
 {"command_id": "tg-85707155", "update_id": 85707155, "ts": 1789825078.6113782, "command": "/balance"}
 {"command_id": "tg-85707156", "update_id": 85707156, "ts": 1789825102.5052147, "command": "/ack SOL_15M"}
+{"command_id": "tg-85707159", "update_id": 85707159, "ts": 1789825325.7856562, "command": "/maxtrades 15"}
