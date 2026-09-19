@@ -218,3 +218,4 @@
 {"command_id": "tg-85707175", "update_id": 85707175, "ts": 1789841126.5764432, "command": "/ack SOL_15M"}
 {"command_id": "tg-85707177", "update_id": 85707177, "ts": 1789841149.3694162, "command": "/ack SOL_15M"}
 {"command_id": "tg-85707178", "update_id": 85707178, "ts": 1789841153.1738667, "command": "/leverage 10"}
+{"command_id": "tg-85707180", "update_id": 85707180, "ts": 1789841166.6939323, "command": "/maxtrades 10"}
