@@ -237,3 +237,4 @@
 {"command_id": "tg-85707211", "update_id": 85707211, "ts": 1789852707.1382823, "command": "/ack SOL_15M"}
 {"command_id": "tg-85707213", "update_id": 85707213, "ts": 1789855012.1242034, "command": "/ack SOL_15M"}
 {"command_id": "tg-85707214", "update_id": 85707214, "ts": 1789855941.861116, "command": "/ack SOL_15M"}
+{"command_id": "tg-85707229", "update_id": 85707229, "ts": 1789874903.8012464, "command": "/confirmclose BTC_5M"}
