@@ -259,3 +259,4 @@
 {"command_id": "tg-85707264", "update_id": 85707264, "ts": 1789895779.5672894, "command": "/risk 4"}
 {"command_id": "tg-85707266", "update_id": 85707266, "ts": 1789895825.237361, "command": "/leverage 20"}
 {"command_id": "tg-85707268", "update_id": 85707268, "ts": 1789895868.4461231, "command": "/maxtrades 20"}
+{"command_id": "tg-85707270", "update_id": 85707270, "ts": 1789898652.911925, "command": "/reconcile"}
