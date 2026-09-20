@@ -242,3 +242,4 @@
 {"command_id": "tg-85707233", "update_id": 85707233, "ts": 1789883441.5779402, "command": "/balance"}
 {"command_id": "tg-85707234", "update_id": 85707234, "ts": 1789883475.6386578, "command": "/positions"}
 {"command_id": "tg-85707236", "update_id": 85707236, "ts": 1789886307.969048, "command": "/status"}
+{"command_id": "tg-85707238", "update_id": 85707238, "ts": 1789886350.71753, "command": "/maxtrades 10"}
