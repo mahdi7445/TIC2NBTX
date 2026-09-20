@@ -274,3 +274,4 @@
 {"command_id": "tg-85707315", "update_id": 85707315, "ts": 1789942544.2717516, "command": "/ack SOL_15M"}
 {"command_id": "tg-85707316", "update_id": 85707316, "ts": 1789942548.9896178, "command": "/positions"}
 {"command_id": "tg-85707320", "update_id": 85707320, "ts": 1789943788.0499825, "command": "/confirmclose ZEC_1H"}
+{"command_id": "tg-85707322", "update_id": 85707322, "ts": 1789945647.7435384, "command": "/positions"}
