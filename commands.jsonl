@@ -253,3 +253,4 @@
 {"command_id": "tg-85707253", "update_id": 85707253, "ts": 1789887969.127022, "command": "/ack SOL_15M"}
 {"command_id": "tg-85707254", "update_id": 85707254, "ts": 1789887980.2349389, "command": "/positions"}
 {"command_id": "tg-85707256", "update_id": 85707256, "ts": 1789888023.6245983, "command": "/balance"}
+{"command_id": "tg-85707258", "update_id": 85707258, "ts": 1789892601.4320774, "command": "/positions"}
