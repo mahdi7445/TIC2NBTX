@@ -34,5 +34,5 @@
     "BNB_1H": 2923,
     "DOGE_1H": 2926
   },
-  "executor_down_alerted": false
+  "executor_down_alerted": true
 }
