@@ -2101,3 +2101,4 @@
 {"ts": 1789943100.0398643, "text": "❌ SHIB_1H: بازار تعهدی/جهت موردنظر در نوبیتکس فعال نیست.", "key": "SHIB_1H"}
 {"ts": 1789943373.0554698, "text": "📡 یادآوری: هنوز منتظر تصمیم شما درباره‌ی ZEC_1H هستیم\nرویداد کانال: بستن اجباری طبق کانال سیگنال\n(20 دقیقه از دریافت این پیام گذشته)", "key": "ZEC_1H", "buttons": [[{"text": "✅ بله، طبق کانال ببند", "callback_data": "cmd:/confirmclose ZEC_1H"}], [{"text": "❌ نه، نگه دار", "callback_data": "cmd:/dismissclose ZEC_1H"}], [{"text": "📋 منو", "callback_data": "menu"}]]}
 {"ts": 1789943794.1341991, "text": "🏁 ZEC_1H fully closed — reason=forced_close", "key": "ZEC_1H"}
+{"ts": 1789943807.5626943, "text": "🛠 فرمان tg-85707320 اجرا شد\n✅ بستن ZEC_1H طبق تأیید شما (forced_close) اجرا شد."}
