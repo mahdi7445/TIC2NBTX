@@ -240,3 +240,4 @@
 {"command_id": "tg-85707229", "update_id": 85707229, "ts": 1789874903.8012464, "command": "/confirmclose BTC_5M"}
 {"command_id": "tg-85707231", "update_id": 85707231, "ts": 1789879820.287225, "command": "/ack SOL_15M"}
 {"command_id": "tg-85707233", "update_id": 85707233, "ts": 1789883441.5779402, "command": "/balance"}
+{"command_id": "tg-85707234", "update_id": 85707234, "ts": 1789883475.6386578, "command": "/positions"}
