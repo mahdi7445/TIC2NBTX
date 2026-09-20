@@ -31,5 +31,5 @@
     "BTC_4H": 2729,
     "BTC_1H": 2792
   },
-  "executor_down_alerted": false
+  "executor_down_alerted": true
 }
