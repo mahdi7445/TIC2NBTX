@@ -245,3 +245,4 @@
 {"command_id": "tg-85707238", "update_id": 85707238, "ts": 1789886350.71753, "command": "/maxtrades 10"}
 {"command_id": "tg-85707239", "update_id": 85707239, "ts": 1789886381.330519, "command": "/pnl"}
 {"command_id": "tg-85707241", "update_id": 85707241, "ts": 1789886619.6546917, "command": "/positions"}
+{"command_id": "tg-85707245", "update_id": 85707245, "ts": 1789886752.8941522, "command": "/risk 4"}
