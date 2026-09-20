@@ -256,3 +256,4 @@
 {"command_id": "tg-85707258", "update_id": 85707258, "ts": 1789892601.4320774, "command": "/positions"}
 {"command_id": "tg-85707260", "update_id": 85707260, "ts": 1789895681.1777666, "command": "/test_api"}
 {"command_id": "tg-85707262", "update_id": 85707262, "ts": 1789895724.8841531, "command": "/collateral 5"}
+{"command_id": "tg-85707264", "update_id": 85707264, "ts": 1789895779.5672894, "command": "/risk 4"}
