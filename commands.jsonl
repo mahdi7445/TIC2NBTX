@@ -266,3 +266,4 @@
 {"command_id": "tg-85707276", "update_id": 85707276, "ts": 1789907660.775402, "command": "/balance"}
 {"command_id": "tg-85707277", "update_id": 85707277, "ts": 1789907973.8836672, "command": "/ack SOL_15M"}
 {"command_id": "tg-85707282", "update_id": 85707282, "ts": 1789922325.6592233, "command": "/confirmclose ETH_5M"}
+{"command_id": "tg-85707285", "update_id": 85707285, "ts": 1789922590.725201, "command": "/confirmclose SOL_15M"}
