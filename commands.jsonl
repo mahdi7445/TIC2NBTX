@@ -268,3 +268,4 @@
 {"command_id": "tg-85707282", "update_id": 85707282, "ts": 1789922325.6592233, "command": "/confirmclose ETH_5M"}
 {"command_id": "tg-85707285", "update_id": 85707285, "ts": 1789922590.725201, "command": "/confirmclose SOL_15M"}
 {"command_id": "tg-85707287", "update_id": 85707287, "ts": 1789922658.9442942, "command": "/pnl"}
+{"command_id": "tg-85707294", "update_id": 85707294, "ts": 1789928489.9096181, "command": "/positions"}
