@@ -269,3 +269,4 @@
 {"command_id": "tg-85707285", "update_id": 85707285, "ts": 1789922590.725201, "command": "/confirmclose SOL_15M"}
 {"command_id": "tg-85707287", "update_id": 85707287, "ts": 1789922658.9442942, "command": "/pnl"}
 {"command_id": "tg-85707294", "update_id": 85707294, "ts": 1789928489.9096181, "command": "/positions"}
+{"command_id": "tg-85707298", "update_id": 85707298, "ts": 1789933169.3027735, "command": "/confirmclose ZEC_1H"}
