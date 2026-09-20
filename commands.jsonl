@@ -261,3 +261,4 @@
 {"command_id": "tg-85707268", "update_id": 85707268, "ts": 1789895868.4461231, "command": "/maxtrades 20"}
 {"command_id": "tg-85707270", "update_id": 85707270, "ts": 1789898652.911925, "command": "/reconcile"}
 {"command_id": "tg-85707271", "update_id": 85707271, "ts": 1789901728.583532, "command": "/ack SOL_15M"}
+{"command_id": "tg-85707273", "update_id": 85707273, "ts": 1789901755.0855854, "command": "/status"}
