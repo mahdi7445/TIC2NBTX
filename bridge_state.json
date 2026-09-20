@@ -1,6 +1,6 @@
 {
-  "telegram_update_offset": 85707311,
-  "outbox_lines_sent": 2078,
+  "telegram_update_offset": 85707312,
+  "outbox_lines_sent": 2079,
   "thread_roots": {
     "BTC_5M": 893,
     "BCH_1H": 910,
@@ -30,7 +30,8 @@
     "NEAR_1H": 2111,
     "BTC_4H": 2729,
     "BTC_1H": 2792,
-    "SOL_1H": 2921
+    "SOL_1H": 2921,
+    "BNB_1H": 2923
   },
   "executor_down_alerted": false
 }
