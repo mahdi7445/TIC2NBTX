@@ -36,5 +36,5 @@
     "LTC_1H": 2937,
     "CRO_1H": 2992
   },
-  "executor_down_alerted": false
+  "executor_down_alerted": true
 }
