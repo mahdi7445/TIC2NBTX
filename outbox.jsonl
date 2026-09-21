@@ -100,3 +100,4 @@
 {"ts": 1789994279.6674554, "text": "🟢 Executor started (build 2026-09-20-r21)\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$4\nLeverage preference=20x (sent as-is to Nobitex)\nGitHub=mahdi7445/TIC2NBTX"}
 {"ts": 1789994285.8642395, "text": "🔄 Startup reconciliation: state=0, Nobitex active=12, pending_protection=0, needs_protection=0"}
 {"ts": 1789994290.6432374, "text": "🛠 فرمان tg-85707389 اجرا شد\n📈 هیچ معامله‌ی بازی در state نیست."}
+{"ts": 1790001488.6732566, "text": "⚠️ رویداد target_hit برای XRP_15M رسید ولی معامله‌ای در state باز نیست.", "key": "XRP_15M"}
