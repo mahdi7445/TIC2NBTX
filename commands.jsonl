@@ -321,3 +321,4 @@
 {"command_id": "tg-85707402", "update_id": 85707402, "ts": 1790016540.214625, "command": "/protection"}
 {"command_id": "tg-85707403", "update_id": 85707403, "ts": 1790016637.2300005, "command": "/fixprotection XRP_1H"}
 {"command_id": "tg-85707404", "update_id": 85707404, "ts": 1790016640.657149, "command": "/fixprotection LTC_1H"}
+{"command_id": "tg-85707405", "update_id": 85707405, "ts": 1790016643.7337666, "command": "/fixprotection NEAR_1H"}
