@@ -3,5 +3,5 @@
   "risk_usdt": "4",
   "max_collateral_usdt": "5",
   "max_open_trades": 20,
-  "leverage": "20"
+  "leverage": "10"
 }
