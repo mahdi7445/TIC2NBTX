@@ -87,3 +87,4 @@
 {"ts": 1789990526.195345, "text": "🛠 فرمان tg-85707376 اجرا شد\nℹ️ معامله‌ای با کلید BTC_4H در state باز نیست."}
 {"ts": 1789990533.84372, "text": "🛠 فرمان tg-85707377 اجرا شد\nℹ️ معامله‌ای با کلید BNB_1H در state باز نیست."}
 {"ts": 1789990568.717944, "text": "🛠 فرمان tg-85707379 اجرا شد\n📈 هیچ معامله‌ی بازی در state نیست."}
+{"ts": 1789991280.5351517, "text": "🛠 فرمان tg-85707380 اجرا شد\n📊 وضعیت\nExecutor: 🟢 online (build 2026-09-20-r21)\nورود جدید: 🟢 فعال\nRisk cap: 4 USDT\nMax collateral/trade: 5 USDT\nLeverage preference: 20x (sent as-is to Nobitex)\nMax open trades: 20\nOpen trades(state): 0\n⏳ Pending protection: 0\n🚨 Incomplete protection (never auto-closed): 0\n📡 Pending close confirmations: 0\nMargin USDT: 14.9681264271"}
