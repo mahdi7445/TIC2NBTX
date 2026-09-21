@@ -319,3 +319,4 @@
 {"command_id": "tg-85707398", "update_id": 85707398, "ts": 1790012951.6314778, "command": "/balance"}
 {"command_id": "tg-85707401", "update_id": 85707401, "ts": 1790016507.7511811, "command": "/recover"}
 {"command_id": "tg-85707402", "update_id": 85707402, "ts": 1790016540.214625, "command": "/protection"}
+{"command_id": "tg-85707403", "update_id": 85707403, "ts": 1790016637.2300005, "command": "/fixprotection XRP_1H"}
