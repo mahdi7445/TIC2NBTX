@@ -325,3 +325,4 @@
 {"command_id": "tg-85707406", "update_id": 85707406, "ts": 1790016648.0594275, "command": "/fixprotection SOL_1H"}
 {"command_id": "tg-85707407", "update_id": 85707407, "ts": 1790016651.5047653, "command": "/fixprotection XRP_15M"}
 {"command_id": "tg-85707408", "update_id": 85707408, "ts": 1790016656.8145328, "command": "/fixprotection BTC_4H"}
+{"command_id": "tg-85707409", "update_id": 85707409, "ts": 1790016661.0527866, "command": "/fixprotection XAUT_1H"}
