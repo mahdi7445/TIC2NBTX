@@ -31,3 +31,4 @@
 {"ts": 1789979765.4141586, "text": "⚠️ XRP_1H: T1 روی قیمت حدی کامل Fill نشد؛ بخش باقیمانده (1.1685960000) با Market بسته شد.", "key": "XRP_1H"}
 {"ts": 1789979768.4687192, "text": "🎯 Target 1 HIT — XRP_1H\nBanked: 20%\nTP price: 1.46\nProtection will move according to the strategy.\nℹ️ فاصله‌ی حد ضرر تا قیمت لیکویید شدن (طبق نوبیتکس: 1.20578): ٪14.4 — وضعیت مناسب.", "key": "XRP_1H"}
 {"ts": 1789980187.035489, "text": "🎯 Target 2 HIT — SOL_1H\nBanked: 30%\nTP price: 115.27\nProtection will move according to the strategy.\nℹ️ فاصله‌ی حد ضرر تا قیمت لیکویید شدن (طبق نوبیتکس: 72.744): ٪51.0 — وضعیت مناسب.", "key": "SOL_1H"}
+{"ts": 1789989307.0516574, "text": "🟢 Executor started (build 2026-09-20-r21)\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$4\nLeverage preference=20x (sent as-is to Nobitex)\nGitHub=mahdi7445/TIC2NBTX"}
