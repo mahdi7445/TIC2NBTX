@@ -37,5 +37,5 @@
     "CRO_1H": 2992,
     "XRP_1H": 3016
   },
-  "executor_down_alerted": true
+  "executor_down_alerted": false
 }
