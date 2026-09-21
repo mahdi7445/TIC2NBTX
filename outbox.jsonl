@@ -12,3 +12,4 @@
 {"ts": 1789964462.45541, "text": "📡 یادآوری: هنوز منتظر تصمیم شما درباره‌ی BTC_1H هستیم\nرویداد کانال: خوردن حد ضرر نهایی طبق کانال\n(190 دقیقه از دریافت این پیام گذشته)", "key": "BTC_1H", "buttons": [[{"text": "✅ بله، طبق کانال ببند", "callback_data": "cmd:/confirmclose BTC_1H"}], [{"text": "❌ نه، نگه دار", "callback_data": "cmd:/dismissclose BTC_1H"}], [{"text": "📋 منو", "callback_data": "menu"}]]}
 {"ts": 1789964796.285697, "text": "🏁 BTC_1H fully closed — reason=stop", "key": "BTC_1H"}
 {"ts": 1789964798.3461916, "text": "🛠 فرمان tg-85707334 اجرا شد\n✅ بستن BTC_1H طبق تأیید شما (stop) اجرا شد."}
+{"ts": 1789964805.5320892, "text": "🏁 ETH_15M closed — breakeven at strategy price 2655.19", "key": "ETH_15M"}
