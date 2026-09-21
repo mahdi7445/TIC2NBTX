@@ -336,3 +336,4 @@
 {"command_id": "tg-85707418", "update_id": 85707418, "ts": 1790016866.4092972, "command": "/ack XRP_1H"}
 {"command_id": "tg-85707420", "update_id": 85707420, "ts": 1790017015.7534883, "command": "/pnl"}
 {"command_id": "tg-85707422", "update_id": 85707422, "ts": 1790017114.1835082, "command": "/balance"}
+{"command_id": "tg-85707424", "update_id": 85707424, "ts": 1790017298.6170218, "command": "/positions"}
