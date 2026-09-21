@@ -96,3 +96,4 @@
 {"ts": 1789992068.27257, "text": "⚠️ رویداد target_hit برای SOL_15M رسید ولی معامله‌ای در state باز نیست.", "key": "SOL_15M"}
 {"ts": 1789994091.0448208, "text": "🟢 Executor started (build 2026-09-20-r21)\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$4\nLeverage preference=20x (sent as-is to Nobitex)\nGitHub=mahdi7445/TIC2NBTX"}
 {"ts": 1789994095.5266075, "text": "🔄 Startup reconciliation: state=0, Nobitex active=12, pending_protection=0, needs_protection=0"}
+{"ts": 1789994120.918286, "text": "🛠 فرمان tg-85707388 اجرا شد\n📊 وضعیت\nExecutor: 🟢 online (build 2026-09-20-r21)\nورود جدید: 🟢 فعال\nRisk cap: 4 USDT\nMax collateral/trade: 5 USDT\nLeverage preference: 20x (sent as-is to Nobitex)\nMax open trades: 20\nOpen trades(state): 0\n⏳ Pending protection: 0\n🚨 Incomplete protection (never auto-closed): 0\n📡 Pending close confirmations: 0\nMargin USDT: 14.9681264271"}
