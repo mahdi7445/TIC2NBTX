@@ -95,3 +95,4 @@
 {"ts": 1789991433.735286, "text": "🛠 فرمان tg-85707385 اجرا شد\n📈 هیچ معامله‌ی بازی در state نیست."}
 {"ts": 1789992068.27257, "text": "⚠️ رویداد target_hit برای SOL_15M رسید ولی معامله‌ای در state باز نیست.", "key": "SOL_15M"}
 {"ts": 1789994091.0448208, "text": "🟢 Executor started (build 2026-09-20-r21)\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$4\nLeverage preference=20x (sent as-is to Nobitex)\nGitHub=mahdi7445/TIC2NBTX"}
+{"ts": 1789994095.5266075, "text": "🔄 Startup reconciliation: state=0, Nobitex active=12, pending_protection=0, needs_protection=0"}
