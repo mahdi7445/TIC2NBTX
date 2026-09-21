@@ -293,3 +293,4 @@
 {"command_id": "tg-85707360", "update_id": 85707360, "ts": 1789990214.3786871, "command": "/fixprotection XLM_1H"}
 {"command_id": "tg-85707361", "update_id": 85707361, "ts": 1789990217.0106227, "command": "/fixprotection NEAR_1H"}
 {"command_id": "tg-85707363", "update_id": 85707363, "ts": 1789990275.8248496, "command": "/reconcile"}
+{"command_id": "tg-85707364", "update_id": 85707364, "ts": 1789990322.9670985, "command": "/positions"}
