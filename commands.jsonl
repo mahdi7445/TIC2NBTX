@@ -279,3 +279,4 @@
 {"command_id": "tg-85707335", "update_id": 85707335, "ts": 1789964794.3593426, "command": "/confirmclose ETH_15M"}
 {"command_id": "tg-85707339", "update_id": 85707339, "ts": 1789978798.2183132, "command": "/positions"}
 {"command_id": "tg-85707341", "update_id": 85707341, "ts": 1789978882.4311125, "command": "/pnl"}
+{"command_id": "tg-85707342", "update_id": 85707342, "ts": 1789979027.1786573, "command": "/ack DOGE_1H"}
