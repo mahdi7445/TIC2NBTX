@@ -313,3 +313,4 @@
 {"command_id": "tg-85707384", "update_id": 85707384, "ts": 1789991390.7648454, "command": "/pnl"}
 {"command_id": "tg-85707385", "update_id": 85707385, "ts": 1789991430.9107504, "command": "/positions"}
 {"command_id": "tg-85707388", "update_id": 85707388, "ts": 1789994113.909856, "command": "/status"}
+{"command_id": "tg-85707389", "update_id": 85707389, "ts": 1789994213.156433, "command": "/positions"}
