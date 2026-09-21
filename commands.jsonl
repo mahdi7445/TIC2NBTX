@@ -307,3 +307,4 @@
 {"command_id": "tg-85707376", "update_id": 85707376, "ts": 1789990509.5368934, "command": "/fixprotection BTC_4H"}
 {"command_id": "tg-85707377", "update_id": 85707377, "ts": 1789990527.4316528, "command": "/fixprotection BNB_1H"}
 {"command_id": "tg-85707379", "update_id": 85707379, "ts": 1789990564.274048, "command": "/positions"}
+{"command_id": "tg-85707380", "update_id": 85707380, "ts": 1789991275.1681387, "command": "/status"}
