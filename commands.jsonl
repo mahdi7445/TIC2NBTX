@@ -302,3 +302,4 @@
 {"command_id": "tg-85707371", "update_id": 85707371, "ts": 1789990477.049946, "command": "/fixprotection NEAR_1H"}
 {"command_id": "tg-85707372", "update_id": 85707372, "ts": 1789990489.0994215, "command": "/fixprotection DOGE_1H"}
 {"command_id": "tg-85707373", "update_id": 85707373, "ts": 1789990495.6650727, "command": "/fixprotection BNB_1H"}
+{"command_id": "tg-85707374", "update_id": 85707374, "ts": 1789990499.499497, "command": "/fixprotection SOL_1H"}
