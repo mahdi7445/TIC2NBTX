@@ -295,3 +295,4 @@
 {"command_id": "tg-85707363", "update_id": 85707363, "ts": 1789990275.8248496, "command": "/reconcile"}
 {"command_id": "tg-85707364", "update_id": 85707364, "ts": 1789990322.9670985, "command": "/positions"}
 {"command_id": "tg-85707366", "update_id": 85707366, "ts": 1789990368.0861897, "command": "/protection"}
+{"command_id": "tg-85707367", "update_id": 85707367, "ts": 1789990409.4308348, "command": "/ack BNB_1H"}
