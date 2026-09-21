@@ -275,3 +275,4 @@
 {"command_id": "tg-85707316", "update_id": 85707316, "ts": 1789942548.9896178, "command": "/positions"}
 {"command_id": "tg-85707320", "update_id": 85707320, "ts": 1789943788.0499825, "command": "/confirmclose ZEC_1H"}
 {"command_id": "tg-85707322", "update_id": 85707322, "ts": 1789945647.7435384, "command": "/positions"}
+{"command_id": "tg-85707334", "update_id": 85707334, "ts": 1789964786.1361692, "command": "/confirmclose BTC_1H"}
