@@ -111,3 +111,4 @@
 {"ts": 1790008097.8023558, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1530 update_id=85707391: LeverageTooHigh: Max leverage for ETHUSDT is 1E+1"}
 {"ts": 1790008109.0267003, "text": "📥 سیگنال دریافت شد\nETH_15M · LONG\nEntry=2758.42\nSL=2695.14\nRisk cap=$4\nEffective risk≈$0.3434\nLeverage=20x (طبق ترجیح شما)\n   (نوبیتکس برای این بازار عمومی 5x اعلام می‌کند؛ صرفاً اطلاعاتی است و مانع درخواست شما نمی‌شود — نتیجه‌ی واقعی پایین‌تر در همین پیام بعد از باز شدن معامله تأیید می‌شود)\nCalculated amount=0.0054263405 ETH\nNotional≈$14.9681\nCollateral≈$0.7484\nMargin available=14.9681", "key": "ETH_15M"}
 {"ts": 1790008111.7785852, "text": "❌ اجرای سیگنال ETH_15M شکست خورد: LeverageTooHigh: Max leverage for ETHUSDT is 1E+1", "key": "ETH_15M"}
+{"ts": 1790008114.3631349, "text": "🚨 Unexpected executor error for channel signal=-1003895173195:1530 update_id=85707391: LeverageTooHigh: Max leverage for ETHUSDT is 1E+1"}
