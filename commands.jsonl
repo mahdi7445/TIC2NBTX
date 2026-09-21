@@ -292,3 +292,4 @@
 {"command_id": "tg-85707359", "update_id": 85707359, "ts": 1789990211.5208812, "command": "/fixprotection DOGE_1H"}
 {"command_id": "tg-85707360", "update_id": 85707360, "ts": 1789990214.3786871, "command": "/fixprotection XLM_1H"}
 {"command_id": "tg-85707361", "update_id": 85707361, "ts": 1789990217.0106227, "command": "/fixprotection NEAR_1H"}
+{"command_id": "tg-85707363", "update_id": 85707363, "ts": 1789990275.8248496, "command": "/reconcile"}
