@@ -382,3 +382,10 @@
 {"command_id": "tg-85707509", "update_id": 85707509, "ts": 1790068674.2794673, "command": "/confirmclose SOL_1H"}
 {"command_id": "tg-85707510", "update_id": 85707510, "ts": 1790068677.651838, "command": "/confirmclose XRP_1H"}
 {"command_id": "tg-85707511", "update_id": 85707511, "ts": 1790068680.6229563, "command": "/confirmclose XLM_1H"}
+{"command_id": "tg-85707512", "update_id": 85707512, "ts": 1790070347.7088373, "command": "/ack XRP_1H"}
+{"command_id": "tg-85707513", "update_id": 85707513, "ts": 1790070348.246726, "command": "/ack SOL_1H"}
+{"command_id": "tg-85707514", "update_id": 85707514, "ts": 1790070348.770974, "command": "/ack XRP_1H"}
+{"command_id": "tg-85707515", "update_id": 85707515, "ts": 1790070349.3141944, "command": "/ack SOL_1H"}
+{"command_id": "tg-85707516", "update_id": 85707516, "ts": 1790070349.8144882, "command": "/ack XRP_1H"}
+{"command_id": "tg-85707517", "update_id": 85707517, "ts": 1790070350.2794163, "command": "/ack XRP_1H"}
+{"command_id": "tg-85707518", "update_id": 85707518, "ts": 1790070350.7686956, "command": "/ack SOL_1H"}
