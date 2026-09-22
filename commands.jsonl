@@ -351,3 +351,4 @@
 {"command_id": "tg-85707456", "update_id": 85707456, "ts": 1790055271.7271562, "command": "/ack NEAR_1H"}
 {"command_id": "tg-85707457", "update_id": 85707457, "ts": 1790055274.0909173, "command": "/ack LTC_1H"}
 {"command_id": "tg-85707459", "update_id": 85707459, "ts": 1790057546.6474755, "command": "/protection"}
+{"command_id": "tg-85707460", "update_id": 85707460, "ts": 1790057616.6777616, "command": "/ack XRP_1H"}
