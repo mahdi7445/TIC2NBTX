@@ -650,3 +650,4 @@
 {"ts": 1790068708.1794734, "text": "🛠 فرمان tg-85707510 اجرا شد\n✅ بستن XRP_1H طبق تأیید شما (sl_after_t3) اجرا شد."}
 {"ts": 1790068719.1720426, "text": "🏁 XLM_1H closed — sl_after_t2 at strategy price 0.2048", "key": "XLM_1H"}
 {"ts": 1790068725.9004414, "text": "🛠 فرمان tg-85707511 اجرا شد\n✅ بستن XLM_1H طبق تأیید شما (sl_after_t2) اجرا شد."}
+{"ts": 1790068742.6706939, "text": "⚠️ Runner trailing update failed for XRP_15M: NetworkError: HTTPSConnectionPool(host='api.nobitex.ir', port=443): Max retries exceeded with url: /v3/orderbook/XRPUSDT (Caused by NameResolutionError(\"HTTPSConnection(host='api.nobitex.ir', port=443): Failed to resolve 'api.nobitex.ir' ([Errno 11001] getaddrinfo failed)\"))", "key": "XRP_15M"}
