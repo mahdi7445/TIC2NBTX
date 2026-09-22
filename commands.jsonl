@@ -369,3 +369,4 @@
 {"command_id": "tg-85707478", "update_id": 85707478, "ts": 1790064424.9613132, "command": "/recover"}
 {"command_id": "tg-85707482", "update_id": 85707482, "ts": 1790067022.1668496, "command": "/confirmclose DOGE_1H"}
 {"command_id": "tg-85707483", "update_id": 85707483, "ts": 1790067028.9110303, "command": "/dismissclose DOGE_1H"}
+{"command_id": "tg-85707485", "update_id": 85707485, "ts": 1790067486.4044306, "command": "/confirmclose BTC_15M"}
