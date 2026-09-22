@@ -391,3 +391,4 @@
 {"command_id": "tg-85707518", "update_id": 85707518, "ts": 1790070350.7686956, "command": "/ack SOL_1H"}
 {"command_id": "tg-85707519", "update_id": 85707519, "ts": 1790070354.578898, "command": "/ack XRP_1H"}
 {"command_id": "tg-85707520", "update_id": 85707520, "ts": 1790070355.0526206, "command": "/ack SOL_1H"}
+{"command_id": "tg-85707524", "update_id": 85707524, "ts": 1790070848.954711, "command": "/recover"}
