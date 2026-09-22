@@ -380,3 +380,4 @@
 {"ts": 1790043906.034464, "text": "🚨 DOGE_1H: T2 hit شد ولی بستن fallback ناموفق بود: ExceedLiability - Amount Exceeds Liability", "key": "DOGE_1H"}
 {"ts": 1790043919.0329094, "text": "🚨 DOGE_1H: T3 hit شد ولی بستن fallback ناموفق بود: ExceedLiability - Amount Exceeds Liability", "key": "DOGE_1H"}
 {"ts": 1790043935.0004847, "text": "🚨 هنوز محافظت XRP_1H کامل نشده (251 دقیقه از اولین تلاش)؛ پوزیشن دست‌نخورده باقی مانده و هیچ بسته‌شدن خودکاری انجام نشده. تصمیم با شماست:", "key": "XRP_1H", "buttons": [[{"text": "🔁 تلاش مجدد برای تکمیل محافظت", "callback_data": "cmd:/fixprotection XRP_1H"}], [{"text": "❌ بستن این معامله (با تصمیم خودم)", "callback_data": "cmd:/close XRP_1H"}], [{"text": "✅ بررسی شد", "callback_data": "ack:XRP_1H"}, {"text": "📈 معاملات باز", "callback_data": "cmd:/positions"}]]}
+{"ts": 1790043994.9899569, "text": "♻️ بازیابی پوزیشن‌های بی‌صاحب\n❓ #119056412 SUI LONG: سیگنال مطابق در کانال پیدا نشد؛ دست نخورد (اگر دستی باز کرده‌اید طبیعی است)."}
