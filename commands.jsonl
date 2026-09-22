@@ -411,3 +411,4 @@
 {"command_id": "tg-85707558", "update_id": 85707558, "ts": 1790104633.3437696, "command": "/positions"}
 {"command_id": "tg-85707559", "update_id": 85707559, "ts": 1790104682.2848806, "command": "/ack XRP_1H"}
 {"command_id": "tg-85707560", "update_id": 85707560, "ts": 1790104706.2037659, "command": "/ack LTC_1H"}
+{"command_id": "tg-85707561", "update_id": 85707561, "ts": 1790104718.9200425, "command": "/ack NEAR_1H"}
