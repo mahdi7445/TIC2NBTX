@@ -401,3 +401,4 @@
 {"command_id": "tg-85707541", "update_id": 85707541, "ts": 1790077649.2182934, "command": "/ack NEAR_1H"}
 {"command_id": "tg-85707542", "update_id": 85707542, "ts": 1790077651.8262744, "command": "/dismissclose NEAR_1H"}
 {"command_id": "tg-85707546", "update_id": 85707546, "ts": 1790091058.354812, "command": "/positions"}
+{"command_id": "tg-85707547", "update_id": 85707547, "ts": 1790091684.0372572, "command": "/ack NEAR_1H"}
