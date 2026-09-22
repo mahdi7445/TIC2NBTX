@@ -1337,3 +1337,4 @@
 {"ts": 1790115800.1848056, "text": "🛠 فرمان tg-85707579 اجرا شد\n📊 وضعیت\nExecutor: 🟢 online (build 2026-09-22-r25)\nورود جدید: 🟢 فعال\nRisk cap: 4.5 USDT\nMax collateral/trade: 5 USDT\nLeverage preference: 10x (sent as-is to Nobitex)\nMax open trades: 15\nOpen trades(state): 9\n⏳ Pending protection: 0\n🚨 Incomplete protection (never auto-closed): 0\n📡 Pending close confirmations: 0\nMargin USDT: 52.8910708251"}
 {"ts": 1790119744.3996017, "text": "🛠 فرمان tg-85707582 اجرا شد\n✅ حداکثر معاملات همزمان: 20"}
 {"ts": 1790119776.5028918, "text": "🛠 فرمان tg-85707584 اجرا شد\n✅ Risk cap به 3 USDT تغییر کرد."}
+{"ts": 1790119792.277084, "text": "🛠 فرمان tg-85707586 اجرا شد\n✅ سقف مارجین هر معامله به 4 USDT تغییر کرد."}
