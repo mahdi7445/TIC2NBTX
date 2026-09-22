@@ -389,3 +389,5 @@
 {"command_id": "tg-85707516", "update_id": 85707516, "ts": 1790070349.8144882, "command": "/ack XRP_1H"}
 {"command_id": "tg-85707517", "update_id": 85707517, "ts": 1790070350.2794163, "command": "/ack XRP_1H"}
 {"command_id": "tg-85707518", "update_id": 85707518, "ts": 1790070350.7686956, "command": "/ack SOL_1H"}
+{"command_id": "tg-85707519", "update_id": 85707519, "ts": 1790070354.578898, "command": "/ack XRP_1H"}
+{"command_id": "tg-85707520", "update_id": 85707520, "ts": 1790070355.0526206, "command": "/ack SOL_1H"}
