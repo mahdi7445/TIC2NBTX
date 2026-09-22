@@ -648,3 +648,4 @@
 {"ts": 1790068685.664421, "text": "🛠 فرمان tg-85707509 اجرا شد\n✅ بستن SOL_1H طبق تأیید شما (sl_after_t2) اجرا شد."}
 {"ts": 1790068701.6689148, "text": "🚨 XRP_1H: sl_after_t3 close failed: ExceedLiability - Amount Exceeds Liability", "key": "XRP_1H"}
 {"ts": 1790068708.1794734, "text": "🛠 فرمان tg-85707510 اجرا شد\n✅ بستن XRP_1H طبق تأیید شما (sl_after_t3) اجرا شد."}
+{"ts": 1790068719.1720426, "text": "🏁 XLM_1H closed — sl_after_t2 at strategy price 0.2048", "key": "XLM_1H"}
