@@ -407,3 +407,4 @@
 {"command_id": "tg-85707550", "update_id": 85707550, "ts": 1790091691.6694326, "command": "/ack BTC_4H"}
 {"command_id": "tg-85707552", "update_id": 85707552, "ts": 1790095253.6057165, "command": "/ack LTC_1H"}
 {"command_id": "tg-85707553", "update_id": 85707553, "ts": 1790095258.5881348, "command": "/ack XRP_1H"}
+{"command_id": "tg-85707557", "update_id": 85707557, "ts": 1790104491.8614163, "command": "/status"}
