@@ -675,3 +675,4 @@
 {"ts": 1790070410.4686356, "text": "🛠 فرمان tg-85707518 اجرا شد\nℹ️ موردی با کلید SOL_1H در صف پیگیری خودکار (pending_protection/needs_protection) پیدا نشد."}
 {"ts": 1790070421.1994338, "text": "🛠 فرمان tg-85707519 اجرا شد\nℹ️ موردی با کلید XRP_1H در صف پیگیری خودکار (pending_protection/needs_protection) پیدا نشد."}
 {"ts": 1790070427.66681, "text": "🛠 فرمان tg-85707520 اجرا شد\nℹ️ موردی با کلید SOL_1H در صف پیگیری خودکار (pending_protection/needs_protection) پیدا نشد."}
+{"ts": 1790070586.9951713, "text": "⚠️ رویداد target_hit برای SUI_1H رسید ولی معامله‌ای در state باز نیست. اگر روی نوبیتکس پوزیشن باز دارید /recover را بزنید.", "key": "SUI_1H", "buttons": [[{"text": "♻️ بازیابی پوزیشن‌های بی‌صاحب", "callback_data": "cmd:/recover"}]]}
