@@ -629,3 +629,4 @@
 {"ts": 1790067605.235661, "text": "🛠 فرمان tg-85707488 اجرا شد\n✅ حداکثر معاملات همزمان: 20"}
 {"ts": 1790067618.642912, "text": "🛠 فرمان tg-85707490 اجرا شد\n✅ اهرم ترجیحی به 10x تغییر کرد و همین عدد مستقیماً به نوبیتکس درخواست می‌شود.\nاگر نوبیتکس برای بازاری خاص واقعاً اهرم پایین‌تری اعمال کند، Executor آن را از پاسخ واقعی بعد از باز شدن معامله می‌خواند و در همان پیام تأیید نشان می‌دهد."}
 {"ts": 1790067636.2284698, "text": "🛠 فرمان tg-85707492 اجرا شد\n📊 وضعیت\nExecutor: 🟢 online (build 2026-09-21-r23)\nورود جدید: 🟢 فعال\nRisk cap: 4 USDT\nMax collateral/trade: 5 USDT\nLeverage preference: 10x (sent as-is to Nobitex)\nMax open trades: 20\nOpen trades(state): 10\n⏳ Pending protection: 0\n🚨 Incomplete protection (never auto-closed): 0\n📡 Pending close confirmations: 0\nMargin USDT: 18.30259088"}
+{"ts": 1790067675.2517142, "text": "🛠 فرمان tg-85707493 اجرا شد\n🧪 API OK\nMargin markets: 127\nMargin USDT: 18.30259088"}
