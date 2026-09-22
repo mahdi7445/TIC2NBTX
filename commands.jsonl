@@ -416,3 +416,4 @@
 {"command_id": "tg-85707563", "update_id": 85707563, "ts": 1790104753.115197, "command": "/ack XRP_15M"}
 {"command_id": "tg-85707564", "update_id": 85707564, "ts": 1790104798.1132128, "command": "/ack BTC_4H"}
 {"command_id": "tg-85707566", "update_id": 85707566, "ts": 1790105102.3419316, "command": "/pnl"}
+{"command_id": "tg-85707567", "update_id": 85707567, "ts": 1790105115.4385066, "command": "/balance"}
