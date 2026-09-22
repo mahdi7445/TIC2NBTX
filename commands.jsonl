@@ -398,3 +398,4 @@
 {"command_id": "tg-85707530", "update_id": 85707530, "ts": 1790071959.8457549, "command": "/risk 4.5"}
 {"command_id": "tg-85707532", "update_id": 85707532, "ts": 1790071970.6054223, "command": "/collateral 5"}
 {"command_id": "tg-85707534", "update_id": 85707534, "ts": 1790071988.4118876, "command": "/leverage 10"}
+{"command_id": "tg-85707541", "update_id": 85707541, "ts": 1790077649.2182934, "command": "/ack NEAR_1H"}
