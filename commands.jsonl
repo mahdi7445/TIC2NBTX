@@ -419,3 +419,4 @@
 {"command_id": "tg-85707567", "update_id": 85707567, "ts": 1790105115.4385066, "command": "/balance"}
 {"command_id": "tg-85707571", "update_id": 85707571, "ts": 1790112274.619419, "command": "/positions"}
 {"command_id": "tg-85707572", "update_id": 85707572, "ts": 1790115569.9440753, "command": "/positions"}
+{"command_id": "tg-85707573", "update_id": 85707573, "ts": 1790115656.5380528, "command": "/ack LTC_1H"}
