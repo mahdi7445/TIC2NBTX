@@ -426,3 +426,4 @@
 {"command_id": "tg-85707577", "update_id": 85707577, "ts": 1790115667.8768358, "command": "/ack BTC_4H"}
 {"command_id": "tg-85707579", "update_id": 85707579, "ts": 1790115745.906357, "command": "/status"}
 {"command_id": "tg-85707582", "update_id": 85707582, "ts": 1790119737.8596122, "command": "/maxtrades 20"}
+{"command_id": "tg-85707584", "update_id": 85707584, "ts": 1790119772.828495, "command": "/risk 3"}
