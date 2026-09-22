@@ -677,3 +677,4 @@
 {"ts": 1790070427.66681, "text": "🛠 فرمان tg-85707520 اجرا شد\nℹ️ موردی با کلید SOL_1H در صف پیگیری خودکار (pending_protection/needs_protection) پیدا نشد."}
 {"ts": 1790070586.9951713, "text": "⚠️ رویداد target_hit برای SUI_1H رسید ولی معامله‌ای در state باز نیست. اگر روی نوبیتکس پوزیشن باز دارید /recover را بزنید.", "key": "SUI_1H", "buttons": [[{"text": "♻️ بازیابی پوزیشن‌های بی‌صاحب", "callback_data": "cmd:/recover"}]]}
 {"ts": 1790070631.912249, "text": "⚠️ Runner trailing update failed for XRP_15M: NetworkError: HTTPSConnectionPool(host='api.nobitex.ir', port=443): Max retries exceeded with url: /v3/orderbook/XRPUSDT (Caused by NameResolutionError(\"HTTPSConnection(host='api.nobitex.ir', port=443): Failed to resolve 'api.nobitex.ir' ([Errno 11001] getaddrinfo failed)\"))", "key": "XRP_15M"}
+{"ts": 1790070854.6593535, "text": "🛠 فرمان tg-85707524 اجرا شد\nℹ️ چیزی برای گزارش نبود."}
