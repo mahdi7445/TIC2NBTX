@@ -347,3 +347,5 @@
 {"command_id": "tg-85707452", "update_id": 85707452, "ts": 1790055263.6553986, "command": "/ack XAUT_1H"}
 {"command_id": "tg-85707453", "update_id": 85707453, "ts": 1790055266.4170272, "command": "/ack BTC_4H"}
 {"command_id": "tg-85707454", "update_id": 85707454, "ts": 1790055268.687451, "command": "/ack XRP_15M"}
+{"command_id": "tg-85707455", "update_id": 85707455, "ts": 1790055271.354019, "command": "/ack SOL_1H"}
+{"command_id": "tg-85707456", "update_id": 85707456, "ts": 1790055271.7271562, "command": "/ack NEAR_1H"}
