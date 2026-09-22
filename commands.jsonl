@@ -425,3 +425,4 @@
 {"command_id": "tg-85707576", "update_id": 85707576, "ts": 1790115663.222942, "command": "/ack XRP_15M"}
 {"command_id": "tg-85707577", "update_id": 85707577, "ts": 1790115667.8768358, "command": "/ack BTC_4H"}
 {"command_id": "tg-85707579", "update_id": 85707579, "ts": 1790115745.906357, "command": "/status"}
+{"command_id": "tg-85707582", "update_id": 85707582, "ts": 1790119737.8596122, "command": "/maxtrades 20"}
