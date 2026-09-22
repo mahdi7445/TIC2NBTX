@@ -370,3 +370,4 @@
 {"command_id": "tg-85707482", "update_id": 85707482, "ts": 1790067022.1668496, "command": "/confirmclose DOGE_1H"}
 {"command_id": "tg-85707483", "update_id": 85707483, "ts": 1790067028.9110303, "command": "/dismissclose DOGE_1H"}
 {"command_id": "tg-85707485", "update_id": 85707485, "ts": 1790067486.4044306, "command": "/confirmclose BTC_15M"}
+{"command_id": "tg-85707488", "update_id": 85707488, "ts": 1790067601.1804905, "command": "/maxtrades 20"}
