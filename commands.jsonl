@@ -361,3 +361,4 @@
 {"command_id": "tg-85707468", "update_id": 85707468, "ts": 1790058466.1153436, "command": "/test_api"}
 {"command_id": "tg-85707469", "update_id": 85707469, "ts": 1790058494.3598976, "command": "/status"}
 {"command_id": "tg-85707470", "update_id": 85707470, "ts": 1790058830.4675522, "command": "/ack LTC_1H"}
+{"command_id": "tg-85707471", "update_id": 85707471, "ts": 1790058833.3158338, "command": "/ack NEAR_1H"}
