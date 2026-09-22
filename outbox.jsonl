@@ -688,3 +688,4 @@
 {"ts": 1790071964.644364, "text": "🛠 فرمان tg-85707530 اجرا شد\n✅ Risk cap به 4.5 USDT تغییر کرد."}
 {"ts": 1790071982.7467809, "text": "🛠 فرمان tg-85707532 اجرا شد\n✅ سقف مارجین هر معامله به 5 USDT تغییر کرد."}
 {"ts": 1790072003.746284, "text": "🛠 فرمان tg-85707534 اجرا شد\n✅ اهرم ترجیحی به 10x تغییر کرد و همین عدد مستقیماً به نوبیتکس درخواست می‌شود.\nاگر نوبیتکس برای بازاری خاص واقعاً اهرم پایین‌تری اعمال کند، Executor آن را از پاسخ واقعی بعد از باز شدن معامله می‌خواند و در همان پیام تأیید نشان می‌دهد."}
+{"ts": 1790072169.7373574, "text": "⚠️ Runner trailing update failed for XRP_15M: NetworkError: HTTPSConnectionPool(host='api.nobitex.ir', port=443): Max retries exceeded with url: /v3/orderbook/XRPUSDT (Caused by NameResolutionError(\"HTTPSConnection(host='api.nobitex.ir', port=443): Failed to resolve 'api.nobitex.ir' ([Errno 11001] getaddrinfo failed)\"))", "key": "XRP_15M"}
