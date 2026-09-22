@@ -635,3 +635,4 @@
 {"ts": 1790067759.9335685, "text": "⚠️ Runner trailing update failed for XRP_15M: NetworkError: HTTPSConnectionPool(host='api.nobitex.ir', port=443): Max retries exceeded with url: /v3/orderbook/XRPUSDT (Caused by NameResolutionError(\"HTTPSConnection(host='api.nobitex.ir', port=443): Failed to resolve 'api.nobitex.ir' ([Errno 11001] getaddrinfo failed)\"))", "key": "XRP_15M"}
 {"ts": 1790067847.3625374, "text": "🛠 فرمان tg-85707500 اجرا شد\n✅ حداکثر معاملات همزمان: 20"}
 {"ts": 1790067879.0125742, "text": "🛠 فرمان tg-85707502 اجرا شد\n✅ Risk cap به 3.5 USDT تغییر کرد."}
+{"ts": 1790067898.8791068, "text": "🛠 فرمان tg-85707504 اجرا شد\n✅ سقف مارجین هر معامله به 4 USDT تغییر کرد."}
