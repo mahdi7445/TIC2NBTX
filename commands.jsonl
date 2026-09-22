@@ -372,3 +372,4 @@
 {"command_id": "tg-85707485", "update_id": 85707485, "ts": 1790067486.4044306, "command": "/confirmclose BTC_15M"}
 {"command_id": "tg-85707488", "update_id": 85707488, "ts": 1790067601.1804905, "command": "/maxtrades 20"}
 {"command_id": "tg-85707490", "update_id": 85707490, "ts": 1790067610.4990869, "command": "/leverage 10"}
+{"command_id": "tg-85707492", "update_id": 85707492, "ts": 1790067630.9098165, "command": "/status"}
