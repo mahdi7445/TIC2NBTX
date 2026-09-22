@@ -368,3 +368,4 @@
 {"command_id": "tg-85707475", "update_id": 85707475, "ts": 1790058858.6351473, "command": "/ack XRP_1H"}
 {"command_id": "tg-85707478", "update_id": 85707478, "ts": 1790064424.9613132, "command": "/recover"}
 {"command_id": "tg-85707482", "update_id": 85707482, "ts": 1790067022.1668496, "command": "/confirmclose DOGE_1H"}
+{"command_id": "tg-85707483", "update_id": 85707483, "ts": 1790067028.9110303, "command": "/dismissclose DOGE_1H"}
