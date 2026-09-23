@@ -444,3 +444,4 @@
 {"command_id": "tg-85707625", "update_id": 85707625, "ts": 1790191498.459829, "command": "/close XRP_15M"}
 {"command_id": "tg-85707627", "update_id": 85707627, "ts": 1790195767.9916961, "command": "/fixprotection DOGE_1H"}
 {"command_id": "tg-85707628", "update_id": 85707628, "ts": 1790196074.2120333, "command": "/positions"}
+{"command_id": "tg-85707634", "update_id": 85707634, "ts": 1790197901.243501, "command": "/status"}
