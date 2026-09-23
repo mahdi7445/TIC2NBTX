@@ -438,3 +438,4 @@
 {"command_id": "tg-85707603", "update_id": 85707603, "ts": 1790162111.617687, "command": "/close XRP_15M"}
 {"command_id": "tg-85707604", "update_id": 85707604, "ts": 1790162567.4455664, "command": "/balance"}
 {"command_id": "tg-85707610", "update_id": 85707610, "ts": 1790176025.747844, "command": "/balance"}
+{"command_id": "tg-85707611", "update_id": 85707611, "ts": 1790176586.9388762, "command": "/status"}
