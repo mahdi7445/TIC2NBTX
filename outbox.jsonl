@@ -1359,3 +1359,4 @@
 {"ts": 1790162074.2273037, "text": "🛠 فرمان tg-85707602 اجرا شد\n📈 معاملات باز: 1\n\n🔹 XRP_15M · LONG\n🆔 Signal ID: -1003895173195:1489\nEntry: 1.408\nStop فعلی: 1.45\nLeverage: 5x\nتارگت‌ها: T1✅ T2✅ T3✅ T4✅\nRunner: Trailing فعال\nLiability: 2.34202\nPNL: ؟\nPosition ID: 119046067", "buttons": [[{"text": "❌ بستن XRP_15M", "callback_data": "cmd:/close XRP_15M"}], [{"text": "📋 منو", "callback_data": "menu"}]]}
 {"ts": 1790162114.2038696, "text": "⚠️ XRP_15M: وضعیت پوزیشن نامشخص است ('Expired'); چیزی بسته/لغو نشد.", "key": "XRP_15M"}
 {"ts": 1790162127.799548, "text": "🛠 فرمان tg-85707603 اجرا شد\n🚨 فرمان بستن XRP_15M اجرا شد."}
+{"ts": 1790162569.8009293, "text": "🛠 فرمان tg-85707604 اجرا شد\n💰 موجودی USDT\nMargin active: 70.5202449813\nSpot active: 0.0172260713"}
