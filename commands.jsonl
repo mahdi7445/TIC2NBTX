@@ -440,3 +440,4 @@
 {"command_id": "tg-85707610", "update_id": 85707610, "ts": 1790176025.747844, "command": "/balance"}
 {"command_id": "tg-85707611", "update_id": 85707611, "ts": 1790176586.9388762, "command": "/status"}
 {"command_id": "tg-85707623", "update_id": 85707623, "ts": 1790191255.987599, "command": "/status"}
+{"command_id": "tg-85707624", "update_id": 85707624, "ts": 1790191388.4261045, "command": "/positions"}
