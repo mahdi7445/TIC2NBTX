@@ -448,3 +448,4 @@
 {"command_id": "tg-85707636", "update_id": 85707636, "ts": 1790197941.7591374, "command": "/collateral 4.5"}
 {"command_id": "tg-85707643", "update_id": 85707643, "ts": 1790205188.9611416, "command": "/positions"}
 {"command_id": "tg-85707646", "update_id": 85707646, "ts": 1790205280.5413105, "command": "/leverage"}
+{"command_id": "tg-85707647", "update_id": 85707647, "ts": 1790205295.4934392, "command": "/leverage 7"}
