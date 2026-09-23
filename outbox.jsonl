@@ -1354,3 +1354,4 @@
 {"ts": 1790153705.2985973, "text": "🏁 ZEC_1H: پوزیشن روی نوبیتکس بسته شده است (حد سود/ضرر خود سفارش‌ها).\nنتیجه: 1.0741950128 USDT (nobitex_position)", "key": "ZEC_1H"}
 {"ts": 1790153718.0691743, "text": "🏁 BTC_4H: پوزیشن روی نوبیتکس بسته شده است (حد سود/ضرر خود سفارش‌ها).\nنتیجه: 1.2466695224 USDT (nobitex_position)", "key": "BTC_4H"}
 {"ts": 1790158024.212751, "text": "🛠 فرمان tg-85707600 اجرا شد\n📊 وضعیت\nExecutor: 🟢 online (build 2026-09-22-r25)\nورود جدید: 🟢 فعال\nRisk cap: 3 USDT\nMax collateral/trade: 4 USDT\nLeverage preference: 10x (sent as-is to Nobitex)\nMax open trades: 20\nOpen trades(state): 1\n⏳ Pending protection: 0\n🚨 Incomplete protection (never auto-closed): 0\n📡 Pending close confirmations: 0\nMargin USDT: 70.5202449813"}
+{"ts": 1790158050.7956522, "text": "⏭️ سیگنال BTC_15M به دلیل قدیمی بودن نادیده گرفته شد (86.4 دقیقه از انتشار آن گذشته؛ سقف مجاز برای این تایم‌فریم ~30 دقیقه است). هیچ معامله‌ای باز نشد."}
