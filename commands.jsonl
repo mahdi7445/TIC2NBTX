@@ -431,3 +431,4 @@
 {"command_id": "tg-85707588", "update_id": 85707588, "ts": 1790119799.330256, "command": "/leverage 10"}
 {"command_id": "tg-85707590", "update_id": 85707590, "ts": 1790146231.3692372, "command": "/status"}
 {"command_id": "tg-85707591", "update_id": 85707591, "ts": 1790146287.1022475, "command": "/pnl"}
+{"command_id": "tg-85707592", "update_id": 85707592, "ts": 1790146336.1856008, "command": "/config"}
