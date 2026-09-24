@@ -1514,3 +1514,4 @@
 {"ts": 1790229738.2902846, "text": "🏁 ADA_5M fully closed — reason=stop", "key": "ADA_5M"}
 {"ts": 1790229754.2241182, "text": "🛠 فرمان tg-85707667 اجرا شد\n✅ بستن ADA_5M طبق تأیید شما (stop) اجرا شد."}
 {"ts": 1790229774.846321, "text": "🏁 BTC_5M closed — sl_after_t2 at strategy price 84041.08", "key": "BTC_5M"}
+{"ts": 1790229788.7531106, "text": "🛠 فرمان tg-85707668 اجرا شد\n✅ بستن BTC_5M طبق تأیید شما (sl_after_t2) اجرا شد."}
