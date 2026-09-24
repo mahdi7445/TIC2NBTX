@@ -462,3 +462,4 @@
 {"command_id": "tg-85707674", "update_id": 85707674, "ts": 1790238709.8104591, "command": "/positions"}
 {"command_id": "tg-85707680", "update_id": 85707680, "ts": 1790242419.326229, "command": "/confirmclose ADA_15M"}
 {"command_id": "tg-85707681", "update_id": 85707681, "ts": 1790242419.9812417, "command": "/confirmclose SOL_15M"}
+{"command_id": "tg-85707683", "update_id": 85707683, "ts": 1790242632.1315763, "command": "/positions"}
