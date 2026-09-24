@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "risk_usdt": "3",
+  "risk_usdt": "2.5",
   "max_collateral_usdt": "3.5",
   "max_open_trades": 15,
   "leverage": "10"
