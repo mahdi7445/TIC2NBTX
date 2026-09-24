@@ -460,3 +460,5 @@
 {"command_id": "tg-85707670", "update_id": 85707670, "ts": 1790229871.1562667, "command": "/positions"}
 {"command_id": "tg-85707671", "update_id": 85707671, "ts": 1790230147.4868536, "command": "/close XRP_15M"}
 {"command_id": "tg-85707674", "update_id": 85707674, "ts": 1790238709.8104591, "command": "/positions"}
+{"command_id": "tg-85707680", "update_id": 85707680, "ts": 1790242419.326229, "command": "/confirmclose ADA_15M"}
+{"command_id": "tg-85707681", "update_id": 85707681, "ts": 1790242419.9812417, "command": "/confirmclose SOL_15M"}
