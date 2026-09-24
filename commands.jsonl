@@ -456,3 +456,4 @@
 {"command_id": "tg-85707656", "update_id": 85707656, "ts": 1790209649.9064956, "command": "/close XRP_15M"}
 {"command_id": "tg-85707666", "update_id": 85707666, "ts": 1790229707.6658237, "command": "/fixprotection BTC_5M"}
 {"command_id": "tg-85707667", "update_id": 85707667, "ts": 1790229712.3477883, "command": "/confirmclose ADA_5M"}
+{"command_id": "tg-85707668", "update_id": 85707668, "ts": 1790229714.7971668, "command": "/confirmclose BTC_5M"}
