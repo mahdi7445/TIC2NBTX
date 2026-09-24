@@ -464,3 +464,4 @@
 {"command_id": "tg-85707681", "update_id": 85707681, "ts": 1790242419.9812417, "command": "/confirmclose SOL_15M"}
 {"command_id": "tg-85707683", "update_id": 85707683, "ts": 1790242632.1315763, "command": "/positions"}
 {"command_id": "tg-85707686", "update_id": 85707686, "ts": 1790246771.517939, "command": "/dismissclose BTC_1H"}
+{"command_id": "tg-85707688", "update_id": 85707688, "ts": 1790248685.7596774, "command": "/positions"}
