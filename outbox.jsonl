@@ -1533,3 +1533,4 @@
 {"ts": 1790242406.8381324, "text": "⚠️ رویداد target_hit برای BTC_15M رسید ولی معامله‌ای در state باز نیست. اگر روی نوبیتکس پوزیشن باز دارید /recover را بزنید.", "key": "BTC_15M", "buttons": [[{"text": "♻️ بازیابی پوزیشن‌های بی‌صاحب", "callback_data": "cmd:/recover"}]]}
 {"ts": 1790242444.5599768, "text": "🏁 ADA_15M fully closed — reason=stop", "key": "ADA_15M"}
 {"ts": 1790242462.5694578, "text": "🛠 فرمان tg-85707680 اجرا شد\n✅ بستن ADA_15M طبق تأیید شما (stop) اجرا شد."}
+{"ts": 1790242483.140161, "text": "🏁 SOL_15M fully closed — reason=stop", "key": "SOL_15M"}
