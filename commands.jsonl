@@ -485,3 +485,4 @@
 {"command_id": "tg-85707739", "update_id": 85707739, "ts": 1790341431.8001797, "command": "/collateral 5"}
 {"command_id": "tg-85707743", "update_id": 85707743, "ts": 1790345873.8453455, "command": "/positions"}
 {"command_id": "tg-85707744", "update_id": 85707744, "ts": 1790346070.3619406, "command": "/status"}
+{"command_id": "tg-85707749", "update_id": 85707749, "ts": 1790348587.8197217, "command": "/collateral 5"}
