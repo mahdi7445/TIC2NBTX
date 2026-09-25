@@ -1626,3 +1626,4 @@
 {"ts": 1790334444.7527862, "text": "⚠️ رویداد forced_close برای SHIB_1H رسید ولی معامله‌ای در state باز نیست. اگر روی نوبیتکس پوزیشن باز دارید /recover را بزنید.", "key": "SHIB_1H", "buttons": [[{"text": "♻️ بازیابی پوزیشن‌های بی‌صاحب", "callback_data": "cmd:/recover"}]]}
 {"ts": 1790334465.7321265, "text": "❌ SHIB_1H: بازار تعهدی/جهت موردنظر در نوبیتکس فعال نیست.", "key": "SHIB_1H"}
 {"ts": 1790334481.2582734, "text": "⚠️ رویداد forced_close برای SHIB_1H رسید ولی معامله‌ای در state باز نیست. اگر روی نوبیتکس پوزیشن باز دارید /recover را بزنید.", "key": "SHIB_1H", "buttons": [[{"text": "♻️ بازیابی پوزیشن‌های بی‌صاحب", "callback_data": "cmd:/recover"}]]}
+{"ts": 1790334497.6491892, "text": "🎯 Target 1 HIT — SOL_15M\nBanked: 20%\nTP price: 120.78\nProtection will move according to the strategy.\nℹ️ فاصله‌ی حد ضرر تا قیمت لیکویید شدن (طبق نوبیتکس: 97.589): ٪18.4 — وضعیت مناسب.", "key": "SOL_15M"}
