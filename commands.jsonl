@@ -482,3 +482,4 @@
 {"command_id": "tg-85707726", "update_id": 85707726, "ts": 1790322080.2441597, "command": "/confirmclose SUI_1H"}
 {"command_id": "tg-85707727", "update_id": 85707727, "ts": 1790322084.1216154, "command": "/confirmclose SOL_1H"}
 {"command_id": "tg-85707738", "update_id": 85707738, "ts": 1790341382.273686, "command": "/collateral"}
+{"command_id": "tg-85707739", "update_id": 85707739, "ts": 1790341431.8001797, "command": "/collateral 5"}
