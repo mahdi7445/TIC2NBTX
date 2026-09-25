@@ -1616,3 +1616,4 @@
 {"ts": 1790322068.1694388, "text": "📡 یادآوری: هنوز منتظر تصمیم شما درباره‌ی SOL_1H هستیم\nرویداد کانال: خوردن حد ضرر نهایی طبق کانال\n(330 دقیقه از دریافت این پیام گذشته)", "key": "SOL_1H", "buttons": [[{"text": "✅ بله، طبق کانال ببند", "callback_data": "cmd:/confirmclose SOL_1H"}], [{"text": "❌ نه، نگه دار", "callback_data": "cmd:/dismissclose SOL_1H"}], [{"text": "📋 منو", "callback_data": "menu"}]]}
 {"ts": 1790322138.0428839, "text": "🏁 BTC_5M closed — sl_after_t2 at strategy price 83982.24", "key": "BTC_5M"}
 {"ts": 1790322190.5034902, "text": "🛠 فرمان tg-85707725 اجرا شد\n✅ بستن BTC_5M طبق تأیید شما (sl_after_t2) اجرا شد."}
+{"ts": 1790322247.541387, "text": "🏁 SUI_1H fully closed — reason=stop", "key": "SUI_1H"}
