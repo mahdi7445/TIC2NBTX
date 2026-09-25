@@ -478,3 +478,4 @@
 {"command_id": "tg-85707715", "update_id": 85707715, "ts": 1790268523.3276217, "command": "/positions"}
 {"command_id": "tg-85707719", "update_id": 85707719, "ts": 1790284417.1661618, "command": "/positions"}
 {"command_id": "tg-85707721", "update_id": 85707721, "ts": 1790284572.695152, "command": "/pnl"}
+{"command_id": "tg-85707725", "update_id": 85707725, "ts": 1790322072.6871164, "command": "/confirmclose BTC_5M"}
