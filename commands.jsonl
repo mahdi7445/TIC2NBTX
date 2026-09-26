@@ -493,3 +493,4 @@
 {"command_id": "tg-85707760", "update_id": 85707760, "ts": 1790368179.7642891, "command": "/status"}
 {"command_id": "tg-85707764", "update_id": 85707764, "ts": 1790403853.9431827, "command": "/test_api"}
 {"command_id": "tg-85707766", "update_id": 85707766, "ts": 1790421082.0458717, "command": "/pnl"}
+{"command_id": "tg-85707767", "update_id": 85707767, "ts": 1790421172.1694915, "command": "/positions"}
