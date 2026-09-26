@@ -507,3 +507,4 @@
 {"command_id": "tg-85707787", "update_id": 85707787, "ts": 1790455833.669811, "command": "/ack XRP_5M"}
 {"command_id": "tg-85707788", "update_id": 85707788, "ts": 1790455840.3219953, "command": "/ack XRP_5M"}
 {"command_id": "tg-85707796", "update_id": 85707796, "ts": 1790462308.5873716, "command": "/confirmclose XRP_5M"}
+{"command_id": "tg-85707797", "update_id": 85707797, "ts": 1790462311.2073524, "command": "/confirmclose ZEC_1H"}
