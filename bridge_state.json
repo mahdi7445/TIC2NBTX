@@ -38,5 +38,5 @@
     "XRP_1H": 3016,
     "ADA_1H": 4653
   },
-  "executor_down_alerted": true
+  "executor_down_alerted": false
 }
