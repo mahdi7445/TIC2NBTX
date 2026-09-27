@@ -510,3 +510,4 @@
 {"command_id": "tg-85707797", "update_id": 85707797, "ts": 1790462311.2073524, "command": "/confirmclose ZEC_1H"}
 {"command_id": "tg-85707798", "update_id": 85707798, "ts": 1790462314.5274239, "command": "/confirmclose XRP_15M"}
 {"command_id": "tg-85707800", "update_id": 85707800, "ts": 1790462415.9425535, "command": "/positions"}
+{"command_id": "tg-85707816", "update_id": 85707816, "ts": 1790502302.6082206, "command": "/confirmclose BTC_5M"}
