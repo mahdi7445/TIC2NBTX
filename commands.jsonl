@@ -515,3 +515,4 @@
 {"command_id": "tg-85707818", "update_id": 85707818, "ts": 1790502308.3512053, "command": "/confirmclose ADA_5M"}
 {"command_id": "tg-85707819", "update_id": 85707819, "ts": 1790502313.8356822, "command": "/confirmclose XRP_5M"}
 {"command_id": "tg-85707821", "update_id": 85707821, "ts": 1790502461.7853913, "command": "/positions"}
+{"command_id": "tg-85707825", "update_id": 85707825, "ts": 1790505363.9753907, "command": "/confirmclose ETH_15M"}
