@@ -511,3 +511,4 @@
 {"command_id": "tg-85707798", "update_id": 85707798, "ts": 1790462314.5274239, "command": "/confirmclose XRP_15M"}
 {"command_id": "tg-85707800", "update_id": 85707800, "ts": 1790462415.9425535, "command": "/positions"}
 {"command_id": "tg-85707816", "update_id": 85707816, "ts": 1790502302.6082206, "command": "/confirmclose BTC_5M"}
+{"command_id": "tg-85707817", "update_id": 85707817, "ts": 1790502305.618643, "command": "/confirmclose ETH_5M"}
