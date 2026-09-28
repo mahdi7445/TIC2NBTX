@@ -297,3 +297,4 @@
 {"ts": 1790620420.4082592, "text": "🚨 Main loop error #1: 502 Server Error: Bad Gateway for url: https://api.github.com/repos/mahdi7445/TIC2NBTX/contents/commands.jsonl?ref=main"}
 {"ts": 1790620853.8192084, "text": "🚨 Main loop error #1: 502 Server Error: Bad Gateway for url: https://api.github.com/repos/mahdi7445/TIC2NBTX/contents/commands.jsonl?ref=main"}
 {"ts": 1790622581.8120284, "text": "🚨 Main loop error #1: 502 Server Error: Bad Gateway for url: https://api.github.com/repos/mahdi7445/TIC2NBTX/contents/commands.jsonl?ref=main"}
+{"ts": 1790622875.6218903, "text": "🚨 Main loop error #1: 502 Server Error: Bad Gateway for url: https://api.github.com/repos/mahdi7445/TIC2NBTX/contents/signals.jsonl?ref=main"}
