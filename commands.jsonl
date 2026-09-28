@@ -534,3 +534,4 @@
 {"command_id": "tg-85707867", "update_id": 85707867, "ts": 1790601238.9524744, "command": "/confirmclose BTC_15M"}
 {"command_id": "tg-85707874", "update_id": 85707874, "ts": 1790607036.9093552, "command": "/reconcile"}
 {"command_id": "tg-85707876", "update_id": 85707876, "ts": 1790608180.0417953, "command": "/ack BCH_1H"}
+{"command_id": "tg-85707881", "update_id": 85707881, "ts": 1790613344.3654156, "command": "/positions"}
