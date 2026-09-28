@@ -527,3 +527,4 @@
 {"command_id": "tg-85707855", "update_id": 85707855, "ts": 1790587272.8955343, "command": "/confirmclose UNI_1H"}
 {"command_id": "tg-85707856", "update_id": 85707856, "ts": 1790587451.6196666, "command": "/positions"}
 {"command_id": "tg-85707858", "update_id": 85707858, "ts": 1790587529.9054704, "command": "/pnl"}
+{"command_id": "tg-85707859", "update_id": 85707859, "ts": 1790587533.4291105, "command": "/balance"}
