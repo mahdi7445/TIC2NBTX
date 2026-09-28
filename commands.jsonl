@@ -522,3 +522,4 @@
 {"command_id": "tg-85707841", "update_id": 85707841, "ts": 1790566233.4610455, "command": "/confirmclose BTC_15M"}
 {"command_id": "tg-85707847", "update_id": 85707847, "ts": 1790580136.9397984, "command": "/collateral 5"}
 {"command_id": "tg-85707849", "update_id": 85707849, "ts": 1790581973.0675912, "command": "/positions"}
+{"command_id": "tg-85707850", "update_id": 85707850, "ts": 1790582145.8874702, "command": "/pnl"}
