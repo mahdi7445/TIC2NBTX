@@ -216,3 +216,4 @@
 {"ts": 1790566258.8323967, "text": "🏁 BTC_15M fully closed — reason=stop", "key": "BTC_15M"}
 {"ts": 1790566262.0098052, "text": "🛠 فرمان tg-85707841 اجرا شد\n✅ بستن BTC_15M طبق تأیید شما (stop) اجرا شد."}
 {"ts": 1790566426.5100026, "text": "♻️ بازیابی پوزیشن‌های بی‌صاحب\n⚠️ BTC_15M (#119458031) به state برگشت ولی محافظت کامل نشد (Position is not open while verifying protection); تلاش خودکار ادامه دارد.\n⚠️ SOL_15M (#119347149) به state برگشت ولی محافظت کامل نشد (Position is not open while verifying protection); تلاش خودکار ادامه دارد."}
+{"ts": 1790566443.1460388, "text": "🏁 BTC_15M: پوزیشن روی نوبیتکس بسته شده است (حد سود/ضرر خود سفارش‌ها).\nنتیجه: -0.1569162742 USDT (nobitex_position)", "key": "BTC_15M"}
