@@ -528,3 +528,4 @@
 {"command_id": "tg-85707856", "update_id": 85707856, "ts": 1790587451.6196666, "command": "/positions"}
 {"command_id": "tg-85707858", "update_id": 85707858, "ts": 1790587529.9054704, "command": "/pnl"}
 {"command_id": "tg-85707859", "update_id": 85707859, "ts": 1790587533.4291105, "command": "/balance"}
+{"command_id": "tg-85707861", "update_id": 85707861, "ts": 1790593285.1984255, "command": "/ack BCH_1H"}
