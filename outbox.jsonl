@@ -213,3 +213,4 @@
 {"ts": 1790566102.4389453, "text": "📡 یادآوری: هنوز منتظر تصمیم شما درباره‌ی SOL_15M هستیم\nرویداد کانال: SL بعد از T2 (پیشنهاد کانال: بستن باقیمانده روی تارگت 1)\n(90 دقیقه از دریافت این پیام گذشته)", "key": "SOL_15M", "buttons": [[{"text": "✅ بله، طبق کانال ببند", "callback_data": "cmd:/confirmclose SOL_15M"}], [{"text": "❌ نه، نگه دار", "callback_data": "cmd:/dismissclose SOL_15M"}], [{"text": "📋 منو", "callback_data": "menu"}]]}
 {"ts": 1790566240.970756, "text": "🏁 SOL_15M closed — sl_after_t2 at strategy price 120.78", "key": "SOL_15M"}
 {"ts": 1790566245.661879, "text": "🛠 فرمان tg-85707840 اجرا شد\n✅ بستن SOL_15M طبق تأیید شما (sl_after_t2) اجرا شد."}
+{"ts": 1790566258.8323967, "text": "🏁 BTC_15M fully closed — reason=stop", "key": "BTC_15M"}
