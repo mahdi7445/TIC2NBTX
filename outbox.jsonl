@@ -239,3 +239,4 @@
 {"ts": 1790587540.372257, "text": "🛠 فرمان tg-85707859 اجرا شد\n💰 موجودی USDT\nMargin active: 16.535490294\nSpot active: 0.0386802882"}
 {"ts": 1790588297.2195945, "text": "🚨 Main loop error #1: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/mahdi7445/TIC2NBTX/contents/commands.jsonl?ref=main (Caused by NameResolutionError(\"HTTPSConnection(host='api.github.com', port=443): Failed to resolve 'api.github.com' ([Errno 11001] getaddrinfo failed)\"))"}
 {"ts": 1790588600.2298107, "text": "🎯 BTC_15M: طبق خود نوبیتکس تارگت T1 قبلاً Fill شده بود (پیام کانال نرسیده/پردازش نشده بود)؛ وضعیت هماهنگ شد.", "key": "BTC_15M"}
+{"ts": 1790588610.9250789, "text": "🛡 BTC_15M: حد ضرر طبق استراتژی جابه‌جا شد → 82830.01", "key": "BTC_15M"}
