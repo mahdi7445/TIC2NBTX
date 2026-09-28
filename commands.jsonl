@@ -532,3 +532,4 @@
 {"command_id": "tg-85707862", "update_id": 85707862, "ts": 1790593337.1457672, "command": "/positions"}
 {"command_id": "tg-85707866", "update_id": 85707866, "ts": 1790601232.1921387, "command": "/confirmclose ETH_15M"}
 {"command_id": "tg-85707867", "update_id": 85707867, "ts": 1790601238.9524744, "command": "/confirmclose BTC_15M"}
+{"command_id": "tg-85707874", "update_id": 85707874, "ts": 1790607036.9093552, "command": "/reconcile"}
