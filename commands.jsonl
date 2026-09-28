@@ -530,3 +530,4 @@
 {"command_id": "tg-85707859", "update_id": 85707859, "ts": 1790587533.4291105, "command": "/balance"}
 {"command_id": "tg-85707861", "update_id": 85707861, "ts": 1790593285.1984255, "command": "/ack BCH_1H"}
 {"command_id": "tg-85707862", "update_id": 85707862, "ts": 1790593337.1457672, "command": "/positions"}
+{"command_id": "tg-85707866", "update_id": 85707866, "ts": 1790601232.1921387, "command": "/confirmclose ETH_15M"}
