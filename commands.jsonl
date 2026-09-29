@@ -547,3 +547,4 @@
 {"command_id": "tg-85707910", "update_id": 85707910, "ts": 1790687977.3621778, "command": "/fixprotection BTC_5M"}
 {"command_id": "tg-85707911", "update_id": 85707911, "ts": 1790687980.8256657, "command": "/confirmclose XRP_15M"}
 {"command_id": "tg-85707912", "update_id": 85707912, "ts": 1790687984.7163086, "command": "/fixprotection BCH_1H"}
+{"command_id": "tg-85707916", "update_id": 85707916, "ts": 1790688215.5880551, "command": "/recover"}
