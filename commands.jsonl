@@ -558,3 +558,4 @@
 {"command_id": "tg-85707930", "update_id": 85707930, "ts": 1790694469.1795917, "command": "/ack BCH_1H"}
 {"command_id": "tg-85707931", "update_id": 85707931, "ts": 1790694494.949076, "command": "/setcard 6219861907458003 مهدی کریمیان"}
 {"command_id": "tg-85707932", "update_id": 85707932, "ts": 1790694659.2631516, "command": "/setusdt 0xb284F3B9AC801bc552E36D76104953A5f4683cB3 BSC(bep20)"}
+{"command_id": "tg-85707933", "update_id": 85707933, "ts": 1790694841.413221, "command": "/setpriceusdt 30 11"}
