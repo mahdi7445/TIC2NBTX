@@ -373,3 +373,4 @@
 {"ts": 1790687995.2648287, "text": "🏁 XRP_15M fully closed — reason=stop", "key": "XRP_15M"}
 {"ts": 1790688000.5477712, "text": "🛠 فرمان tg-85707911 اجرا شد\n✅ بستن XRP_15M طبق تأیید شما (stop) اجرا شد."}
 {"ts": 1790688010.8200843, "text": "🛠 فرمان tg-85707912 اجرا شد\n⚠️ BCH_1H: تلاش برای تکمیل محافظت هنوز ناموفق بود: SmallOrder: Order Validation Failed\nپوزیشن بسته نشد؛ Executor خودکار دوباره تلاش می‌کند."}
+{"ts": 1790688156.5495694, "text": "🚨 هنوز محافظت BCH_1H کامل نشده (56 دقیقه از اولین تلاش)؛ پوزیشن دست‌نخورده باقی مانده و هیچ بسته‌شدن خودکاری انجام نشده. تصمیم با شماست:", "key": "BCH_1H", "buttons": [[{"text": "🔁 تلاش مجدد برای تکمیل محافظت", "callback_data": "cmd:/fixprotection BCH_1H"}], [{"text": "❌ بستن این معامله (با تصمیم خودم)", "callback_data": "cmd:/close BCH_1H"}], [{"text": "✅ بررسی شد", "callback_data": "ack:BCH_1H"}, {"text": "📈 معاملات باز", "callback_data": "cmd:/positions"}]]}
