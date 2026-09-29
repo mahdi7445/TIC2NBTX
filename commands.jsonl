@@ -553,3 +553,4 @@
 {"command_id": "tg-85707924", "update_id": 85707924, "ts": 1790694175.494562, "command": "/listprices"}
 {"command_id": "tg-85707925", "update_id": 85707925, "ts": 1790694197.0355878, "command": "/setpricetoman"}
 {"command_id": "tg-85707926", "update_id": 85707926, "ts": 1790694237.1939754, "command": "/setpriceusdt"}
+{"command_id": "tg-85707928", "update_id": 85707928, "ts": 1790694347.0618415, "command": "/setpricetoman 30 3000000"}
