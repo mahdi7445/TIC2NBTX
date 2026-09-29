@@ -540,3 +540,4 @@
 {"command_id": "tg-85707893", "update_id": 85707893, "ts": 1790653172.4561088, "command": "/confirmclose BTC_15M"}
 {"command_id": "tg-85707896", "update_id": 85707896, "ts": 1790661940.0986092, "command": "/pnl"}
 {"command_id": "tg-85707898", "update_id": 85707898, "ts": 1790664340.0377755, "command": "/recover"}
+{"command_id": "tg-85707900", "update_id": 85707900, "ts": 1790666090.061221, "command": "/confirmclose ETH_15M"}
