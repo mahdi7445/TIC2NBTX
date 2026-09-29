@@ -337,3 +337,4 @@
 {"ts": 1790669297.442071, "text": "✅ هیچ پوزیشن بی‌صاحبی روی نوبیتکس نیست؛ همه‌ی پوزیشن‌های باز در state هستند."}
 {"ts": 1790669303.1987698, "text": "🛠 فرمان tg-85707903 اجرا شد\n♻️ نتیجه‌ی بررسی بازیابی در پیام جداگانه‌ی بالا ارسال شد."}
 {"ts": 1790670472.6160853, "text": "🏁 AVAX_1H: پوزیشن روی نوبیتکس بسته شده است (حد سود/ضرر خود سفارش‌ها).\nنتیجه: -2.0612105073 USDT (nobitex_position)", "key": "AVAX_1H"}
+{"ts": 1790684764.059138, "text": "🟢 Executor started (build 2026-09-24-r27)\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$2.5\nLeverage preference=10x (sent as-is to Nobitex)\nGitHub=mahdi7445/TIC2NBTX"}
