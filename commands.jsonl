@@ -545,3 +545,4 @@
 {"command_id": "tg-85707905", "update_id": 85707905, "ts": 1790676125.626844, "command": "/positions"}
 {"command_id": "tg-85707906", "update_id": 85707906, "ts": 1790676422.8878956, "command": "/reconcile"}
 {"command_id": "tg-85707910", "update_id": 85707910, "ts": 1790687977.3621778, "command": "/fixprotection BTC_5M"}
+{"command_id": "tg-85707911", "update_id": 85707911, "ts": 1790687980.8256657, "command": "/confirmclose XRP_15M"}
