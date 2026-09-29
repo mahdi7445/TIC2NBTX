@@ -549,3 +549,4 @@
 {"command_id": "tg-85707912", "update_id": 85707912, "ts": 1790687984.7163086, "command": "/fixprotection BCH_1H"}
 {"command_id": "tg-85707916", "update_id": 85707916, "ts": 1790688215.5880551, "command": "/recover"}
 {"command_id": "tg-85707917", "update_id": 85707917, "ts": 1790688485.469332, "command": "/ack BCH_1H"}
+{"command_id": "tg-85707920", "update_id": 85707920, "ts": 1790692059.8416228, "command": "/pnl"}
