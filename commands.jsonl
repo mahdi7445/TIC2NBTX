@@ -561,3 +561,4 @@
 {"command_id": "tg-85707933", "update_id": 85707933, "ts": 1790694841.413221, "command": "/setpriceusdt 30 11"}
 {"command_id": "tg-85707934", "update_id": 85707934, "ts": 1790694921.7216878, "command": "/broadcast ساپورت: @mkarimian"}
 {"command_id": "tg-85707936", "update_id": 85707936, "ts": 1790696317.6599188, "command": "/positions"}
+{"command_id": "tg-85707937", "update_id": 85707937, "ts": 1790696372.2027156, "command": "/pnl"}
