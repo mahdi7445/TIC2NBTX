@@ -555,3 +555,4 @@
 {"command_id": "tg-85707926", "update_id": 85707926, "ts": 1790694237.1939754, "command": "/setpriceusdt"}
 {"command_id": "tg-85707928", "update_id": 85707928, "ts": 1790694347.0618415, "command": "/setpricetoman 30 3000000"}
 {"command_id": "tg-85707929", "update_id": 85707929, "ts": 1790694404.2085552, "command": "/setpriceusdt 30 10"}
+{"command_id": "tg-85707930", "update_id": 85707930, "ts": 1790694469.1795917, "command": "/ack BCH_1H"}
