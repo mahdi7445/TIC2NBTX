@@ -371,3 +371,4 @@
 {"ts": 1790687882.6885684, "text": "🚨 هنوز محافظت BTC_5M کامل نشده (51 دقیقه از اولین تلاش)؛ پوزیشن دست‌نخورده باقی مانده و هیچ بسته‌شدن خودکاری انجام نشده. تصمیم با شماست:", "key": "BTC_5M", "buttons": [[{"text": "🔁 تلاش مجدد برای تکمیل محافظت", "callback_data": "cmd:/fixprotection BTC_5M"}], [{"text": "❌ بستن این معامله (با تصمیم خودم)", "callback_data": "cmd:/close BTC_5M"}], [{"text": "✅ بررسی شد", "callback_data": "ack:BTC_5M"}, {"text": "📈 معاملات باز", "callback_data": "cmd:/positions"}]]}
 {"ts": 1790687983.107364, "text": "🛠 فرمان tg-85707910 اجرا شد\n⚠️ BTC_5M: تلاش برای تکمیل محافظت هنوز ناموفق بود: AmountTooLow: Order Validation Failed\nپوزیشن بسته نشد؛ Executor خودکار دوباره تلاش می‌کند."}
 {"ts": 1790687995.2648287, "text": "🏁 XRP_15M fully closed — reason=stop", "key": "XRP_15M"}
+{"ts": 1790688000.5477712, "text": "🛠 فرمان tg-85707911 اجرا شد\n✅ بستن XRP_15M طبق تأیید شما (stop) اجرا شد."}
