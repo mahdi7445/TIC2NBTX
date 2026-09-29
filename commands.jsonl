@@ -564,3 +564,4 @@
 {"command_id": "tg-85707937", "update_id": 85707937, "ts": 1790696372.2027156, "command": "/pnl"}
 {"command_id": "tg-85707940", "update_id": 85707940, "ts": 1790696550.8215733, "command": "/listprices"}
 {"command_id": "tg-85707941", "update_id": 85707941, "ts": 1790696588.2961566, "command": "/pendingpayments"}
+{"command_id": "tg-85707942", "update_id": 85707942, "ts": 1790696591.900808, "command": "/listusers"}
