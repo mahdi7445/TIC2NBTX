@@ -1,0 +1,60 @@
+name: Telegram GitHub Relay
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: telegram-github-relay
+  cancel-in-progress: false
+
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+
+    steps:
+      - name: Checkout latest relay state
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install bridge dependency
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r telegram-github-bridge/requirements.txt
+
+      - name: Run Telegram GitHub relay
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
+          # Same key as USER_VAULT_MASTER_KEY in the Windows .env: encrypts a subscriber's
+          # API key/secret BEFORE it is written to this public repo. Without it the
+          # bridge refuses /connect entirely (never falls back to plaintext).
+          USER_VAULT_MASTER_KEY: ${{ secrets.USER_VAULT_MASTER_KEY }}
+          BRIDGE_RUNTIME_SECONDS: "275"
+          TELEGRAM_LONG_POLL_SECONDS: "3"
+          MAX_RELAY_LINES: "5000"
+          PUSH_MIN_INTERVAL_SECONDS: "1"
+          PULL_MIN_INTERVAL_SECONDS: "3"
+          # Lets bridge.py queue its own next run (workflow_dispatch) instead of
+          # depending only on the 5-minute cron above, which this repo's own
+          # Actions history shows firing anywhere from minutes to several hours
+          # apart. github.token already has actions:write from the permissions
+          # block above, so no extra secret/PAT is needed.
+          GH_DISPATCH_TOKEN: ${{ github.token }}
+          BRIDGE_WORKFLOW_FILE: "bridge.yml"
+        run: |
+          python telegram-github-bridge/bridge.py
