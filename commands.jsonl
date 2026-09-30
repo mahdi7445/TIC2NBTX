@@ -592,3 +592,4 @@
 {"command_id": "tg-85707994", "update_id": 85707994, "ts": 1790765520.7405512, "command": "/fixprotection XLM_1H"}
 {"command_id": "tg-85707995", "update_id": 85707995, "ts": 1790765524.5399368, "command": "/fixprotection BCH_1H"}
 {"command_id": "tg-85707996", "update_id": 85707996, "ts": 1790765593.4041598, "command": "/pnl"}
+{"command_id": "tg-85707998", "update_id": 85707998, "ts": 1790765695.597873, "command": "/ack BCH_1H"}
