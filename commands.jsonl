@@ -635,3 +635,4 @@
 {"command_id": "tg-85708083", "update_id": 85708083, "ts": 1790778360.4465816, "command": "/positions"}
 {"command_id": "tg-85708085", "update_id": 85708085, "ts": 1790779472.8542457, "command": "/start", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708086", "update_id": 85708086, "ts": 1790779587.6383338, "command": "/subscribe 30 toman", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
+{"command_id": "tg-85708088", "update_id": 85708088, "ts": 1790779696.1718478, "command": "/paid P1 📷 تصویر رسید (در چت ربات برای ادمین فرستاده شد)", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
