@@ -601,3 +601,4 @@
 {"command_id": "tg-85708005", "update_id": 85708005, "ts": 1790766464.1813807, "command": "/terms", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708006", "update_id": 85708006, "ts": 1790766535.1941206, "command": "/menu", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708009", "update_id": 85708009, "ts": 1790766606.1199038, "command": "/listprices"}
+{"command_id": "tg-85708012", "update_id": 85708012, "ts": 1790766791.4707057, "command": "/setpricetoman 30 8900000"}
