@@ -638,3 +638,4 @@
 {"command_id": "tg-85708088", "update_id": 85708088, "ts": 1790779696.1718478, "command": "/paid P1 📷 تصویر رسید (در چت ربات برای ادمین فرستاده شد)", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708089", "update_id": 85708089, "ts": 1790779742.1291995, "command": "/confirmpayment P1"}
 {"command_id": "tg-85708090", "update_id": 85708090, "ts": 1790779800.5929105, "command": "/user 7234639636"}
+{"command_id": "tg-85708091", "update_id": 85708091, "ts": 1790779854.6085992, "command": "/connectguide", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
