@@ -630,3 +630,4 @@
 {"command_id": "tg-85708067", "update_id": 85708067, "ts": 1790772759.405112, "command": "/liqsafe ETH_15M"}
 {"command_id": "tg-85708070", "update_id": 85708070, "ts": 1790773169.9483473, "command": "/pnl"}
 {"command_id": "tg-85708073", "update_id": 85708073, "ts": 1790773310.1536996, "command": "/listusers"}
+{"command_id": "tg-85708074", "update_id": 85708074, "ts": 1790773387.2504418, "command": "/listusers"}
