@@ -609,3 +609,4 @@
 {"command_id": "tg-85708022", "update_id": 85708022, "ts": 1790767254.9709873, "command": "/liqsafe BTC_15M"}
 {"command_id": "tg-85708023", "update_id": 85708023, "ts": 1790767293.7621682, "command": "/liqadd BTC_15M 0.59"}
 {"command_id": "tg-85708026", "update_id": 85708026, "ts": 1790767406.083398, "command": "/setpricetoman 365 77800000"}
+{"command_id": "tg-85708029", "update_id": 85708029, "ts": 1790767717.3953927, "command": "/listprices"}
