@@ -623,3 +623,4 @@
 {"command_id": "tg-85708052", "update_id": 85708052, "ts": 1790768729.2858381, "command": "/msguser 7234639636 سلام لطفاً مجدد استارت کنید ربات رو تا قابل مشاهده باشه براتون 💖"}
 {"command_id": "tg-85708053", "update_id": 85708053, "ts": 1790768775.219793, "command": "/menu", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708054", "update_id": 85708054, "ts": 1790768857.6899028, "command": "/start", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
+{"command_id": "tg-85708055", "update_id": 85708055, "ts": 1790768890.8020558, "command": "/menu", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
