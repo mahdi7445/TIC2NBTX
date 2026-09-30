@@ -627,3 +627,4 @@
 {"command_id": "tg-85708057", "update_id": 85708057, "ts": 1790768940.0771391, "command": "/colall"}
 {"command_id": "tg-85708058", "update_id": 85708058, "ts": 1790768942.2443452, "command": "/status"}
 {"command_id": "tg-85708059", "update_id": 85708059, "ts": 1790768957.8175633, "command": "/colall"}
+{"command_id": "tg-85708067", "update_id": 85708067, "ts": 1790772759.405112, "command": "/liqsafe ETH_15M"}
