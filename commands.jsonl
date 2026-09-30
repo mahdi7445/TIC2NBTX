@@ -626,3 +626,4 @@
 {"command_id": "tg-85708055", "update_id": 85708055, "ts": 1790768890.8020558, "command": "/menu", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708057", "update_id": 85708057, "ts": 1790768940.0771391, "command": "/colall"}
 {"command_id": "tg-85708058", "update_id": 85708058, "ts": 1790768942.2443452, "command": "/status"}
+{"command_id": "tg-85708059", "update_id": 85708059, "ts": 1790768957.8175633, "command": "/colall"}
