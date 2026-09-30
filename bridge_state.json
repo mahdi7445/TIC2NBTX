@@ -1,5 +1,5 @@
 {
-  "telegram_update_offset": 85707992,
+  "telegram_update_offset": 85707993,
   "outbox_lines_sent": 464,
   "thread_roots": {
     "BTC_5M": 893,
@@ -39,16 +39,6 @@
     "ADA_1H": 4653
   },
   "executor_down_alerted": false,
-  "wizard": {
-    "378486866": {
-      "prompt": "setusdt",
-      "arg": "",
-      "step": 1,
-      "answers": [
-        "0xb284F3B9AC801bc552E36D76104953A5f4683cB3"
-      ],
-      "ts": 1790765397.3312738
-    }
-  },
+  "wizard": {},
   "admin_kb_sent": true
 }
