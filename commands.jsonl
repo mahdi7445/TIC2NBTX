@@ -615,3 +615,4 @@
 {"command_id": "tg-85708033", "update_id": 85708033, "ts": 1790768116.5893025, "command": "/status"}
 {"command_id": "tg-85708036", "update_id": 85708036, "ts": 1790768254.227104, "command": "/setpriceusdt 30 34"}
 {"command_id": "tg-85708039", "update_id": 85708039, "ts": 1790768348.1124594, "command": "/setpriceusdt 90 95"}
+{"command_id": "tg-85708042", "update_id": 85708042, "ts": 1790768411.3544223, "command": "/setpriceusdt 180 180"}
