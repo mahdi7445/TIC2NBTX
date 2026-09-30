@@ -645,3 +645,4 @@
 {"command_id": "tg-85708101", "update_id": 85708101, "ts": 1790786645.3247511, "command": "/autoexit"}
 {"command_id": "tg-85708102", "update_id": 85708102, "ts": 1790786673.697115, "command": "/pendingpayments"}
 {"command_id": "tg-85708103", "update_id": 85708103, "ts": 1790786713.781439, "command": "/listusers"}
+{"command_id": "tg-85708105", "update_id": 85708105, "ts": 1790786815.6787388, "command": "/broadcast کاربر گرامی لطفاً حساب خود را تکمیل کرده تا به سیستم متصل شوید. 🙏"}
