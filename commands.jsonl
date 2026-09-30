@@ -584,3 +584,4 @@
 {"command_id": "tg-85707977", "update_id": 85707977, "ts": 1790759763.046776, "command": "/removeuser 7234639636 تایید"}
 {"command_id": "tg-85707978", "update_id": 85707978, "ts": 1790759792.4835267, "command": "/pendingpayments"}
 {"command_id": "tg-85707979", "update_id": 85707979, "ts": 1790759798.9984868, "command": "/listprices"}
+{"command_id": "tg-85707981", "update_id": 85707981, "ts": 1790759933.852563, "command": "/pnl"}
