@@ -603,3 +603,4 @@
 {"command_id": "tg-85708009", "update_id": 85708009, "ts": 1790766606.1199038, "command": "/listprices"}
 {"command_id": "tg-85708012", "update_id": 85708012, "ts": 1790766791.4707057, "command": "/setpricetoman 30 8900000"}
 {"command_id": "tg-85708013", "update_id": 85708013, "ts": 1790766875.794655, "command": "/listprices"}
+{"command_id": "tg-85708016", "update_id": 85708016, "ts": 1790766966.3331368, "command": "/setpricetoman 90 24900000"}
