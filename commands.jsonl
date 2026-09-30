@@ -576,3 +576,4 @@
 {"command_id": "tg-85707955", "update_id": 85707955, "ts": 1790713928.3664064, "command": "/ack XLM_1H"}
 {"command_id": "tg-85707956", "update_id": 85707956, "ts": 1790713948.606026, "command": "/ack XLM_1H"}
 {"command_id": "tg-85707966", "update_id": 85707966, "ts": 1790750839.129576, "command": "/positions"}
+{"command_id": "tg-85707971", "update_id": 85707971, "ts": 1790759515.093927, "command": "/listusers"}
