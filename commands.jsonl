@@ -586,3 +586,4 @@
 {"command_id": "tg-85707979", "update_id": 85707979, "ts": 1790759798.9984868, "command": "/listprices"}
 {"command_id": "tg-85707981", "update_id": 85707981, "ts": 1790759933.852563, "command": "/pnl"}
 {"command_id": "tg-85707986", "update_id": 85707986, "ts": 1790765207.822017, "command": "/positions"}
+{"command_id": "tg-85707989", "update_id": 85707989, "ts": 1790765327.7822917, "command": "/listprices"}
