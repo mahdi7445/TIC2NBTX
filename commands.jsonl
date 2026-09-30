@@ -619,3 +619,4 @@
 {"command_id": "tg-85708045", "update_id": 85708045, "ts": 1790768472.471505, "command": "/setpriceusdt 365 299"}
 {"command_id": "tg-85708046", "update_id": 85708046, "ts": 1790768509.5096517, "command": "/listprices"}
 {"command_id": "tg-85708048", "update_id": 85708048, "ts": 1790768626.6637738, "command": "/positions"}
+{"command_id": "tg-85708050", "update_id": 85708050, "ts": 1790768665.7004735, "command": "/support سلام اشتراک فقط سی روزه هست", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
