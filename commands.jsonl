@@ -644,3 +644,4 @@
 {"command_id": "tg-85708099", "update_id": 85708099, "ts": 1790786421.1157463, "command": "/user 7234639636"}
 {"command_id": "tg-85708101", "update_id": 85708101, "ts": 1790786645.3247511, "command": "/autoexit"}
 {"command_id": "tg-85708102", "update_id": 85708102, "ts": 1790786673.697115, "command": "/pendingpayments"}
+{"command_id": "tg-85708103", "update_id": 85708103, "ts": 1790786713.781439, "command": "/listusers"}
