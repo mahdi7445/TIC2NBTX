@@ -1,5 +1,5 @@
 {
-  "telegram_update_offset": 85708035,
+  "telegram_update_offset": 85708036,
   "outbox_lines_sent": 493,
   "thread_roots": {
     "BTC_5M": 893,
@@ -43,9 +43,11 @@
     "378486866": {
       "prompt": "priceusdt",
       "arg": "",
-      "step": 0,
-      "answers": [],
-      "ts": 1790768171.86551
+      "step": 1,
+      "answers": [
+        "30"
+      ],
+      "ts": 1790768176.8290503
     }
   },
   "admin_kb_sent": true
