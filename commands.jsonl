@@ -590,3 +590,4 @@
 {"command_id": "tg-85707992", "update_id": 85707992, "ts": 1790765478.1621408, "command": "/setusdt 0xb284F3B9AC801bc552E36D76104953A5f4683cB3 BNBSmartChain(BSC)"}
 {"command_id": "tg-85707993", "update_id": 85707993, "ts": 1790765511.177134, "command": "/listprices"}
 {"command_id": "tg-85707994", "update_id": 85707994, "ts": 1790765520.7405512, "command": "/fixprotection XLM_1H"}
+{"command_id": "tg-85707995", "update_id": 85707995, "ts": 1790765524.5399368, "command": "/fixprotection BCH_1H"}
