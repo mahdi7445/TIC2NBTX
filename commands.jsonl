@@ -648,3 +648,4 @@
 {"command_id": "tg-85708105", "update_id": 85708105, "ts": 1790786815.6787388, "command": "/broadcast کاربر گرامی لطفاً حساب خود را تکمیل کرده تا به سیستم متصل شوید. 🙏"}
 {"command_id": "tg-85708107", "update_id": 85708107, "ts": 1790786888.7981966, "command": "/menu", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708111", "update_id": 85708111, "ts": 1790803361.9107196, "command": "/status"}
+{"command_id": "tg-85708112", "update_id": 85708112, "ts": 1790803513.091294, "command": "/pnl"}
