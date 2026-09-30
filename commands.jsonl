@@ -595,3 +595,4 @@
 {"command_id": "tg-85707998", "update_id": 85707998, "ts": 1790765695.597873, "command": "/ack BCH_1H"}
 {"command_id": "tg-85707999", "update_id": 85707999, "ts": 1790765705.0751848, "command": "/ack XLM_1H"}
 {"command_id": "tg-85708001", "update_id": 85708001, "ts": 1790766179.618046, "command": "/start", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
+{"command_id": "tg-85708002", "update_id": 85708002, "ts": 1790766289.3896353, "command": "/terms 2", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
