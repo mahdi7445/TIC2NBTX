@@ -658,3 +658,4 @@
 {"command_id": "tg-85708124", "update_id": 85708124, "ts": 1790840713.3838296, "command": "/user 7234639636"}
 {"command_id": "tg-85708125", "update_id": 85708125, "ts": 1790840801.3933651, "command": "/userautoexit 7234639636 off"}
 {"command_id": "tg-85708126", "update_id": 85708126, "ts": 1790840831.822062, "command": "/user 7234639636"}
+{"command_id": "tg-85708131", "update_id": 85708131, "ts": 1790840884.7289019, "command": "/setuserrisk 7234639636 1 2 10 10"}
