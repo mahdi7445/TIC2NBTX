@@ -666,3 +666,4 @@
 {"command_id": "tg-85708145", "update_id": 85708145, "ts": 1790841704.6901524, "command": "/risk 2"}
 {"command_id": "tg-85708149", "update_id": 85708149, "ts": 1790845435.3431175, "command": "/liqsafe BTC_5M"}
 {"command_id": "tg-85708150", "update_id": 85708150, "ts": 1790845461.4400258, "command": "/liqadd BTC_5M 0.57"}
+{"command_id": "tg-85708153", "update_id": 85708153, "ts": 1790858563.4911356, "command": "/balance"}
