@@ -650,3 +650,4 @@
 {"command_id": "tg-85708111", "update_id": 85708111, "ts": 1790803361.9107196, "command": "/status"}
 {"command_id": "tg-85708112", "update_id": 85708112, "ts": 1790803513.091294, "command": "/pnl"}
 {"command_id": "tg-85708114", "update_id": 85708114, "ts": 1790835131.531309, "command": "/balance"}
+{"command_id": "tg-85708115", "update_id": 85708115, "ts": 1790835509.3471498, "command": "/pnl"}
