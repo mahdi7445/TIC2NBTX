@@ -664,3 +664,4 @@
 {"command_id": "tg-85708140", "update_id": 85708140, "ts": 1790841653.8449247, "command": "/maxtrades 15"}
 {"command_id": "tg-85708143", "update_id": 85708143, "ts": 1790841677.9731967, "command": "/collateral 2.5"}
 {"command_id": "tg-85708145", "update_id": 85708145, "ts": 1790841704.6901524, "command": "/risk 2"}
+{"command_id": "tg-85708149", "update_id": 85708149, "ts": 1790845435.3431175, "command": "/liqsafe BTC_5M"}
