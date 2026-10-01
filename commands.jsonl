@@ -660,3 +660,4 @@
 {"command_id": "tg-85708126", "update_id": 85708126, "ts": 1790840831.822062, "command": "/user 7234639636"}
 {"command_id": "tg-85708131", "update_id": 85708131, "ts": 1790840884.7289019, "command": "/setuserrisk 7234639636 1 2 10 10"}
 {"command_id": "tg-85708133", "update_id": 85708133, "ts": 1790840932.920991, "command": "/autoexit"}
+{"command_id": "tg-85708138", "update_id": 85708138, "ts": 1790841613.5189676, "command": "/leverage 10"}
