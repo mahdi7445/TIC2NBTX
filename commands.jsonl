@@ -678,3 +678,4 @@
 {"command_id": "tg-85708176", "update_id": 85708176, "ts": 1790923528.2078972, "command": "/liqsafe ETH_5M"}
 {"command_id": "tg-85708177", "update_id": 85708177, "ts": 1790923553.6952379, "command": "/liqadd ETH_5M 0.35"}
 {"command_id": "tg-85708179", "update_id": 85708179, "ts": 1790926218.302845, "command": "/liqsafe ETH_15M"}
+{"command_id": "tg-85708180", "update_id": 85708180, "ts": 1790926482.265308, "command": "/liqadd ETH_15M 0.35"}
