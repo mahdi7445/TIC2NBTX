@@ -690,3 +690,4 @@
 {"command_id": "tg-85708206", "update_id": 85708206, "ts": 1790938610.3480744, "command": "/colall to 2"}
 {"command_id": "tg-85708207", "update_id": 85708207, "ts": 1790938641.1718102, "command": "/colall to 2 yes"}
 {"command_id": "tg-85708208", "update_id": 85708208, "ts": 1790938687.0486093, "command": "/positions"}
+{"command_id": "tg-85708211", "update_id": 85708211, "ts": 1790939493.1534789, "command": "/status"}
