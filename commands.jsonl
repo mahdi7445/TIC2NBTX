@@ -680,3 +680,4 @@
 {"command_id": "tg-85708179", "update_id": 85708179, "ts": 1790926218.302845, "command": "/liqsafe ETH_15M"}
 {"command_id": "tg-85708180", "update_id": 85708180, "ts": 1790926482.265308, "command": "/liqadd ETH_15M 0.35"}
 {"command_id": "tg-85708186", "update_id": 85708186, "ts": 1790929982.129676, "command": "/listusers"}
+{"command_id": "tg-85708187", "update_id": 85708187, "ts": 1790930004.1215012, "command": "/listprices"}
