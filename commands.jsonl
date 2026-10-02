@@ -683,3 +683,4 @@
 {"command_id": "tg-85708187", "update_id": 85708187, "ts": 1790930004.1215012, "command": "/listprices"}
 {"command_id": "tg-85708188", "update_id": 85708188, "ts": 1790930019.4221556, "command": "/user 7234639636"}
 {"command_id": "tg-85708191", "update_id": 85708191, "ts": 1790930187.5213528, "command": "/support سلام خوبی؟", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
+{"command_id": "tg-85708193", "update_id": 85708193, "ts": 1790930251.4028294, "command": "/msguser 7234639636 عزیزدلی"}
