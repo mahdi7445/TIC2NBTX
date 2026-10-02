@@ -685,3 +685,4 @@
 {"command_id": "tg-85708191", "update_id": 85708191, "ts": 1790930187.5213528, "command": "/support سلام خوبی؟", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708193", "update_id": 85708193, "ts": 1790930251.4028294, "command": "/msguser 7234639636 عزیزدلی"}
 {"command_id": "tg-85708196", "update_id": 85708196, "ts": 1790930301.2442675, "command": "/start", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
+{"command_id": "tg-85708202", "update_id": 85708202, "ts": 1790938502.8793705, "command": "/liqsafe BTC_15M"}
