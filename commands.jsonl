@@ -719,3 +719,4 @@
 {"command_id": "tg-85708272", "update_id": 85708272, "ts": 1791025896.2465742, "command": "/removeuser 7234639636 yes"}
 {"command_id": "tg-85708274", "update_id": 85708274, "ts": 1791025998.57671, "command": "/fwdsignal b64:aHR0cHM6Ly93d3cudHJhZGluZ3ZpZXcuY29tL3gvRDNwUXJScFQvCmJ0Y3VzZHQucCAKc2VsbCBsaW1pdCA6IGVudHJ5IHByaWNlIDogODU5NTYKc3RvcCBsb3NzIDogODc0MTYKdGFyZ2V0IDEgOiA4NDUxMwp0YXJnZXQgMiA6IDgyMDAw"}
 {"command_id": "tg-85708275", "update_id": 85708275, "ts": 1791026071.077659, "command": "/fwdsignal b64:YnRjdXNkdApzZWxsIGxpbWl0IDogZW50cnkgcHJpY2UgOiA4NTk1NgpzdG9wIGxvc3MgOiA4NzQxNgp0YXJnZXQgMSA6IDg0NTEzCnRhcmdldCAyIDogODIwMDA="}
+{"command_id": "tg-85708276", "update_id": 85708276, "ts": 1791026133.1345677, "command": "/start", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
