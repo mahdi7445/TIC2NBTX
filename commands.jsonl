@@ -734,3 +734,4 @@
 {"command_id": "tg-85708290", "update_id": 85708290, "ts": 1791026719.8194032, "command": "/grant 7234639636 7"}
 {"command_id": "tg-85708292", "update_id": 85708292, "ts": 1791031571.169606, "command": "/reconcile"}
 {"command_id": "tg-85708295", "update_id": 85708295, "ts": 1791031743.1122322, "command": "/discounts"}
+{"command_id": "tg-85708296", "update_id": 85708296, "ts": 1791031786.2101877, "command": "/deldiscount MADKARIMIAN100"}
