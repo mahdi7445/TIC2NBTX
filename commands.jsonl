@@ -758,3 +758,4 @@
 {"command_id": "tg-85708341", "update_id": 85708341, "ts": 1791061465.341027, "command": "/confirmpayment P2"}
 {"command_id": "tg-85708342", "update_id": 85708342, "ts": 1791061529.3004587, "command": "/connectguide", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708344", "update_id": 85708344, "ts": 1791061653.2015038, "command": "/menu", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
+{"command_id": "tg-85708346", "update_id": 85708346, "ts": 1791061734.5291705, "command": "/balance"}
