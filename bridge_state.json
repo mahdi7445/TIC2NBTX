@@ -41,10 +41,5 @@
   "executor_down_alerted": false,
   "wizard": {},
   "admin_kb_sent": true,
-  "pending": {
-    "7234639636": {
-      "ts": 1791064773.782497,
-      "mid": 6409
-    }
-  }
+  "pending": {}
 }
