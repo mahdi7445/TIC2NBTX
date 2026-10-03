@@ -721,3 +721,4 @@
 {"command_id": "tg-85708275", "update_id": 85708275, "ts": 1791026071.077659, "command": "/fwdsignal b64:YnRjdXNkdApzZWxsIGxpbWl0IDogZW50cnkgcHJpY2UgOiA4NTk1NgpzdG9wIGxvc3MgOiA4NzQxNgp0YXJnZXQgMSA6IDg0NTEzCnRhcmdldCAyIDogODIwMDA="}
 {"command_id": "tg-85708276", "update_id": 85708276, "ts": 1791026133.1345677, "command": "/start", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708277", "update_id": 85708277, "ts": 1791026188.5895693, "command": "/menu", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
+{"command_id": "tg-85708278", "update_id": 85708278, "ts": 1791026203.6600263, "command": "/terms 2", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
