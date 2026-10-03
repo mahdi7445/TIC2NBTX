@@ -700,3 +700,4 @@
 {"command_id": "tg-85708222", "update_id": 85708222, "ts": 1790945641.5889974, "command": "/pnl"}
 {"command_id": "tg-85708225", "update_id": 85708225, "ts": 1790957994.3980434, "command": "/pnl"}
 {"command_id": "tg-85708236", "update_id": 85708236, "ts": 1790987256.776404, "command": "/positions"}
+{"command_id": "tg-85708238", "update_id": 85708238, "ts": 1790987581.3275466, "command": "/liqsafe ETH_15M"}
