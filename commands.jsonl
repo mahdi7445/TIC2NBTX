@@ -737,3 +737,4 @@
 {"command_id": "tg-85708296", "update_id": 85708296, "ts": 1791031786.2101877, "command": "/deldiscount MADKARIMIAN100"}
 {"command_id": "tg-85708298", "update_id": 85708298, "ts": 1791037170.2441335, "command": "/ack XLM_1H"}
 {"command_id": "tg-85708299", "update_id": 85708299, "ts": 1791037174.1342225, "command": "/ack BCH_1H"}
+{"command_id": "tg-85708303", "update_id": 85708303, "ts": 1791041567.78356, "command": "/fixprotection BTC_15M"}
