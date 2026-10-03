@@ -744,3 +744,4 @@
 {"command_id": "tg-85708313", "update_id": 85708313, "ts": 1791060552.0800312, "command": "/discounts"}
 {"command_id": "tg-85708319", "update_id": 85708319, "ts": 1791060629.7646027, "command": "/newdiscount Sahar1 50 all 1 0"}
 {"command_id": "tg-85708322", "update_id": 85708322, "ts": 1791060651.0318034, "command": "/listusers"}
+{"command_id": "tg-85708323", "update_id": 85708323, "ts": 1791060710.8303692, "command": "/user 7234639636"}
