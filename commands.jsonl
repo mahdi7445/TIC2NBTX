@@ -760,3 +760,4 @@
 {"command_id": "tg-85708344", "update_id": 85708344, "ts": 1791061653.2015038, "command": "/menu", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708346", "update_id": 85708346, "ts": 1791061734.5291705, "command": "/balance"}
 {"command_id": "tg-85708351", "update_id": 85708351, "ts": 1791064773.7808053, "command": "/start", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
+{"command_id": "tg-85708353", "update_id": 85708353, "ts": 1791065765.8878722, "command": "/positions"}
