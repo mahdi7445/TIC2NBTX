@@ -707,3 +707,4 @@
 {"command_id": "tg-85708249", "update_id": 85708249, "ts": 1791016178.2721152, "command": "/history"}
 {"command_id": "tg-85708250", "update_id": 85708250, "ts": 1791016221.310316, "command": "/pnl"}
 {"command_id": "tg-85708251", "update_id": 85708251, "ts": 1791023834.7043564, "command": "/ack BCH_1H"}
+{"command_id": "tg-85708252", "update_id": 85708252, "ts": 1791023841.3529375, "command": "/ack XLM_1H"}
