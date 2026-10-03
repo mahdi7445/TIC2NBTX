@@ -709,3 +709,4 @@
 {"command_id": "tg-85708251", "update_id": 85708251, "ts": 1791023834.7043564, "command": "/ack BCH_1H"}
 {"command_id": "tg-85708252", "update_id": 85708252, "ts": 1791023841.3529375, "command": "/ack XLM_1H"}
 {"command_id": "tg-85708255", "update_id": 85708255, "ts": 1791023913.3160524, "command": "/discounts"}
+{"command_id": "tg-85708261", "update_id": 85708261, "ts": 1791024003.6442158, "command": "/newdiscount Madkarimian100 99 all 2 0"}
