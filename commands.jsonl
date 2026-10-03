@@ -704,3 +704,4 @@
 {"command_id": "tg-85708239", "update_id": 85708239, "ts": 1790987605.6635146, "command": "/liqadd ETH_15M 0.44"}
 {"command_id": "tg-85708247", "update_id": 85708247, "ts": 1791015783.0573177, "command": "/status"}
 {"command_id": "tg-85708248", "update_id": 85708248, "ts": 1791016029.9044478, "command": "/positions"}
+{"command_id": "tg-85708249", "update_id": 85708249, "ts": 1791016178.2721152, "command": "/history"}
