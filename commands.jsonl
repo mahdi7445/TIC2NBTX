@@ -755,3 +755,4 @@
 {"command_id": "tg-85708336", "update_id": 85708336, "ts": 1791061302.3960016, "command": "/subscribe 30 toman", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708338", "update_id": 85708338, "ts": 1791061339.863754, "command": "/msguser 7234639636 سلام خیلی عالیه منم دوسش دارم"}
 {"command_id": "tg-85708340", "update_id": 85708340, "ts": 1791061421.15269, "command": "/paid P2 📷 تصویر رسید (در چت ربات برای ادمین فرستاده شد)", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
+{"command_id": "tg-85708341", "update_id": 85708341, "ts": 1791061465.341027, "command": "/confirmpayment P2"}
