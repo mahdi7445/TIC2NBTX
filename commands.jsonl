@@ -739,3 +739,4 @@
 {"command_id": "tg-85708299", "update_id": 85708299, "ts": 1791037174.1342225, "command": "/ack BCH_1H"}
 {"command_id": "tg-85708303", "update_id": 85708303, "ts": 1791041567.78356, "command": "/fixprotection BTC_15M"}
 {"command_id": "tg-85708307", "update_id": 85708307, "ts": 1791060418.0637038, "command": "/positions"}
+{"command_id": "tg-85708311", "update_id": 85708311, "ts": 1791060493.3680787, "command": "/listprices"}
