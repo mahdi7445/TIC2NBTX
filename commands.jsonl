@@ -746,3 +746,4 @@
 {"command_id": "tg-85708322", "update_id": 85708322, "ts": 1791060651.0318034, "command": "/listusers"}
 {"command_id": "tg-85708323", "update_id": 85708323, "ts": 1791060710.8303692, "command": "/user 7234639636"}
 {"command_id": "tg-85708324", "update_id": 85708324, "ts": 1791060758.7310734, "command": "/removeuser 7234639636"}
+{"command_id": "tg-85708325", "update_id": 85708325, "ts": 1791060821.104239, "command": "/removeuser 7234639636 yes"}
