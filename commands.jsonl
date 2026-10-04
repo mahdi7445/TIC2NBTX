@@ -766,3 +766,4 @@
 {"command_id": "tg-85708361", "update_id": 85708361, "ts": 1791105152.6667538, "command": "/start", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708363", "update_id": 85708363, "ts": 1791105648.083175, "command": "/balance"}
 {"command_id": "tg-85708366", "update_id": 85708366, "ts": 1791107954.963795, "command": "/liqsafe ETH_5M"}
+{"command_id": "tg-85708367", "update_id": 85708367, "ts": 1791107965.202096, "command": "/liqsafe ETH_5M"}
