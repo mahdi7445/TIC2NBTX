@@ -762,3 +762,4 @@
 {"command_id": "tg-85708351", "update_id": 85708351, "ts": 1791064773.7808053, "command": "/start", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708353", "update_id": 85708353, "ts": 1791065765.8878722, "command": "/positions"}
 {"command_id": "tg-85708359", "update_id": 85708359, "ts": 1791105075.2019007, "command": "/listusers"}
+{"command_id": "tg-85708360", "update_id": 85708360, "ts": 1791105103.7101505, "command": "/user 7234639636"}
