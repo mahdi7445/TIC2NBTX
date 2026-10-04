@@ -771,3 +771,4 @@
 {"command_id": "tg-85708374", "update_id": 85708374, "ts": 1791111550.5769992, "command": "/positions"}
 {"command_id": "tg-85708379", "update_id": 85708379, "ts": 1791112222.8514247, "command": "/liqsafe BTC_5M"}
 {"command_id": "tg-85708380", "update_id": 85708380, "ts": 1791112328.616333, "command": "/positions"}
+{"command_id": "tg-85708382", "update_id": 85708382, "ts": 1791112575.311109, "command": "/status"}
