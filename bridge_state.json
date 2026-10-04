@@ -1,6 +1,6 @@
 {
   "telegram_update_offset": 85708383,
-  "outbox_lines_sent": 862,
+  "outbox_lines_sent": 863,
   "thread_roots": {
     "BTC_5M": 893,
     "BCH_1H": 910,
@@ -42,10 +42,5 @@
   "executor_down_alerted": false,
   "wizard": {},
   "admin_kb_sent": true,
-  "pending": {
-    "378486866": {
-      "ts": 1791112575.3120296,
-      "mid": 6473
-    }
-  }
+  "pending": {}
 }
