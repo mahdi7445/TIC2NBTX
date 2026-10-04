@@ -39,7 +39,7 @@
     "ADA_1H": 4653,
     "XMR_1H": 6462
   },
-  "executor_down_alerted": true,
+  "executor_down_alerted": false,
   "wizard": {},
   "admin_kb_sent": true,
   "pending": {}
