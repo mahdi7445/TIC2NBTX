@@ -775,3 +775,4 @@
 {"command_id": "tg-85708385", "update_id": 85708385, "ts": 1791112713.4469078, "command": "/listusers"}
 {"command_id": "tg-85708386", "update_id": 85708386, "ts": 1791112751.8606732, "command": "/user 7234639636"}
 {"command_id": "tg-85708389", "update_id": 85708389, "ts": 1791112808.1048377, "command": "/discounts"}
+{"command_id": "tg-85708390", "update_id": 85708390, "ts": 1791112841.4634686, "command": "/deldiscount SAHAR1"}
