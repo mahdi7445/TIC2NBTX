@@ -783,3 +783,4 @@
 {"command_id": "tg-85708425", "update_id": 85708425, "ts": 1791234754.437993, "command": "/positions"}
 {"command_id": "tg-85708426", "update_id": 85708426, "ts": 1791267581.419838, "command": "/positions"}
 {"command_id": "tg-85708427", "update_id": 85708427, "ts": 1791267616.6994572, "command": "/closeall"}
+{"command_id": "tg-85708428", "update_id": 85708428, "ts": 1791267741.8788884, "command": "/closeall yes"}
