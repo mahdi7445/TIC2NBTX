@@ -1,6 +1,6 @@
 {
   "telegram_update_offset": 85708434,
-  "outbox_lines_sent": 897,
+  "outbox_lines_sent": 898,
   "thread_roots": {
     "BTC_5M": 893,
     "BCH_1H": 910,
@@ -60,6 +60,7 @@
     "3e4dbccd078644899a1e6304dcd9ef76",
     "c75dcc766a2644538ba61adf2fb74dbe",
     "0fd44075cf3749b180c071715955bbb1",
-    "7e953e98a707483d80933661d7c3e9af"
+    "7e953e98a707483d80933661d7c3e9af",
+    "31afb872916542d396d7cd89ef21ed57"
   ]
 }
