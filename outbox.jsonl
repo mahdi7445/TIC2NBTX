@@ -900,3 +900,4 @@
 {"ts": 1791284650.5344322, "text": "✅ حداکثر معاملات همزمان: 5", "buttons": [[{"text": "📋 منو", "callback_data": "menu"}]], "mid": "14599e56246e4cf9b18c2795287258aa"}
 {"ts": 1791284672.0121043, "text": "✅ Risk cap به 1 USDT تغییر کرد.", "buttons": [[{"text": "📋 منو", "callback_data": "menu"}]], "mid": "01e3ac22329346f4be5f8358607beabf"}
 {"ts": 1791284691.9468265, "text": "✅ Risk cap به 1 USDT تغییر کرد.", "buttons": [[{"text": "📋 منو", "callback_data": "menu"}]], "mid": "a37cef84f0a7499ba68b0f6aacb60bb4"}
+{"ts": 1791284711.180832, "text": "✅ سقف مارجین هر معامله به 1.5 USDT تغییر کرد.", "buttons": [[{"text": "📋 منو", "callback_data": "menu"}]], "mid": "8a9854cead5d423bb8d2f135f8a365f6"}
