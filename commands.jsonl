@@ -792,3 +792,4 @@
 {"command_id": "tg-85708447", "update_id": 85708447, "ts": 1791284677.9704337, "command": "/liqsafe BTC_15M"}
 {"command_id": "tg-85708448", "update_id": 85708448, "ts": 1791284692.2515693, "command": "/liqsafe BTC_15M"}
 {"command_id": "tg-85708449", "update_id": 85708449, "ts": 1791284730.2488215, "command": "/liqsafe BTC_15M"}
+{"command_id": "tg-85708450", "update_id": 85708450, "ts": 1791284787.871792, "command": "/liqadd BTC_15M 0.15"}
