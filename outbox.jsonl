@@ -915,3 +915,4 @@
 {"ts": 1791488050.6899793, "text": "🟢 Executor started (build 2026-10-06-r34)\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1\nLeverage preference=10x (sent as-is to Nobitex)\nGitHub=mahdi7445/TIC2NBTX", "mid": "dfcb367818874a5f9d0fee40e88b4dab"}
 {"ts": 1791488109.8611653, "text": "🚨 Executor after 50.2h downtime. Reconciliation started.", "mid": "50bcd87ce5a8403a9b17dc012d7ec7c8"}
 {"ts": 1791488123.9844239, "text": "🔄 Startup reconciliation: state=0, Nobitex active=0, pending_protection=0, needs_protection=0", "mid": "4de9c9e095234c9a8a81c76b28b401ba"}
+{"ts": 1791488139.564363, "text": "⚠️ رویداد target_hit برای NEAR_1H رسید ولی معامله‌ای در state باز نیست. اگر روی نوبیتکس پوزیشن باز دارید /recover را بزنید.", "key": "NEAR_1H", "buttons": [[{"text": "♻️ بازیابی پوزیشن‌های بی‌صاحب", "callback_data": "cmd:/recover"}]], "mid": "de29b3fcc269466c89f624dfddeab665"}
