@@ -916,3 +916,4 @@
 {"ts": 1791488109.8611653, "text": "🚨 Executor after 50.2h downtime. Reconciliation started.", "mid": "50bcd87ce5a8403a9b17dc012d7ec7c8"}
 {"ts": 1791488123.9844239, "text": "🔄 Startup reconciliation: state=0, Nobitex active=0, pending_protection=0, needs_protection=0", "mid": "4de9c9e095234c9a8a81c76b28b401ba"}
 {"ts": 1791488139.564363, "text": "⚠️ رویداد target_hit برای NEAR_1H رسید ولی معامله‌ای در state باز نیست. اگر روی نوبیتکس پوزیشن باز دارید /recover را بزنید.", "key": "NEAR_1H", "buttons": [[{"text": "♻️ بازیابی پوزیشن‌های بی‌صاحب", "callback_data": "cmd:/recover"}]], "mid": "de29b3fcc269466c89f624dfddeab665"}
+{"ts": 1791488153.2644634, "text": "⚠️ رویداد target_hit برای NEAR_1H رسید ولی معامله‌ای در state باز نیست. اگر روی نوبیتکس پوزیشن باز دارید /recover را بزنید.", "key": "NEAR_1H", "buttons": [[{"text": "♻️ بازیابی پوزیشن‌های بی‌صاحب", "callback_data": "cmd:/recover"}]], "mid": "533a92c6ea334aa3b5c05fa004e0a3f9"}
