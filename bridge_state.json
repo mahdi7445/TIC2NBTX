@@ -1,6 +1,6 @@
 {
   "telegram_update_offset": 85708479,
-  "outbox_lines_sent": 921,
+  "outbox_lines_sent": 922,
   "thread_roots": {
     "BTC_5M": 893,
     "BCH_1H": 910,
@@ -37,7 +37,8 @@
     "CRO_1H": 2992,
     "XRP_1H": 3016,
     "ADA_1H": 4653,
-    "XMR_1H": 6462
+    "XMR_1H": 6462,
+    "ETH_1H": 6585
   },
   "executor_down_alerted": false,
   "wizard": {},
@@ -84,6 +85,7 @@
     "de29b3fcc269466c89f624dfddeab665",
     "533a92c6ea334aa3b5c05fa004e0a3f9",
     "2bb92198e8a64a8587fa5352463d9500",
-    "89d5d5a69ece4001a002a43bac3359e9"
+    "89d5d5a69ece4001a002a43bac3359e9",
+    "4fa1fe06596f4ca1a5d428d0497f0360"
   ]
 }
