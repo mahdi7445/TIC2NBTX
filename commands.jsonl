@@ -797,3 +797,4 @@
 {"command_id": "tg-85708496", "update_id": 85708496, "ts": 1791538596.8432531, "command": "/start", "chat_id": "1421067626", "meta": {"first_name": "𝘼𝙈𝙄𝙉", "username": "Ppeeewwwww"}}
 {"command_id": "tg-85708497", "update_id": 85708497, "ts": 1791538794.0823915, "command": "/start", "chat_id": "1421067626", "meta": {"first_name": "𝘼𝙈𝙄𝙉", "username": "Ppeeewwwww"}}
 {"command_id": "tg-85708502", "update_id": 85708502, "ts": 1791545952.130395, "command": "/leverage 10"}
+{"command_id": "tg-85708504", "update_id": 85708504, "ts": 1791545999.525704, "command": "/maxtrades 15"}
