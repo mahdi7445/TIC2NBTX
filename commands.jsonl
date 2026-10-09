@@ -813,3 +813,4 @@
 {"command_id": "tg-85708526", "update_id": 85708526, "ts": 1791547249.426166, "command": "/msguser 1421067626 AMIN عزیز سلام، جهت استفاده از ربات ترید خودکار لطفاً اشتراک خریداری کرده و مراحل را تکمیل بفرمایید."}
 {"command_id": "tg-85708529", "update_id": 85708529, "ts": 1791555649.5172117, "command": "/start", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708531", "update_id": 85708531, "ts": 1791576684.3108761, "command": "/menu", "chat_id": "1421067626", "meta": {"first_name": "𝘼𝙈𝙄𝙉", "username": "Ppeeewwwww"}}
+{"command_id": "tg-85708536", "update_id": 85708536, "ts": 1791582118.8079207, "command": "/listusers"}
