@@ -42,7 +42,7 @@
     "TRX_1H": 6620,
     "NEAR_1M": 6706
   },
-  "executor_down_alerted": true,
+  "executor_down_alerted": false,
   "wizard": {},
   "admin_kb_sent": true,
   "pending": {},
