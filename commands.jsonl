@@ -802,3 +802,4 @@
 {"command_id": "tg-85708509", "update_id": 85708509, "ts": 1791546158.349972, "command": "/risk 1.5"}
 {"command_id": "tg-85708511", "update_id": 85708511, "ts": 1791546510.781528, "command": "/status"}
 {"command_id": "tg-85708514", "update_id": 85708514, "ts": 1791546603.938505, "command": "/listusers"}
+{"command_id": "tg-85708515", "update_id": 85708515, "ts": 1791546671.7430484, "command": "/user 1421067626"}
