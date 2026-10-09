@@ -800,3 +800,4 @@
 {"command_id": "tg-85708504", "update_id": 85708504, "ts": 1791545999.525704, "command": "/maxtrades 15"}
 {"command_id": "tg-85708506", "update_id": 85708506, "ts": 1791546071.4034793, "command": "/collateral 2"}
 {"command_id": "tg-85708509", "update_id": 85708509, "ts": 1791546158.349972, "command": "/risk 1.5"}
+{"command_id": "tg-85708511", "update_id": 85708511, "ts": 1791546510.781528, "command": "/status"}
