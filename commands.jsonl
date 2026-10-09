@@ -803,3 +803,4 @@
 {"command_id": "tg-85708511", "update_id": 85708511, "ts": 1791546510.781528, "command": "/status"}
 {"command_id": "tg-85708514", "update_id": 85708514, "ts": 1791546603.938505, "command": "/listusers"}
 {"command_id": "tg-85708515", "update_id": 85708515, "ts": 1791546671.7430484, "command": "/user 1421067626"}
+{"command_id": "tg-85708516", "update_id": 85708516, "ts": 1791546727.222539, "command": "/userautoexit 1421067626 off"}
