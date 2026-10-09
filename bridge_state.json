@@ -41,7 +41,7 @@
     "ETH_1H": 6585,
     "TRX_1H": 6620
   },
-  "executor_down_alerted": true,
+  "executor_down_alerted": false,
   "wizard": {},
   "admin_kb_sent": true,
   "pending": {},
