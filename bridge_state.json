@@ -43,12 +43,7 @@
   "executor_down_alerted": true,
   "wizard": {},
   "admin_kb_sent": true,
-  "pending": {
-    "1421067626": {
-      "ts": 1791538794.0830338,
-      "mid": 6612
-    }
-  },
+  "pending": {},
   "relayed_mids": [
     "b91b8017e6ef4a55a8541e1f21be6e10",
     "bb4912dfdfe24937b267497fe86d1233",
