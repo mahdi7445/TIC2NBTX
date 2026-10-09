@@ -794,3 +794,4 @@
 {"command_id": "tg-85708449", "update_id": 85708449, "ts": 1791284730.2488215, "command": "/liqsafe BTC_15M"}
 {"command_id": "tg-85708450", "update_id": 85708450, "ts": 1791284787.871792, "command": "/liqadd BTC_15M 0.15"}
 {"command_id": "tg-85708454", "update_id": 85708454, "ts": 1791299243.6014462, "command": "/balance"}
+{"command_id": "tg-85708496", "update_id": 85708496, "ts": 1791538596.8432531, "command": "/start", "chat_id": "1421067626", "meta": {"first_name": "𝘼𝙈𝙄𝙉", "username": "Ppeeewwwww"}}
