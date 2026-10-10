@@ -1,6 +1,6 @@
 {
   "telegram_update_offset": 85708585,
-  "outbox_lines_sent": 1035,
+  "outbox_lines_sent": 1036,
   "thread_roots": {
     "BTC_5M": 893,
     "BCH_1H": 910,
@@ -45,7 +45,7 @@
     "ENA_1H": 6768,
     "GMTUSDT_FWD": 6799
   },
-  "executor_down_alerted": false,
+  "executor_down_alerted": true,
   "wizard": {},
   "admin_kb_sent": true,
   "pending": {},
@@ -204,6 +204,7 @@
     "f64faf2497674bc0a79c23ee1a78ee31",
     "581aa99f9777487e92f9856a78329c64",
     "1367d717598d4c118a6b0b5d3164f224",
-    "7c2d66db8659494d99484a812a02521f"
+    "7c2d66db8659494d99484a812a02521f",
+    "ba3be9a0dac640219f8a484598c21c18"
   ]
 }
