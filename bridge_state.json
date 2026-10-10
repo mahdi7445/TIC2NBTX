@@ -45,7 +45,7 @@
     "ENA_1H": 6768,
     "GMTUSDT_FWD": 6799
   },
-  "executor_down_alerted": true,
+  "executor_down_alerted": false,
   "wizard": {},
   "admin_kb_sent": true,
   "pending": {},
