@@ -43,7 +43,7 @@
     "NEAR_1M": 6706,
     "BAT_1M": 6731
   },
-  "executor_down_alerted": false,
+  "executor_down_alerted": true,
   "wizard": {},
   "admin_kb_sent": true,
   "pending": {},
