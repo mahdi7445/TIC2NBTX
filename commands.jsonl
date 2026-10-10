@@ -820,3 +820,4 @@
 {"command_id": "tg-85708546", "update_id": 85708546, "ts": 1791587346.9253597, "command": "/positions"}
 {"command_id": "tg-85708556", "update_id": 85708556, "ts": 1791613057.4786072, "command": "/status"}
 {"command_id": "tg-85708565", "update_id": 85708565, "ts": 1791629783.2049887, "command": "/terms 2", "chat_id": "1421067626", "meta": {"first_name": "𝘼𝙈𝙄𝙉", "username": "Ppeeewwwww"}}
+{"command_id": "tg-85708568", "update_id": 85708568, "ts": 1791643056.4302566, "command": "/balance"}
