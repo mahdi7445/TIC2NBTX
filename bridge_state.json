@@ -1,5 +1,5 @@
 {
-  "telegram_update_offset": 85708686,
+  "telegram_update_offset": 85708687,
   "outbox_lines_sent": 1097,
   "thread_roots": {
     "BTC_5M": 893,
@@ -51,9 +51,11 @@
     "378486866": {
       "prompt": "setusdt",
       "arg": "",
-      "step": 0,
-      "answers": [],
-      "ts": 1791754108.694896
+      "step": 1,
+      "answers": [
+        "0xb284F3B9AC801bc552E36D76104953A5f4683cB3"
+      ],
+      "ts": 1791754121.206923
     }
   },
   "admin_kb_sent": true,
