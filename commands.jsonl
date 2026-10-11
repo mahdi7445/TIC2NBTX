@@ -839,3 +839,4 @@
 {"command_id": "tg-85708610", "update_id": 85708610, "ts": 1791729833.92449, "command": "/start", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708611", "update_id": 85708611, "ts": 1791729887.9035833, "command": "/menu", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
 {"command_id": "tg-85708612", "update_id": 85708612, "ts": 1791730264.1693099, "command": "/status"}
+{"command_id": "tg-85708623", "update_id": 85708623, "ts": 1791730770.3807654, "command": "/start", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
