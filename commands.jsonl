@@ -861,3 +861,4 @@
 {"command_id": "tg-85708674", "update_id": 85708674, "ts": 1791752933.0000858, "command": "/listprices"}
 {"command_id": "tg-85708675", "update_id": 85708675, "ts": 1791752963.2251687, "command": "/listprices"}
 {"command_id": "tg-85708678", "update_id": 85708678, "ts": 1791753289.9995463, "command": "/stopbuffer 0.1"}
+{"command_id": "tg-85708681", "update_id": 85708681, "ts": 1791753598.104165, "command": "/setusdt 0xb284F3B9AC801bc552E36D76104953A5f4683cB3 (BNBSmartChain)"}
