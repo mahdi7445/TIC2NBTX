@@ -46,7 +46,7 @@
     "GMTUSDT_FWD": 6799,
     "STRK_1M": 6823
   },
-  "executor_down_alerted": true,
+  "executor_down_alerted": false,
   "wizard": {},
   "admin_kb_sent": true,
   "pending": {
