@@ -837,3 +837,4 @@
 {"command_id": "tg-85708606", "update_id": 85708606, "ts": 1791729464.5713656, "command": "/trialdays"}
 {"command_id": "tg-85708607", "update_id": 85708607, "ts": 1791729521.8650937, "command": "/trialdays 5"}
 {"command_id": "tg-85708610", "update_id": 85708610, "ts": 1791729833.92449, "command": "/start", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
+{"command_id": "tg-85708611", "update_id": 85708611, "ts": 1791729887.9035833, "command": "/menu", "chat_id": "7234639636", "meta": {"first_name": "پشتیبانی آنلاین", "username": "Norrasupport"}}
