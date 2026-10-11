@@ -858,3 +858,4 @@
 {"command_id": "tg-85708665", "update_id": 85708665, "ts": 1791752564.3870597, "command": "/status"}
 {"command_id": "tg-85708667", "update_id": 85708667, "ts": 1791752655.5469637, "command": "/status"}
 {"command_id": "tg-85708668", "update_id": 85708668, "ts": 1791752803.624342, "command": "/status"}
+{"command_id": "tg-85708674", "update_id": 85708674, "ts": 1791752933.0000858, "command": "/listprices"}
