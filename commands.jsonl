@@ -831,3 +831,4 @@
 {"command_id": "tg-85708580", "update_id": 85708580, "ts": 1791652670.55857, "command": "/status"}
 {"command_id": "tg-85708583", "update_id": 85708583, "ts": 1791653175.0867457, "command": "/fwdsignal b64:aHR0cHM6Ly93d3cudHJhZGluZ3ZpZXcuY29tL3gvd3RWTGN6OFcvCkdNVCBCVVkgTElNSVQgTEVWIDJYIApFTlRSWSAwLjAwODI2MSAKVEFSR0VUIDogMC4wMDkwMjMKU1RPUCA6IDAuMDA3NQ=="}
 {"command_id": "tg-85708594", "update_id": 85708594, "ts": 1791682534.6402054, "command": "/positions"}
+{"command_id": "tg-85708596", "update_id": 85708596, "ts": 1791682572.4021316, "command": "/listusers"}
