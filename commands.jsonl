@@ -844,3 +844,4 @@
 {"command_id": "tg-85708627", "update_id": 85708627, "ts": 1791733909.8848448, "command": "/balance"}
 {"command_id": "tg-85708631", "update_id": 85708631, "ts": 1791733969.0232291, "command": "/pnl"}
 {"command_id": "tg-85708632", "update_id": 85708632, "ts": 1791734112.4773352, "command": "/pnl"}
+{"command_id": "tg-85708633", "update_id": 85708633, "ts": 1791734214.785669, "command": "/pnl"}
