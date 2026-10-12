@@ -869,3 +869,4 @@
 {"command_id": "tg-85708699", "update_id": 85708699, "ts": 1791786208.3489969, "command": "/colall pct 10"}
 {"command_id": "tg-85708700", "update_id": 85708700, "ts": 1791786250.981438, "command": "/colall pct 10 yes"}
 {"command_id": "tg-85708701", "update_id": 85708701, "ts": 1791786350.301764, "command": "/colall pct 10 yes"}
+{"command_id": "tg-85708702", "update_id": 85708702, "ts": 1791786428.2414591, "command": "/colall pct 10 yes"}
