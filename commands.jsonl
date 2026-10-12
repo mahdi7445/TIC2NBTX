@@ -876,3 +876,4 @@
 {"command_id": "tg-85708725", "update_id": 85708725, "ts": 1791800725.8903182, "command": "/pnl"}
 {"command_id": "tg-85708728", "update_id": 85708728, "ts": 1791800782.097944, "command": "/listusers"}
 {"command_id": "tg-85708729", "update_id": 85708729, "ts": 1791800803.951708, "command": "/user 7234639636"}
+{"command_id": "tg-85708730", "update_id": 85708730, "ts": 1791800827.0383394, "command": "/removeuser 7234639636"}
