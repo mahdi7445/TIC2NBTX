@@ -866,3 +866,4 @@
 {"command_id": "tg-85708687", "update_id": 85708687, "ts": 1791754154.3300078, "command": "/setusdt 0xb284F3B9AC801bc552E36D76104953A5f4683cB3 BNBSmartChain"}
 {"command_id": "tg-85708696", "update_id": 85708696, "ts": 1791785933.4774275, "command": "/colall"}
 {"command_id": "tg-85708698", "update_id": 85708698, "ts": 1791786083.7161262, "command": "/colall pct 10"}
+{"command_id": "tg-85708699", "update_id": 85708699, "ts": 1791786208.3489969, "command": "/colall pct 10"}
