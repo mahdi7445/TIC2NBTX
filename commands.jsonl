@@ -888,3 +888,4 @@
 {"command_id": "tg-85708750", "update_id": 85708750, "ts": 1791818091.7322469, "command": "/status"}
 {"command_id": "tg-85708758", "update_id": 85708758, "ts": 1791846031.2518594, "command": "/status"}
 {"command_id": "tg-85708762", "update_id": 85708762, "ts": 1791879452.3160734, "command": "/status"}
+{"command_id": "tg-85708782", "update_id": 85708782, "ts": 1791987622.80514, "command": "/liqsafe BTC_5M"}
