@@ -908,3 +908,4 @@
 {"command_id": "tg-85708841", "update_id": 85708841, "ts": 1792069058.7020519, "command": "/connect_enc gAAAAABq0M20VwMSMcfNXbn9F94x04MfcNIDbBrxtvjSINd1IszET_xTUHJxCeRktQZhGPOaIAAw5Vk3mdQ7UVJST9OWnH89EWOX3E9g5xuc7EyF956gnyJPq5tQoVbf4oRvToyPu2QF gAAAAABq0M3C_B7n0dgE7clG_bkubFQa7lXNoKu4q0qH8Ya03bskUTu6aha0ZN8a7BHuKRkPSA1YIyGdkYYmkyfLVNfhMxukYy9Ox7SaYrpPzvgL4e3rSMHbNYsROFnLgQ7Z5VdH1qpC", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
 {"command_id": "tg-85708842", "update_id": 85708842, "ts": 1792070113.1388931, "command": "/user 156056127"}
 {"command_id": "tg-85708851", "update_id": 85708851, "ts": 1792095805.4967833, "command": "/liqsafe BTC_1H"}
+{"command_id": "tg-85708852", "update_id": 85708852, "ts": 1792095825.6042125, "command": "/liqadd BTC_1H 0.58"}
