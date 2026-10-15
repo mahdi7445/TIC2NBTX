@@ -20,3 +20,4 @@
 {"ts": 1792063654.2328074, "text": "🟢 Executor started (build 2026-10-06-r34)\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1.5\nLeverage preference=10x (sent as-is to Nobitex)\nGitHub=mahdi7445/TIC2NBTX", "mid": "105bc21524814d538d94345b39dae63f"}
 {"ts": 1792063660.925077, "text": "🔄 Startup reconciliation: state=0, Nobitex active=0, pending_protection=0, needs_protection=0", "mid": "8a369f30e17c4519baa1867bfbfb361d"}
 {"ts": 1792065615.869259, "text": "❌ ZAMA_1M: بازار تعهدی/جهت موردنظر در نوبیتکس فعال نیست.", "key": "ZAMA_1M", "mid": "b2b139f510be42aaaabf486ffed5874f"}
+{"ts": 1792065763.9885173, "text": "⚠️ رویداد target_hit برای ZAMA_1M رسید ولی معامله‌ای در state باز نیست. اگر روی نوبیتکس پوزیشن باز دارید /recover را بزنید.", "key": "ZAMA_1M", "buttons": [[{"text": "♻️ بازیابی پوزیشن‌های بی‌صاحب", "callback_data": "cmd:/recover"}]], "mid": "695e48e6e9ed4416b89bc507a55d8853"}
