@@ -894,3 +894,4 @@
 {"command_id": "tg-85708788", "update_id": 85708788, "ts": 1791992238.5870397, "command": "/liqadd ETH_5M 0.56"}
 {"command_id": "tg-85708808", "update_id": 85708808, "ts": 1792057390.437631, "command": "/pnl"}
 {"command_id": "tg-85708811", "update_id": 85708811, "ts": 1792057588.4051752, "command": "/listusers"}
+{"command_id": "tg-85708813", "update_id": 85708813, "ts": 1792058991.2337756, "command": "/start", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
