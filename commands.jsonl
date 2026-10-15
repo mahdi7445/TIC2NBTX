@@ -932,3 +932,4 @@
 {"command_id": "tg-85708883", "update_id": 85708883, "ts": 1792108456.5332668, "command": "/removeuser 1421067626"}
 {"command_id": "tg-85708884", "update_id": 85708884, "ts": 1792108496.352029, "command": "/removeuser 1421067626 yes"}
 {"command_id": "tg-85708887", "update_id": 85708887, "ts": 1792108652.531462, "command": "/status"}
+{"command_id": "tg-85708888", "update_id": 85708888, "ts": 1792108676.6206846, "command": "/positions"}
