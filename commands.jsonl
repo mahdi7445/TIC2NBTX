@@ -911,3 +911,4 @@
 {"command_id": "tg-85708852", "update_id": 85708852, "ts": 1792095825.6042125, "command": "/liqadd BTC_1H 0.58"}
 {"command_id": "tg-85708853", "update_id": 85708853, "ts": 1792095830.3283143, "command": "/liqsafe ETH_1H"}
 {"command_id": "tg-85708854", "update_id": 85708854, "ts": 1792095856.332938, "command": "/liqadd ETH_1H 0.70"}
+{"command_id": "tg-85708855", "update_id": 85708855, "ts": 1792095888.400261, "command": "/positions"}
