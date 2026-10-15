@@ -923,3 +923,4 @@
 {"command_id": "tg-85708874", "update_id": 85708874, "ts": 1792108177.354785, "command": "/user 156056127"}
 {"command_id": "tg-85708875", "update_id": 85708875, "ts": 1792108257.6505268, "command": "/removeuser 156056127"}
 {"command_id": "tg-85708876", "update_id": 85708876, "ts": 1792108288.062071, "command": "/removeuser 156056127 yes"}
+{"command_id": "tg-85708877", "update_id": 85708877, "ts": 1792108302.9294696, "command": "/listusers"}
