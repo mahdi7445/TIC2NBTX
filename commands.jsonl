@@ -901,3 +901,4 @@
 {"command_id": "tg-85708821", "update_id": 85708821, "ts": 1792059889.0511699, "command": "/connect_enc gAAAAABq0Knk3WNDnQpisifNV6hAzgDd5SoLO0lBtK_Aqv5ffemtY0AghmOwHeWWJrIhPBbyO7iyeeIsd0NgYWF3swFGLiVhA1PAfXjXvI2Yo5hQwRLisa0z52gOy1qnXld_TtvoiNUu gAAAAABq0KnxDYOH1_wpd1Gg8_VHY-6js-attvGP9KPFLZyi6rKO1XLRAYxbJTAY0v3q3TUkgb_tae_3gcO_WueKedzp3a8zBFKbDnZdyf2rjgSM0_4-eetr0RqaPsd1XQwROSBnImOh", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
 {"command_id": "tg-85708823", "update_id": 85708823, "ts": 1792060227.2226853, "command": "/refreward"}
 {"command_id": "tg-85708824", "update_id": 85708824, "ts": 1792060269.1163547, "command": "/refreward 3"}
+{"command_id": "tg-85708825", "update_id": 85708825, "ts": 1792060296.5119145, "command": "/refreward - 0"}
