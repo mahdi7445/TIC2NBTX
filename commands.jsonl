@@ -892,3 +892,4 @@
 {"command_id": "tg-85708783", "update_id": 85708783, "ts": 1791987662.2079375, "command": "/liqadd BTC_5M 0.93"}
 {"command_id": "tg-85708787", "update_id": 85708787, "ts": 1791992199.4405966, "command": "/liqsafe ETH_5M"}
 {"command_id": "tg-85708788", "update_id": 85708788, "ts": 1791992238.5870397, "command": "/liqadd ETH_5M 0.56"}
+{"command_id": "tg-85708808", "update_id": 85708808, "ts": 1792057390.437631, "command": "/pnl"}
