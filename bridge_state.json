@@ -1,5 +1,5 @@
 {
-  "telegram_update_offset": 85708817,
+  "telegram_update_offset": 85708818,
   "outbox_lines_sent": 14,
   "thread_roots": {
     "BTC_5M": 893,
@@ -53,9 +53,11 @@
     "156056127": {
       "prompt": "apikey",
       "arg": "",
-      "step": 0,
-      "answers": [],
-      "ts": 1792059748.9207518
+      "step": 1,
+      "answers": [
+        "gAAAAABq0KmFJYPVL-w5cobWbM6VsSjuzbu9nISnmGXK4jnxS3dAsRj_YLItSq384waet0mYGgZKNfnNScWwGgBv0ohEsnW2gE-BPuI4KoinRxyBs7EwOTt6j6fgC6Ha-4HHXkKjOCkG"
+      ],
+      "ts": 1792059781.7299478
     }
   },
   "admin_kb_sent": true,
