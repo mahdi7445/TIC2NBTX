@@ -903,3 +903,4 @@
 {"command_id": "tg-85708824", "update_id": 85708824, "ts": 1792060269.1163547, "command": "/refreward 3"}
 {"command_id": "tg-85708825", "update_id": 85708825, "ts": 1792060296.5119145, "command": "/refreward - 0"}
 {"command_id": "tg-85708832", "update_id": 85708832, "ts": 1792068748.4949825, "command": "/start", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
+{"command_id": "tg-85708835", "update_id": 85708835, "ts": 1792068803.6935408, "command": "/connect_enc gAAAAABq0My2SUpOel21eT-JHS-CZVBgdAOvCX3KZggdLMjIpaSOYJI7yQqMjC-rNHBFp1hSUiNK6m83arWTqcQ4I_mG3fZ52gQZDKk74AZcEcGzjucstZZBRmPHcNx7cV_XfWyCwvCE gAAAAABq0MzDqOgLXy8y0w5eVEb8M8V5cRVsQKEmJG1gdIFuWcTeYR9JywPcmhQkEq0z4tXEM891a23lgAfw1_fARwSPTstdP1cxNmygOc-XrUbpTh69N1aBGQC4_AW7UBkFiwHEZGD4", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
