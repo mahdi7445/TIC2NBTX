@@ -913,3 +913,4 @@
 {"command_id": "tg-85708854", "update_id": 85708854, "ts": 1792095856.332938, "command": "/liqadd ETH_1H 0.70"}
 {"command_id": "tg-85708855", "update_id": 85708855, "ts": 1792095888.400261, "command": "/positions"}
 {"command_id": "tg-85708862", "update_id": 85708862, "ts": 1792105639.2081196, "command": "/listusers"}
+{"command_id": "tg-85708863", "update_id": 85708863, "ts": 1792105931.239301, "command": "/listusers"}
