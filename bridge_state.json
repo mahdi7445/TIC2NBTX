@@ -1,5 +1,5 @@
 {
-  "telegram_update_offset": 85708839,
+  "telegram_update_offset": 85708840,
   "outbox_lines_sent": 29,
   "thread_roots": {
     "BTC_5M": 893,
@@ -50,7 +50,15 @@
     "ZAMA_1M": 7238
   },
   "executor_down_alerted": false,
-  "wizard": {},
+  "wizard": {
+    "156056127": {
+      "prompt": "apikey",
+      "arg": "",
+      "step": 0,
+      "answers": [],
+      "ts": 1792069036.830598
+    }
+  },
   "admin_kb_sent": true,
   "pending": {},
   "relayed_mids": [
