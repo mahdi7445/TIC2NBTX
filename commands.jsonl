@@ -902,3 +902,4 @@
 {"command_id": "tg-85708823", "update_id": 85708823, "ts": 1792060227.2226853, "command": "/refreward"}
 {"command_id": "tg-85708824", "update_id": 85708824, "ts": 1792060269.1163547, "command": "/refreward 3"}
 {"command_id": "tg-85708825", "update_id": 85708825, "ts": 1792060296.5119145, "command": "/refreward - 0"}
+{"command_id": "tg-85708832", "update_id": 85708832, "ts": 1792068748.4949825, "command": "/start", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
