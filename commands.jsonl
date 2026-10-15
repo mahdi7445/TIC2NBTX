@@ -895,3 +895,4 @@
 {"command_id": "tg-85708808", "update_id": 85708808, "ts": 1792057390.437631, "command": "/pnl"}
 {"command_id": "tg-85708811", "update_id": 85708811, "ts": 1792057588.4051752, "command": "/listusers"}
 {"command_id": "tg-85708813", "update_id": 85708813, "ts": 1792058991.2337756, "command": "/start", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
+{"command_id": "tg-85708814", "update_id": 85708814, "ts": 1792059158.5182617, "command": "/terms 2", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
