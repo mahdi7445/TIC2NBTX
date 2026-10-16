@@ -939,3 +939,4 @@
 {"command_id": "tg-85708897", "update_id": 85708897, "ts": 1792147950.2386801, "command": "/connect_enc gAAAAABq0gHenSO58WKKxMXv0hIShW3WBghFM851GoI-RAs9ga6LPqTcHq7jCKbChb8cbCOdRia4_PsesJVdrQ8n5d3RSIc__z_V7AgXQszwK2wC-3kj7XAyBiCiefa-6pQX6jQzWaW1 gAAAAABq0gHu7AGdXpYQdO9ma-zF47Qjd1go3P27Zm3h5yu72bOMmE1evfccrw26x3wacUejWfBQuKjZzUZnQNNqZEwscRQVFV7raDieYX3DauoB8WO_dlp6nhUWCYLqhO2H7foWLad5", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
 {"command_id": "tg-85708898", "update_id": 85708898, "ts": 1792148027.3953743, "command": "/rec", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
 {"command_id": "tg-85708899", "update_id": 85708899, "ts": 1792148192.2436082, "command": "/myrecapply 15", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
+{"command_id": "tg-85708900", "update_id": 85708900, "ts": 1792148259.7438915, "command": "/user 156056127"}
