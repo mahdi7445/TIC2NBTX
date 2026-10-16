@@ -942,3 +942,4 @@
 {"command_id": "tg-85708900", "update_id": 85708900, "ts": 1792148259.7438915, "command": "/user 156056127"}
 {"command_id": "tg-85708901", "update_id": 85708901, "ts": 1792148343.7750356, "command": "/help", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
 {"command_id": "tg-85708902", "update_id": 85708902, "ts": 1792148411.774849, "command": "/help sub", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
+{"command_id": "tg-85708903", "update_id": 85708903, "ts": 1792148489.7935395, "command": "/mypnl", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
