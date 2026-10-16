@@ -947,3 +947,4 @@
 {"command_id": "tg-85708908", "update_id": 85708908, "ts": 1792155557.5226965, "command": "/start", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
 {"command_id": "tg-85708909", "update_id": 85708909, "ts": 1792155583.8301039, "command": "/mysettings", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
 {"command_id": "tg-85708910", "update_id": 85708910, "ts": 1792155604.0583045, "command": "/menu", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
+{"command_id": "tg-85708911", "update_id": 85708911, "ts": 1792155620.3521118, "command": "/more", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
