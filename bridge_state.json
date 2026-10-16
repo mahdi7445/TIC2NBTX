@@ -1,5 +1,5 @@
 {
-  "telegram_update_offset": 85708897,
+  "telegram_update_offset": 85708898,
   "outbox_lines_sent": 87,
   "thread_roots": {
     "BTC_5M": 893,
@@ -50,17 +50,7 @@
     "ZAMA_1M": 7238
   },
   "executor_down_alerted": false,
-  "wizard": {
-    "156056127": {
-      "prompt": "apikey",
-      "arg": "",
-      "step": 1,
-      "answers": [
-        "gAAAAABq0gHenSO58WKKxMXv0hIShW3WBghFM851GoI-RAs9ga6LPqTcHq7jCKbChb8cbCOdRia4_PsesJVdrQ8n5d3RSIc__z_V7AgXQszwK2wC-3kj7XAyBiCiefa-6pQX6jQzWaW1"
-      ],
-      "ts": 1792147934.649921
-    }
-  },
+  "wizard": {},
   "admin_kb_sent": true,
   "pending": {},
   "relayed_mids": [
