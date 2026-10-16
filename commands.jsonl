@@ -945,3 +945,4 @@
 {"command_id": "tg-85708903", "update_id": 85708903, "ts": 1792148489.7935395, "command": "/mypnl", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
 {"command_id": "tg-85708904", "update_id": 85708904, "ts": 1792148504.3968656, "command": "/menu", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
 {"command_id": "tg-85708908", "update_id": 85708908, "ts": 1792155557.5226965, "command": "/start", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
+{"command_id": "tg-85708909", "update_id": 85708909, "ts": 1792155583.8301039, "command": "/mysettings", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
