@@ -940,3 +940,4 @@
 {"command_id": "tg-85708898", "update_id": 85708898, "ts": 1792148027.3953743, "command": "/rec", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
 {"command_id": "tg-85708899", "update_id": 85708899, "ts": 1792148192.2436082, "command": "/myrecapply 15", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
 {"command_id": "tg-85708900", "update_id": 85708900, "ts": 1792148259.7438915, "command": "/user 156056127"}
+{"command_id": "tg-85708901", "update_id": 85708901, "ts": 1792148343.7750356, "command": "/help", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
