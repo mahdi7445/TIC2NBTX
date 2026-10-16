@@ -951,3 +951,4 @@
 {"command_id": "tg-85708912", "update_id": 85708912, "ts": 1792155642.6422334, "command": "/mysignal", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
 {"command_id": "tg-85708913", "update_id": 85708913, "ts": 1792155677.4254954, "command": "/menu", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
 {"command_id": "tg-85708916", "update_id": 85708916, "ts": 1792159561.9441628, "command": "/liqsafe SOL_5M"}
+{"command_id": "tg-85708917", "update_id": 85708917, "ts": 1792159580.0778823, "command": "/liqadd SOL_5M 0.60"}
