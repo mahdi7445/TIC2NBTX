@@ -934,3 +934,4 @@
 {"command_id": "tg-85708887", "update_id": 85708887, "ts": 1792108652.531462, "command": "/status"}
 {"command_id": "tg-85708888", "update_id": 85708888, "ts": 1792108676.6206846, "command": "/positions"}
 {"command_id": "tg-85708892", "update_id": 85708892, "ts": 1792147857.5086515, "command": "/start", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
+{"command_id": "tg-85708893", "update_id": 85708893, "ts": 1792147876.733945, "command": "/terms 2", "chat_id": "156056127", "meta": {"first_name": "Mad", "username": "ikarimian"}}
