@@ -128,3 +128,4 @@
 {"ts": 1792170572.9807465, "text": "❌ INJ_1M: بازار تعهدی/جهت موردنظر در نوبیتکس فعال نیست.", "key": "INJ_1M", "mid": "a76c51ab5e9f45509fa1fb460524074d"}
 {"ts": 1792170705.6278517, "text": "⚠️ رویداد stop برای INJ_1M رسید ولی معامله‌ای در state باز نیست. اگر روی نوبیتکس پوزیشن باز دارید /recover را بزنید.", "key": "INJ_1M", "buttons": [[{"text": "♻️ بازیابی پوزیشن‌های بی‌صاحب", "callback_data": "cmd:/recover"}]], "mid": "36157d3ff518453d9474c2d766adadf2"}
 {"ts": 1792221845.9577718, "text": "🟢 Executor started (build 2026-10-06-r34)\nNobitex=https://apiv2.nobitex.ir\nRisk cap=$1.5\nLeverage preference=10x (sent as-is to Nobitex)\nGitHub=mahdi7445/TIC2NBTX", "mid": "2753926b7d0744e0b949536584f10c7c"}
+{"ts": 1792221852.8561857, "text": "🔄 Startup reconciliation: state=0, Nobitex active=0, pending_protection=0, needs_protection=0", "mid": "183c015615204e639e4ae28d50990e22"}
