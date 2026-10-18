@@ -49,7 +49,7 @@
     "SOL_4H": 7178,
     "ZAMA_1M": 7238
   },
-  "executor_down_alerted": true,
+  "executor_down_alerted": false,
   "wizard": {},
   "admin_kb_sent": true,
   "pending": {},
