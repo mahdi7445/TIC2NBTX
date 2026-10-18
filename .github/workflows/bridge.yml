@@ -10,7 +10,7 @@ permissions:
   actions: write      # lets the relay queue its own next run (unchanged)
 
 concurrency:
-  group: telegram-github-relay
+  group: telegram-github-relay-2
   cancel-in-progress: false
 
 jobs:
